@@ -1,0 +1,12 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "🌿 Ragy Notes 📚",
+    "description": "Recent content on 🌿 Ragy Notes 📚",
+    "home_page_url": "https://ragynotes.github.io",
+    "feed_url": "https://ragynotes.github.io/index.json",
+    "language": "en-us",
+    "icon": "https://ragynotes.github.io/apple-touch-icon.png",
+    "favicon": "https://ragynotes.github.io/apple-touch-icon.png",
+    "items": [
+        ]
+}
