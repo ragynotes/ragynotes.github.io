@@ -88,17 +88,20 @@ section = [ "HTML", "RSS", "JSON" ]
 		# "Advertisement",
 		# "Legislation and legal proceeding"
 		# "Book"
-	
+		# "None"
+	pubtopic = "Publication topic"	
+		#examples:
+		# "Ethnobotany",
+		# "Taxonomy and botany",
+		# "Legislation",
+		# "Social issues",
+		# "Stigmatized drug use and addiction",
+		# "Money and wealth"
+		# "Religion",
+		# "Morality"
+		# "None"
 
 
-# "Ethnobotany",
-# "Taxonomy and botany",
-# "Legislation",
-# "Social issues",
-# "Stigmatized drug use and addiction",
-# "Money and wealth"
-# "Religion",
-# "Morality"
 
 
  
