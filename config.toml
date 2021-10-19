@@ -1,7 +1,7 @@
 title = "🌿 Ragy Notes 📚"
 baseURL = "https://ragynotes.github.io"
 languageCode = "en-us"
-# theme = "zen"
+theme = "zen"
 # themesDir = "../.."
 # resourceDir = "../resources"
 
