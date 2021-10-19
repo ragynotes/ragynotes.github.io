@@ -77,11 +77,31 @@ section = [ "HTML", "RSS", "JSON" ]
 
 [taxonomies]
   category = 'categories'
-  series = 'series'
   tag = 'tags'
 
+	pubyear = "Publication year"
+	pubformat = "Publication format"
+		#examples:
+		# "Scientific journal"
+		# "Government document",
+		# "Popular periodical",
+		# "Advertisement",
+		# "Legislation and legal proceeding"
+		# "Book"
+	
+
+
+# "Ethnobotany",
+# "Taxonomy and botany",
+# "Legislation",
+# "Social issues",
+# "Stigmatized drug use and addiction",
+# "Money and wealth"
+# "Religion",
+# "Morality"
 
 
 
-enableEmoji =  "true "
+
+enableEmoji =  "true"
 enableGitInfo =  "enableGitInfo "

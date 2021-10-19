@@ -15,7 +15,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ragynotes.github.io/series/</loc>
+    <loc>https://ragynotes.github.io/publication-format/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://ragynotes.github.io/publication-year/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -23,7 +27,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ragynotes.github.io/true-/</loc>
+    <loc>https://ragynotes.github.io/true/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
