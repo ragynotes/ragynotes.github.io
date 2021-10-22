@@ -1,6 +1,15 @@
 ---
-lastmod: '2021-10-19T07:20:22.104Z'
-title: '“Biak”: An Opium Substitute - Journal of the Federated Malay States Museums'
+lastmod: '2021-10-19T07:09:37.428Z'
+
+title: "'Biak': An Opium Substitute - Journal of the Federated Malay States Museums ZZZ"
+originalyear: 1906
+originalformat: Newspaper article
+
+tags:
+  - Internet Archive
+  - re-OCR
+  - PDF
+
 ---
 
 source: [v.2 (1906-1909) - Journal of the Federated Malay States Museums. - Biodiversity Heritage Library](https://www.biodiversitylibrary.org/item/62878#page/65/mode/1up) pg 53 Vol2, No. 2 1906

@@ -76,11 +76,11 @@ home = [ "HTML", "RSS", "JSON", "SearchIndex" ]
 section = [ "HTML", "RSS", "JSON" ]
 
 [taxonomies]
-  category = 'categories'
-  tag = 'tags'
+	category = "categories"
+	tag = "tags"
 
-	pubyear = "Publication year"
-	pubformat = "Publication format"
+	originalyear = "Publication year"
+	originalformat = "Publication format"
 		#examples:
 		# "Scientific journal"
 		# "Government document",
@@ -89,7 +89,7 @@ section = [ "HTML", "RSS", "JSON" ]
 		# "Legislation and legal proceeding"
 		# "Book"
 		# "None"
-	pubtopic = "Publication topic"	
+	originaltopic = "Publication topic"	
 		#examples:
 		# "Ethnobotany",
 		# "Taxonomy and botany",
@@ -101,10 +101,59 @@ section = [ "HTML", "RSS", "JSON" ]
 		# "Morality"
 		# "None"
 
-
-
-
- 
-
 enableEmoji =  "true"
 enableGitInfo =  "enableGitInfo "
+
+[markup]
+	defaultMarkdownHandler = "goldmark"
+	
+	[markup.asciidocExt]
+		backend = "html5"
+		extensions = []
+		failureLevel = "fatal"
+		noHeaderOrFooter = true
+		preserveTOC = false
+		sectionNumbers = true
+		trace = false
+		verbose = false
+		workingFolderCurrent = false
+
+[markup.goldmark]
+	[markup.goldmark.extensions]
+		definitionList = true
+		footnote = true
+		linkify = true
+		strikethrough = true
+		table = true
+		taskList = true
+		typographer = true
+
+	[markup.goldmark.parser]
+		autoHeadingID = true
+		autoHeadingIDType = "github"
+		[markup.goldmark.parser.attribute]
+			block = false
+			title = true
+
+	[markup.goldmark.renderer]
+		hardWraps = false
+		unsafe = false
+		xhtml = false
+
+	[markup.highlight]
+		codeFences = true
+		guessSyntax = true
+
+	[markup.tableOfContents]
+		endLevel = 3
+		ordered = true
+		startLevel = 2
+
+
+
+
+
+
+
+
+
