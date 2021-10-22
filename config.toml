@@ -64,6 +64,9 @@ avatar = "https://avatars.githubusercontent.com/u/88959296"
   # instagram = ""
   # youtube = ""
 
+[mediaTypes]
+[mediaTypes."text/bibtext"]
+suffixes = ["bib"]
 
 [outputFormats.SearchIndex]
 mediaType = "application/json"
@@ -106,17 +109,6 @@ enableGitInfo =  "enableGitInfo "
 
 [markup]
 	defaultMarkdownHandler = "goldmark"
-	
-	[markup.asciidocExt]
-		backend = "html5"
-		extensions = []
-		failureLevel = "fatal"
-		noHeaderOrFooter = true
-		preserveTOC = false
-		sectionNumbers = true
-		trace = false
-		verbose = false
-		workingFolderCurrent = false
 
 [markup.goldmark]
 	[markup.goldmark.extensions]
@@ -149,8 +141,19 @@ enableGitInfo =  "enableGitInfo "
 		ordered = true
 		startLevel = 2
 
-
-
+	[markup.asciidocExt]
+		backend = 'html5'
+		extensions = ["asciidoctor-bibtex"]
+			# Possible extensions are asciidoctor-html5s, asciidoctor-bibtex, asciidoctor-diagram, asciidoctor-interdoc-reftext, asciidoctor-katex, asciidoctor-latex, asciidoctor-mathematical, asciidoctor-question, asciidoctor-rouge.
+		failureLevel = 'fatal'
+		noHeaderOrFooter = true
+		preserveTOC = true
+		safeMode = 'unsafe'
+		sectionNumbers = false
+		trace = false
+		verbose = false
+		workingFolderCurrent = false
+		[markup.asciidocExt.attributes]
 
 
 
