@@ -1,0 +1,35 @@
+---
+references:
+- id: 1906l.wrayBiakOpiumSubstitute
+  abstract: Fleming Collection; 14 29
+  accessed:
+    - year: 2021
+      month: 10
+      day: 22
+  archive: University of Toronto - Gerstein Science Information Centre
+  author:
+    - literal: L. Wray
+  call-number: AHD-9604
+  container-author:
+    - family: Federated Malay States
+      given: ''
+    - family: Museum
+      given: Perak State
+    - family: Museum
+      given: Selangor State
+  container-title: Journal of the Federated Malay States museums
+  event-place: Kuala Lumpur
+  issued:
+    - year: 1906
+    - year: 1929
+  language: eng
+  number-of-volumes: '10'
+  page: 53-56
+  publisher: 'Kuala Lumpur : F.M.S. Museums'
+  publisher-place: Kuala Lumpur
+  source: Internet Archive
+  title: '“Biak”: An Opium Substitute'
+  type: chapter
+  URL: http://archive.org/details/journaloffederat02fedeuoft
+  volume: '2'
+...

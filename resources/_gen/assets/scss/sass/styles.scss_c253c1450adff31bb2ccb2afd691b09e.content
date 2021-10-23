@@ -470,7 +470,10 @@ menu {
 
 .header__site-name {
   margin: 0;
-  display: inline-block; }
+  display: inline-block;
+  border: 5px pink solid;
+  background-color: yellow;
+  display: none; }
 
 .header__site-link:link, .header__site-link:visited {
   color: #000;

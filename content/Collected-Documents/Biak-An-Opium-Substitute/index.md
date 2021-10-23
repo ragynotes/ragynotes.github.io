@@ -9,8 +9,41 @@ tags:
   - Internet Archive
   - re-OCR
   - PDF
-
 ---
+
+## Where did it come from?
+
+Year of original publication: {{< param originalyear >}}
+
+Format of original publication:  {{< param originalformat >}}
+
+
+
+
+
+
+
+
+
+
+
+oilw
+
+### Notes on modifications and changes made
+
+
+
+## Commentary
+
+none
+
+### See also
+
+none
+
+## Text of document
+
+
 
 source: [v.2 (1906-1909) - Journal of the Federated Malay States Museums. - Biodiversity Heritage Library](https://www.biodiversitylibrary.org/item/62878#page/65/mode/1up) pg 53 Vol2, No. 2 1906
 
@@ -80,6 +113,25 @@ ocrmypdf 1906\ -\ “Biak”\ An\ Opium\ Substitute\ -\ Journal\ of\ the\ Federa
 > Some time back I sent about 16 pounds’ weight of the dried leaves to ==Mr. E. M. Holmes== for examination. He, however, reported that no poisonous alkaloid had been found in it. A further consignment has now been sent, and it is hoped that the active principle will be successfully separated from the drug.
 
 
+
+```bibtex
+@inbook{1906l.wrayBiakOpiumSubstitute,
+  title = {“{{Biak}}”: An {{Opium Substitute}}},
+  booktitle = {Journal of the {{Federated Malay States}} Museums},
+  author = {{L. Wray}},
+  date = {1906/1929},
+  volume = {2},
+  pages = {53--56},
+  publisher = {{Kuala Lumpur : F.M.S. Museums}},
+  location = {{Kuala Lumpur}},
+  url = {http://archive.org/details/journaloffederat02fedeuoft},
+  urldate = {2021-10-22},
+  abstract = {Fleming Collection; 14 29},
+  bookauthor = {Federated Malay States and Museum, Perak State and Museum, Selangor State},
+  langid = {english},
+  volumes = {10}
+}
+```
 
 
 

@@ -1,1 +1,4 @@
 .vscode
+*JunkPages*
+.DS_Store
+*.idraw
