@@ -6,7 +6,7 @@ lastmod: 2021-11-20T01:51:37-05:00
 
 Information for people involved maintaining this website.
 
-Consider this an incomplete work in progress. 
+Consider this an incomplete work in progress. ([contrib/development information · Issue #10](https://github.com/ragynotes/ragynotes.github.io/issues/10))
 
 ## how the site runs
 
@@ -18,6 +18,17 @@ Consider this an incomplete work in progress.
 ## set up local development environment
 
 clone repo to local machine
+
+```sh
+git clone https://github.com/ragynotes/ragynotes.github.io.git
+```
+
+### differences between fresh clone and my local environment
+
+- currently this does not include submodule for the theme so site will not build correctly ([add zen theme as submodule · Issue #11](https://github.com/ragynotes/ragynotes.github.io/issues/11))
+- all `pdf`s have been added to `.gitignore` to prevent file size issues; this will have to be addressed properly later on ([large files (pdfs) · Issue #12](https://github.com/ragynotes/ragynotes.github.io/issues/12))
+
+### hugo
 
 ....
 
