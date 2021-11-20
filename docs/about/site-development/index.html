@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html class="nojs" lang="en-us" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>Site development – 🌿 Ragy Notes 📚</title>
+<meta name="description" content="Information for people involved maintaining this website. Consider this an incomplete work in progress. (contrib/development information · Issue #10) how the site runs …">
+<meta name="created" content="2021-11-20T01:51:37-0500">
+<meta name="modified" content="2021-11-20T01:51:37-0500">
+<meta name="author" content="Pesky">
+<meta name="contact" content="info@example.org">
+<meta property="og:site_name" content="🌿 Ragy Notes 📚">
+<meta property="og:title" content="Site development">
+<meta property="og:url" content="https://ragynotes.github.io/about/site-development/">
+<meta property="og:type" content="article">
+
+<meta name="generator" content="Hugo 0.88.1" />
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+
+
+<link rel="canonical" href="https://ragynotes.github.io/about/site-development/">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+<link rel="stylesheet" href="/css/mobile.2ab74aa64785dcab8114959e76ca140cf76207cd85989bc6d4fc3b12f734a09e.css" media="screen">
+<link rel="stylesheet" href="/css/styles.220f12cbeefa3ca61dd63c4390295bf3974c4ba9557837d5e408db1b40a477ee.css">
+<link rel="stylesheet" href="/css/print.27fc184f8670f41a2690985390779e7b20335a8fadff8fa015cf9417ffe50c36.css" media="print">
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "headline": "Site development",
+    "datePublished": "2021-11-20T01:51:37-05:00",
+    "dateModified": "2021-11-20T01:51:37-05:00",
+    "url" : "https://ragynotes.github.io/about/site-development/",
+    "description": "Information for people involved maintaining this website. Consider this an incomplete work in progress. (contrib/development information · Issue #10) how the site runs …",
+    "author": {
+      "@type": "Person",
+      "name": "Pesky"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://ragynotes.github.io"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "🌿 Ragy Notes 📚",
+      "url": "https://ragynotes.github.io"
+    }
+  }
+</script>
+
+<script src="/js/script-early.min.3b0e641814c87f6a1d6ffa5e7d597f29faa8ce11482541e8801dc34013817c91.js"></script>
+<script defer src="/js/lib/umbrella.min.6e17830ccdded0a13b96d6993865b58202bc2ee750e5892a51858ab048b2bebb.js"></script>
+<script defer src="/js/mobile.min.abb9438113cb72181ecda30b9375cc0771c7ce2e7354414a7c1296b45cf47135.js"></script>
+<script defer src="/js/script.min.c2752732454d16255cfd30375b9a3e48a37b7b809c917b33920889c859ba1300.js"></script>
+
+
+</head>
+
+<body class="single-page">
+<div class="page layout__page layout__sidebar-second">
+<header class="header layout__header">
+<a href="/" title="Home" rel="home" class="header__logo"><img src="/images/logo.png" alt="Home" class="header__logo-image"></a>
+<h1 class="header__site-name">
+<a href="/" title="Home" class="header__site-link" rel="home"><span>🌿 Ragy Notes 📚</span></a>
+</h1>
+<div class="region header__region">
+</div>
+</header>
+
+<nav class="main-menu layout__navigation">
+<h2 class="visually-hidden">Main menu</h2>
+<ul class="navbar">
+<li><a href="/about/" class="active" aria-current="page">Abouts</a></li>
+<li><a href="/collected-documents/">Collected-Documents</a></li>
+<li><a href="/documents_incoming/">Documents_Incomings</a></li>
+</ul>
+</nav>
+
+
+<main class="main layout__main">
+<article class="section-about single-view">
+<header>
+<h1 class="title ">Site development</h1>
+</header>
+
+
+
+
+
+
+<div class="content">
+<p>Information for people involved maintaining this website.</p>
+<p>Consider this an incomplete work in progress. (<a href="https://github.com/ragynotes/ragynotes.github.io/issues/10">contrib/development information · Issue #10</a>)</p>
+<h2 id="how-the-site-runs">how the site runs</h2>
+<p>the actual site itself uses:</p>
+<ul>
+<li><code>hugo</code>
+<ul>
+<li>base theme: <a href="https://github.com/frjo/hugo-theme-zen">frjo/hugo-theme-zen: A fast and clean Hugo theme with css-grid and Hugo pipes support</a></li>
+<li>customizations tracked in forked repo: <a href="https://github.com/ragynotes/hugo-theme-zen/">ragynotes/hugo-theme-zen</a></li>
+</ul>
+</li>
+<li><code>git</code></li>
+<li>github.com</li>
+<li>github pages</li>
+<li>github issues</li>
+</ul>
+<p>however other software is required to create the content:</p>
+<ul>
+<li>zotero
+<ul>
+<li>zotero extensions to be explicated later</li>
+</ul>
+</li>
+<li><code>ocrmypdf</code></li>
+<li>&hellip;.</li>
+</ul>
+<h2 id="set-up-local-development-environment">set up local development environment</h2>
+<p>clone repo to local machine</p>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">git clone https://github.com/ragynotes/ragynotes.github.io.git
+</code></pre></div><h3 id="differences-between-fresh-clone-and-my-local-environment">differences between fresh clone and my local environment</h3>
+<ul>
+<li>currently this does not include submodule for the theme so site will not build correctly (<a href="https://github.com/ragynotes/ragynotes.github.io/issues/11">add zen theme as submodule · Issue #11</a>)</li>
+<li>all <code>pdf</code>s have been added to <code>.gitignore</code> to prevent file size issues; this will have to be addressed properly later on (<a href="https://github.com/ragynotes/ragynotes.github.io/issues/12">large files (pdfs) · Issue #12</a>)</li>
+<li>I have not yet completed information on how to mirror the zotero set up in such a way that anyone but myself can really do this (<a href="https://github.com/ragynotes/ragynotes.github.io/issues/8">create consistent workflow for moving items from zotero to hugo · Issue #8</a>)</li>
+</ul>
+<h3 id="hugo">hugo</h3>
+<p>TBAdded: install, configure</p>
+<p>see <a href="https://gohugo.io/getting-started/usage/#draft-future-and-expired-content">hugo documentation</a> for more options than the below</p>
+<p>set up a live reloading server to run locally</p>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">hugo serve --buildDrafts
+</code></pre></div><h4 id="building-site-to-deploy">building site to deploy</h4>
+<p>delete previous <code>docs/</code> to avoid problems, then build site to the docs folder (from where it is published)</p>
+<p>if you do not have <code>trash-cli</code> installed locally, change to <code>rm -r</code> or whatever you do to delete stuff</p>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">trash docs <span style="color:#f92672">&amp;&amp;</span> hugo
+</code></pre></div><p>then push back to github</p>
+<h2 id="finding-and-creating-the-content">finding and creating the content</h2>
+<ul>
+<li>Instructive: <a href="https://github.com/ragynotes/ragynotes.github.io/issues/9">How to OCR or re OCR PDFs or create PDFs · Issue #9</a></li>
+</ul>
+<h2 id="adding-and-editing-content">adding and editing content</h2>
+<h3 id="markdown">markdown</h3>
+<ul>
+<li>do not open these markdown files in typora or other wyswyg editor as it screws them up.</li>
+</ul>
+<h3 id="create-page">create page</h3>
+<ul>
+<li>use <code>hugo new</code> for generic</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">hugo new About/site-development.md
+</code></pre></div><h4 id="create-page-with-special-document-template">create page with special document template</h4>
+<p>uses archetypes (<a href="https://gohugo.io/content-management/archetypes/">docs</a>) to create the entire folder required</p>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">hugo new --kind document content/Collected-Documents/document-title
+</code></pre></div><ul>
+<li>the folder &ldquo;JunkPages&rdquo; is never built with the site, so use for experiments [is this true?]</li>
+<li>archetype is defined in <code>ragynotes.github.io/archetypes/document</code></li>
+</ul>
+<h4 id="obtaining-files-from-zotero">obtaining files from zotero</h4>
+<p>This ought to be faster: <a href="https://github.com/ragynotes/ragynotes.github.io/issues/19">make zotero do most of the work generating the page components · Issue #19</a></p>
+<p><img src="images/export-item-contextual.png" alt="export-item-contextual"></p>
+<p><img src="images/export-bibtex-dialogue.png" alt="export-bibtex-dialogue"></p>
+<p>this produced:</p>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">├── bib.bib
+<span style="display:block;width:100%;background-color:#e1e1e1">└── files
+</span>    ├── <span style="color:#ae81ff">792</span>
+    │   └── proceedingsofame4318amer_0860.jpg
+    ├── <span style="color:#ae81ff">793</span>
+    │   └── proceedingsofame4318amer_0860-pg822.pdf
+    └── <span style="color:#ae81ff">794</span>
+        └── 1895americanpharmaceuticalassociation.meeting.txt
+</code></pre></div><p>remove files and rename them per template convention</p>
+<h3 id="yaml"><code>YAML</code></h3>
+<p><a href="https://stackoverflow.com/questions/2276572/how-do-you-do-block-comments-in-yaml">How do you do block comments in YAML?</a>: has this <a href="https://stackoverflow.com/a/50037498">interesting approach</a></p>
+<h3 id="images">images</h3>
+<p>see <a href="https://github.com/frjo/hugo-theme-zen#figure-and-img">instructions at theme repo</a></p>
+<h2 id="templates">templates</h2>
+<p>making changes to theme, must read: <a href="https://github.com/ragynotes/ragynotes.github.io/issues/11">add zen theme as submodule · Issue #11</a></p>
+
+
+<h2>attachments</h2>
+
+<ul>
+
+<li>🧺 Did you know? You can download this entire website including all attachments from the <strong><a href="https://github.com/ragynotes/ragynotes.github.io">github repository</a></strong></li>
+
+</ul>
+
+
+
+
+</div>
+</article>
+
+</main>
+
+
+
+<aside class="sidebar layout__second-sidebar">
+<section>
+<h4 class="menu"><a href="/about/">Abouts</a></h4>
+<ul class="menu">
+<li><a href="/about/site-development/" class="active" aria-current="page">Site development</a></li>
+</ul>
+</section>
+<section>
+<h4 class="menu"><a href="/collected-documents/">Collected-Documents</a></h4>
+<ul class="menu">
+<li><a href="/collected-documents/biak-an-opium-substitute/">&#39;Biak&#39;: An Opium Substitute - Journal of the Federated Malay States Museums ZZZ</a></li>
+</ul>
+</section>
+<section>
+<h4 class="menu"><a href="/documents_incoming/">Documents_Incomings</a></h4>
+<ul class="menu">
+<li><a href="/documents_incoming/workqueue/1969-blum/">Society and Drugs; Social and Cultural Observations</a></li>
+<li><a href="/documents_incoming/workqueue3/1969-blum/">Society and Drugs; Social and Cultural Observations</a></li>
+<li><a href="/documents_incoming/workqueue/1967-efron/">Ethnopharmacologic Search for Psychoactive Drugs. Proceedings of a Symposium Held in San Francisco, California, January 28-30, 1967</a></li>
+<li><a href="/documents_incoming/workqueue/1967-unitedstates-patentoffice/">Index of Patents Issued from the United States Patent Office</a></li>
+<li><a href="/documents_incoming/workqueue/1936-zimmerman/">Consumption and Standards of Living</a></li>
+<li><a href="/documents_incoming/workqueue/1895-americanpharmaceuticalassociation-meeting/">Report on the Progress of the Pharmacy: Some Medicinal Products from the Straits Settlements</a></li>
+<li><a href="/documents_incoming/workqueue/1834-wood/">The Dispensatory of the United States of America</a></li>
+</ul>
+</section>
+</aside>
+<footer class="footer layout__footer">
+<p><!-- raw HTML omitted --></p>
+<p>Generated by <a href="https://gohugo.io/">Hugo</a> and the <a href="https://github.com/frjo/hugo-theme-zen">Zen theme</a>. website source at <a href="https://github.com/ragynotes/ragynotes.github.io">github 🍃 repo</a></p>
+
+</footer>
+</div>
+<div class="mobile-nav" dir="ltr">
+  <div class="mobile-nav__cover"></div>
+  <a href="#navigation" class="mobile-nav__toggle" aria-haspopup="true" role="button">Menu</a>
+  <div class="mobile-nav__sheet">
+    <div class="mobile-nav__region">
+    
+    </div>
+    <nav class="mobile-nav__main-menu">
+    <h2 class="visually-hidden">Main menu</h2>
+    <ul class="mobile-nav__navbar">
+    <li><a href="/about/" class="active" aria-current="page">Abouts</a></li>
+    <li><a href="/collected-documents/">Collected-Documents</a></li>
+    <li><a href="/documents_incoming/">Documents_Incomings</a></li>
+    </ul>
+    </nav>
+  </div>
+</div>
+</body>
+</html>

@@ -6,18 +6,112 @@
     <description>Recent content on 🌿 Ragy Notes 📚</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Oct 2021 07:09:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Nov 2021 01:51:37 -0500</lastBuildDate>
     <atom:link href="https://ragynotes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Site development</title>
+      <link>https://ragynotes.github.io/about/site-development/</link>
+      <pubDate>Sat, 20 Nov 2021 01:51:37 -0500</pubDate>
+      <guid>https://ragynotes.github.io/about/site-development/</guid>
+      <description>&lt;p&gt;Information for people involved maintaining this website.&lt;/p&gt;
+&lt;p&gt;Consider this an incomplete work in progress. (&lt;a href=&#34;https://github.com/ragynotes/ragynotes.github.io/issues/10&#34;&gt;contrib/development information · Issue #10&lt;/a&gt;)&lt;/p&gt;
+&lt;h2 id=&#34;how-the-site-runs&#34;&gt;how the site runs&lt;/h2&gt;
+&lt;p&gt;the actual site itself uses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;hugo&lt;/code&gt;
+&lt;ul&gt;
+&lt;li&gt;base theme: &lt;a href=&#34;https://github.com/frjo/hugo-theme-zen&#34;&gt;frjo/hugo-theme-zen: A fast and clean Hugo theme with css-grid and Hugo pipes support&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;customizations tracked in forked repo: &lt;a href=&#34;https://github.com/ragynotes/hugo-theme-zen/&#34;&gt;ragynotes/hugo-theme-zen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;github.com&lt;/li&gt;
+&lt;li&gt;github pages&lt;/li&gt;
+&lt;li&gt;github issues&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;however other software is required to create the content:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;zotero
+&lt;ul&gt;
+&lt;li&gt;zotero extensions to be explicated later&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ocrmypdf&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&amp;hellip;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;set-up-local-development-environment&#34;&gt;set up local development environment&lt;/h2&gt;
+&lt;p&gt;clone repo to local machine&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;git clone https://github.com/ragynotes/ragynotes.github.io.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;differences-between-fresh-clone-and-my-local-environment&#34;&gt;differences between fresh clone and my local environment&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;currently this does not include submodule for the theme so site will not build correctly (&lt;a href=&#34;https://github.com/ragynotes/ragynotes.github.io/issues/11&#34;&gt;add zen theme as submodule · Issue #11&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;all &lt;code&gt;pdf&lt;/code&gt;s have been added to &lt;code&gt;.gitignore&lt;/code&gt; to prevent file size issues; this will have to be addressed properly later on (&lt;a href=&#34;https://github.com/ragynotes/ragynotes.github.io/issues/12&#34;&gt;large files (pdfs) · Issue #12&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;I have not yet completed information on how to mirror the zotero set up in such a way that anyone but myself can really do this (&lt;a href=&#34;https://github.com/ragynotes/ragynotes.github.io/issues/8&#34;&gt;create consistent workflow for moving items from zotero to hugo · Issue #8&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hugo&#34;&gt;hugo&lt;/h3&gt;
+&lt;p&gt;TBAdded: install, configure&lt;/p&gt;
+&lt;p&gt;see &lt;a href=&#34;https://gohugo.io/getting-started/usage/#draft-future-and-expired-content&#34;&gt;hugo documentation&lt;/a&gt; for more options than the below&lt;/p&gt;
+&lt;p&gt;set up a live reloading server to run locally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;hugo serve --buildDrafts
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;building-site-to-deploy&#34;&gt;building site to deploy&lt;/h4&gt;
+&lt;p&gt;delete previous &lt;code&gt;docs/&lt;/code&gt; to avoid problems, then build site to the docs folder (from where it is published)&lt;/p&gt;
+&lt;p&gt;if you do not have &lt;code&gt;trash-cli&lt;/code&gt; installed locally, change to &lt;code&gt;rm -r&lt;/code&gt; or whatever you do to delete stuff&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;trash docs &lt;span style=&#34;color:#f92672&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; hugo
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;then push back to github&lt;/p&gt;
+&lt;h2 id=&#34;finding-and-creating-the-content&#34;&gt;finding and creating the content&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Instructive: &lt;a href=&#34;https://github.com/ragynotes/ragynotes.github.io/issues/9&#34;&gt;How to OCR or re OCR PDFs or create PDFs · Issue #9&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;adding-and-editing-content&#34;&gt;adding and editing content&lt;/h2&gt;
+&lt;h3 id=&#34;markdown&#34;&gt;markdown&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;do not open these markdown files in typora or other wyswyg editor as it screws them up.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;create-page&#34;&gt;create page&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;use &lt;code&gt;hugo new&lt;/code&gt; for generic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;hugo new About/site-development.md
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;create-page-with-special-document-template&#34;&gt;create page with special document template&lt;/h4&gt;
+&lt;p&gt;uses archetypes (&lt;a href=&#34;https://gohugo.io/content-management/archetypes/&#34;&gt;docs&lt;/a&gt;) to create the entire folder required&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;hugo new --kind document content/Collected-Documents/document-title
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;the folder &amp;ldquo;JunkPages&amp;rdquo; is never built with the site, so use for experiments [is this true?]&lt;/li&gt;
+&lt;li&gt;archetype is defined in &lt;code&gt;ragynotes.github.io/archetypes/document&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;obtaining-files-from-zotero&#34;&gt;obtaining files from zotero&lt;/h4&gt;
+&lt;p&gt;This ought to be faster: &lt;a href=&#34;https://github.com/ragynotes/ragynotes.github.io/issues/19&#34;&gt;make zotero do most of the work generating the page components · Issue #19&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/export-item-contextual.png&#34; alt=&#34;export-item-contextual&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/export-bibtex-dialogue.png&#34; alt=&#34;export-bibtex-dialogue&#34;&gt;&lt;/p&gt;
+&lt;p&gt;this produced:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;├── bib.bib
+&lt;span style=&#34;display:block;width:100%;background-color:#e1e1e1&#34;&gt;└── files
+&lt;/span&gt;    ├── &lt;span style=&#34;color:#ae81ff&#34;&gt;792&lt;/span&gt;
+    │   └── proceedingsofame4318amer_0860.jpg
+    ├── &lt;span style=&#34;color:#ae81ff&#34;&gt;793&lt;/span&gt;
+    │   └── proceedingsofame4318amer_0860-pg822.pdf
+    └── &lt;span style=&#34;color:#ae81ff&#34;&gt;794&lt;/span&gt;
+        └── 1895americanpharmaceuticalassociation.meeting.txt
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;remove files and rename them per template convention&lt;/p&gt;
+&lt;h3 id=&#34;yaml&#34;&gt;&lt;code&gt;YAML&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://stackoverflow.com/questions/2276572/how-do-you-do-block-comments-in-yaml&#34;&gt;How do you do block comments in YAML?&lt;/a&gt;: has this &lt;a href=&#34;https://stackoverflow.com/a/50037498&#34;&gt;interesting approach&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;images&#34;&gt;images&lt;/h3&gt;
+&lt;p&gt;see &lt;a href=&#34;https://github.com/frjo/hugo-theme-zen#figure-and-img&#34;&gt;instructions at theme repo&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;templates&#34;&gt;templates&lt;/h2&gt;
+&lt;p&gt;making changes to theme, must read: &lt;a href=&#34;https://github.com/ragynotes/ragynotes.github.io/issues/11&#34;&gt;add zen theme as submodule · Issue #11&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>&#39;Biak&#39;: An Opium Substitute - Journal of the Federated Malay States Museums ZZZ</title>
       <link>https://ragynotes.github.io/collected-documents/biak-an-opium-substitute/</link>
       <pubDate>Tue, 19 Oct 2021 07:09:37 +0000</pubDate>
       <guid>https://ragynotes.github.io/collected-documents/biak-an-opium-substitute/</guid>
-      <description>&lt;h2 id=&#34;where-did-it-come-from&#34;&gt;Where did it come from?&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;document-information&#34;&gt;Document information&lt;/h2&gt;
 &lt;p&gt;Year of original publication: 1906&lt;/p&gt;
 &lt;p&gt;Format of original publication:  Newspaper article&lt;/p&gt;
-&lt;p&gt;oilw&lt;/p&gt;
+&lt;h3 id=&#34;source&#34;&gt;Source&lt;/h3&gt;
 &lt;h3 id=&#34;notes-on-modifications-and-changes-made&#34;&gt;Notes on modifications and changes made&lt;/h3&gt;
 &lt;h2 id=&#34;commentary&#34;&gt;Commentary&lt;/h2&gt;
 &lt;p&gt;none&lt;/p&gt;
@@ -64,7 +158,7 @@
 &lt;p&gt;Besides the purposes already mentioned, the leaves of this tree are used medicinally for worms in children. They are made into a poultice and applied externally over the upper portion of the abdomen. It is held that, if applied to the lower portion, the worms are driven upwards and escape by the mouth; but if confined to just beneath the termination of the ribs they are expelled downwards and are passed in the ordinary way. Of their efficacy as a vermifuge, applied in the manner indicated above, I have very grave doubts.&lt;/p&gt;
 &lt;p&gt;Some time back I sent about 16 pounds’ weight of the dried leaves to ==Mr. E. M. Holmes== for examination. He, however, reported that no poisonous alkaloid had been found in it. A further consignment has now been sent, and it is hoped that the active principle will be successfully separated from the drug.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bibtex&#34; data-lang=&#34;bibtex&#34;&gt;&lt;span style=&#34;color:#75af00&#34;&gt;@inbook&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;{&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;1906l.wrayBiakOpiumSubstitute&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bibtex&#34; data-lang=&#34;bibtex&#34;&gt;&lt;span style=&#34;color:#75af00&#34;&gt;@inbook&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;{&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;1906l.wray&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
 &lt;span style=&#34;display:block;width:100%;background-color:#e1e1e1&#34;&gt;  &lt;span style=&#34;color:#75af00&#34;&gt;title&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;{“{{Biak}}”: An {{Opium Substitute}}}&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
 &lt;/span&gt;  &lt;span style=&#34;color:#75af00&#34;&gt;booktitle&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;{Journal of the {{Federated Malay States}} Museums}&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
   &lt;span style=&#34;color:#75af00&#34;&gt;author&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;{{L. Wray}}&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
@@ -81,6 +175,116 @@
   &lt;span style=&#34;color:#75af00&#34;&gt;volumes&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;{10}&lt;/span&gt;
 &lt;span style=&#34;color:#111&#34;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Society and Drugs; Social and Cultural Observations</title>
+      <link>https://ragynotes.github.io/documents_incoming/workqueue/1969-blum/</link>
+      <pubDate>Wed, 01 Jan 1969 00:00:00 +0000</pubDate>
+      <guid>https://ragynotes.github.io/documents_incoming/workqueue/1969-blum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Society and Drugs; Social and Cultural Observations</title>
+      <link>https://ragynotes.github.io/documents_incoming/workqueue3/1969-blum/</link>
+      <pubDate>Wed, 01 Jan 1969 00:00:00 +0000</pubDate>
+      <guid>https://ragynotes.github.io/documents_incoming/workqueue3/1969-blum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethnopharmacologic Search for Psychoactive Drugs. Proceedings of a Symposium Held in San Francisco, California, January 28-30, 1967</title>
+      <link>https://ragynotes.github.io/documents_incoming/workqueue/1967-efron/</link>
+      <pubDate>Sun, 01 Jan 1967 00:00:00 +0000</pubDate>
+      <guid>https://ragynotes.github.io/documents_incoming/workqueue/1967-efron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Index of Patents Issued from the United States Patent Office</title>
+      <link>https://ragynotes.github.io/documents_incoming/workqueue/1967-unitedstates-patentoffice/</link>
+      <pubDate>Sun, 01 Jan 1967 00:00:00 +0000</pubDate>
+      <guid>https://ragynotes.github.io/documents_incoming/workqueue/1967-unitedstates-patentoffice/</guid>
+      <description>&lt;p&gt;&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; Local Changes&lt;/p&gt;
+&lt;p&gt;pg ~96&lt;/p&gt;
+&lt;p&gt;Beckett, Arnold H., to Kline, Smith &amp;amp; French Laboratories.
+Speciofoline, and alkaloid from Mitragyna speciosa. 3,324,-
+111, 6-6-67, CI. 260—236. =======&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Beckett, Arnold H., to Kline, Smith &amp;amp; French Laboratories.
+Speciofoline, and alkaloid from Mitrigyna speciosa. 3.224,-
+111, 6-6-67, Cl, 260—236.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;External Changes&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consumption and Standards of Living</title>
+      <link>https://ragynotes.github.io/documents_incoming/workqueue/1936-zimmerman/</link>
+      <pubDate>Wed, 01 Jan 1936 00:00:00 +0000</pubDate>
+      <guid>https://ragynotes.github.io/documents_incoming/workqueue/1936-zimmerman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report on the Progress of the Pharmacy: Some Medicinal Products from the Straits Settlements</title>
+      <link>https://ragynotes.github.io/documents_incoming/workqueue/1895-americanpharmaceuticalassociation-meeting/</link>
+      <pubDate>Tue, 01 Jan 1895 00:00:00 +0000</pubDate>
+      <guid>https://ragynotes.github.io/documents_incoming/workqueue/1895-americanpharmaceuticalassociation-meeting/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;822&lt;/p&gt;
+&lt;p&gt;REPORT ON THE PROGRESS OF PHARMACY.&lt;/p&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Some Medicinal Products from the Straits Settlements&lt;/em&gt; — E. M. Holmes says that Biab, which was believed to belong to the genus Nauclea, is now considered by him to be &lt;em&gt;Mitragyna speciosa&lt;/em&gt;. Prual does not belong to either of the Rubaceous genera, Lasianthus or Urophyllum. Stapf will shortly publish an account of his identification of the species. Ipoh Aker is supposed by Holmes to more nearly approach &lt;em&gt;Strychnos wakkuchiana&lt;/em&gt;. Poison
+root, No. 4281, is the root of &lt;em&gt;Dianella nemorosa Lass&lt;/em&gt; (Libiacee). Poko
+Lulay is nearly allied to &lt;em&gt;Garcinia merguensis, Wight&lt;/em&gt;. Buah Kumbong
+sa Mamgkok, the fruit possesses large boat-shaped follicles (which open
+long before the seed is ripe) attached to the seed. The seed differs from
+&amp;ldquo;Bungtalai&amp;rdquo; in being covered with dense velvety pubescence, and in the
+inner surface of the follicle being abundantly furnished, and the external
+spargly so, with stellate haus.—Pharm, Jour. Trans., 1895, 1095.&lt;/p&gt;
+&lt;p&gt;Export Trade of Veot, Persia —Of the exports of Yezd the most im-
+portant is that of opium. It was more largely grown in this province than
+anything else in comparison with their respective values. Various causes
+have lately conduced to a decided falhng off in the cultivation of the
+poppy Ina good year the total output of Yezd was some 1200 cases,
+each case weighing about 130 Ibs. An average output would be about
+1000 to 1200 cases. In speaking of the opium of Verd is included not
+alone that only grown in the province, but also that produced m Khoras-
+san, Tabbas, and even in the Herat district. ‘The crude stuff is sent to
+Yezd, where it is manufactured. During the past year, viz., 1891-2, the
+crop has been but a small one. ‘The prices ruhng in China and London
+were low and not remunerative, consequently only about half the usual
+amount was sown in the Yezd district, and this more for speculatwe pur-
+poses than for anything else. ‘To still further reduce the output, the crop,
+for want of proper spring rams, was a practical failure Hence, the maxi-
+mum quantity of opium manufactured in Yezd was somewhat under 500
+cases. One hundred and eighty-two pounds of the crnde material in
+Yerd makes one case of 130 Ibs. manufactured article. Of Khorassan’s &amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Dispensatory of the United States of America</title>
+      <link>https://ragynotes.github.io/documents_incoming/workqueue/1834-wood/</link>
+      <pubDate>Wed, 01 Jan 1834 00:00:00 +0000</pubDate>
+      <guid>https://ragynotes.github.io/documents_incoming/workqueue/1834-wood/</guid>
+      <description></description>
     </item>
     
   </channel>
