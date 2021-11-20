@@ -98,6 +98,8 @@ hugo new --kind document content/Collected-Documents/document-title
 
 #### obtaining files from zotero
 
+This ought to be faster: [make zotero do most of the work generating the page components · Issue #19](https://github.com/ragynotes/ragynotes.github.io/issues/19)
+
 ![export-item-contextual](images/export-item-contextual.png)
 
 ![export-bibtex-dialogue](images/export-bibtex-dialogue.png)
