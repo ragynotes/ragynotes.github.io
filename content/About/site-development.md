@@ -43,16 +43,24 @@ git clone https://github.com/ragynotes/ragynotes.github.io.git
 
 TBAdded: install, configure
 
-set up a testing server to run locally
+see [hugo documentation](https://gohugo.io/getting-started/usage/#draft-future-and-expired-content) for more options than the below
+
+set up a live reloading server to run locally
 
 ```sh
-hugo serve
+hugo serve --buildDrafts
 ```
 
-build site to the docs folder:
+
+
+#### building site to deploy
+
+delete previous `docs/` to avoid problems, then build site to the docs folder (from where it is published)
+
+if you do not have `trash-cli` installed locally, change to `rm -r` or whatever you do to delete stuff 
 
 ```sh
-hugo
+trash docs && hugo
 ```
 
 then push back to github
