@@ -9,25 +9,21 @@ tags:
   - Internet Archive
   - re-OCR
   - PDF
+summary: 
+alias: 1906l.wray
+lang: en
+.IsTranslated: false
 ---
 
-## Where did it come from?
+## Document information
 
 Year of original publication: {{< param originalyear >}}
 
 Format of original publication:  {{< param originalformat >}}
 
+### Source
 
 
-
-
-
-
-
-
-
-
-oilw
 
 ### Notes on modifications and changes made
 
@@ -115,7 +111,7 @@ ocrmypdf 1906\ -\ “Biak”\ An\ Opium\ Substitute\ -\ Journal\ of\ the\ Federa
 
 
 ```bibtex
-@inbook{1906l.wrayBiakOpiumSubstitute,
+@inbook{1906l.wray,
   title = {“{{Biak}}”: An {{Opium Substitute}}},
   booktitle = {Journal of the {{Federated Malay States}} Museums},
   author = {{L. Wray}},
