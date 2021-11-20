@@ -82,6 +82,9 @@ section = [ "HTML", "RSS", "JSON" ]
 		# "Advertisement",
 		# "Legislation and legal proceeding"
 		# "Book"
+		# "Newspaper"
+		# "Press Release"
+		# "Interview"
 		# "None"
 	originaltopic = "Publication topic"	
 		#examples:
