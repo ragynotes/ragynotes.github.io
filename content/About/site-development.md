@@ -90,12 +90,32 @@ hugo new About/site-development.md
 uses archetypes ([docs](https://gohugo.io/content-management/archetypes/)) to create the entire folder required
 
 ```sh
-hugo new --kind document content/JunkPages/a-docum
-ent-about-some-things
+hugo new --kind document content/Collected-Documents/document-title
 ```
 
 - the folder "JunkPages" is never built with the site, so use for experiments [is this true?]
 - archetype is defined in `ragynotes.github.io/archetypes/document`
+
+#### obtaining files from zotero
+
+![export-item-contextual](images/export-item-contextual.png)
+
+![export-bibtex-dialogue](images/export-bibtex-dialogue.png)
+
+this produced:
+
+```sh
+├── bib.bib
+└── files
+    ├── 792
+    │   └── proceedingsofame4318amer_0860.jpg
+    ├── 793
+    │   └── proceedingsofame4318amer_0860-pg822.pdf
+    └── 794
+        └── 1895americanpharmaceuticalassociation.meeting.txt
+```
+
+remove files and rename them per template convention
 
 ### `YAML`
 

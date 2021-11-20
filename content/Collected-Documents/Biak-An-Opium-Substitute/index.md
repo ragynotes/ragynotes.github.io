@@ -15,6 +15,7 @@ lang: en
 .IsTranslated: false
 ---
 
+
 ## Document information
 
 Year of original publication: {{< param originalyear >}}
@@ -22,7 +23,6 @@ Year of original publication: {{< param originalyear >}}
 Format of original publication:  {{< param originalformat >}}
 
 ### Source
-
 
 
 ### Notes on modifications and changes made
