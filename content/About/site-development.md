@@ -13,6 +13,7 @@ Consider this an incomplete work in progress. ([contrib/development information 
 the actual site itself uses:
 
 - `hugo`
+  - base theme: [frjo/hugo-theme-zen: A fast and clean Hugo theme with css-grid and Hugo pipes support.](https://github.com/frjo/hugo-theme-zen#customise)
 - `git`
 - github.com
 - github pages
@@ -98,6 +99,10 @@ ent-about-some-things
 ### `YAML`
 
 [How do you do block comments in YAML?](https://stackoverflow.com/questions/2276572/how-do-you-do-block-comments-in-yaml): has this [interesting approach](https://stackoverflow.com/a/50037498)
+
+### images
+
+see [instructions at theme repo](https://github.com/frjo/hugo-theme-zen#figure-and-img)
 
 ## templates
 
