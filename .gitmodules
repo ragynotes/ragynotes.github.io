@@ -1,3 +1,6 @@
 [submodule "themes/zen"]
 	path = themes/zen
 	url = git@github.com:ragynotes/hugo-theme-zen.git
+[submodule "themes/axiom"]
+	path = themes/axiom
+	url = https://github.com/marketempower/axiom.git
