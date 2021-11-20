@@ -10,10 +10,20 @@ Consider this an incomplete work in progress. ([contrib/development information 
 
 ## how the site runs
 
-- hugo
-- github
+the actual site itself uses:
+
+- `hugo`
+- `git`
+- github.com
 - github pages
 - github issues
+
+however other software is required to create the content:
+
+- zotero
+  - zotero extensions to be explicated later
+- `ocrmypdf`
+- ....
 
 ## set up local development environment
 
@@ -31,7 +41,7 @@ git clone https://github.com/ragynotes/ragynotes.github.io.git
 
 ### hugo
 
-....
+TBAdded: install, configure
 
 set up a testing server to run locally
 
@@ -65,8 +75,17 @@ then push back to github
 hugo new About/site-development.md
 ```
 
-- use `hugo new document` for documents
-  - this will use archetypes ([docs](https://gohugo.io/content-management/archetypes/)) to create the entire folder required
+#### create page with special document template
+
+uses archetypes ([docs](https://gohugo.io/content-management/archetypes/)) to create the entire folder required
+
+```sh
+hugo new --kind document content/JunkPages/a-docum
+ent-about-some-things
+```
+
+- the folder "JunkPages" is never built with the site, so use for experiments
+- archetype is defined in `ragynotes.github.io/archetypes/document`
 
 ### `YAML`
 
