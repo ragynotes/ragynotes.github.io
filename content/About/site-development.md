@@ -13,7 +13,8 @@ Consider this an incomplete work in progress. ([contrib/development information 
 the actual site itself uses:
 
 - `hugo`
-  - base theme: [frjo/hugo-theme-zen: A fast and clean Hugo theme with css-grid and Hugo pipes support.](https://github.com/frjo/hugo-theme-zen#customise)
+  - base theme: [frjo/hugo-theme-zen: A fast and clean Hugo theme with css-grid and Hugo pipes support](https://github.com/frjo/hugo-theme-zen) 
+  - customizations tracked in forked repo: [ragynotes/hugo-theme-zen](https://github.com/ragynotes/hugo-theme-zen/)
 - `git`
 - github.com
 - github pages
@@ -93,7 +94,7 @@ hugo new --kind document content/JunkPages/a-docum
 ent-about-some-things
 ```
 
-- the folder "JunkPages" is never built with the site, so use for experiments
+- the folder "JunkPages" is never built with the site, so use for experiments [is this true?]
 - archetype is defined in `ragynotes.github.io/archetypes/document`
 
 ### `YAML`
@@ -106,7 +107,7 @@ see [instructions at theme repo](https://github.com/frjo/hugo-theme-zen#figure-a
 
 ## templates
 
-
+making changes to theme, must read: [add zen theme as submodule · Issue #11](https://github.com/ragynotes/ragynotes.github.io/issues/11)
 
 
 
