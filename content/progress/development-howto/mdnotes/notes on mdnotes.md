@@ -6,7 +6,7 @@ use "batch export to markdown"
 
 ## general
 
-- need to include 2x line-breaks sequentially to ensure new line
+- 
 - tried changing export filenames to include `/` in hopes of making subdirectories but instead the files seem to have not showed up? looked in both specified and default directories but not found. 
 - There is also `mdnotes` documentation [here](https://argentinaos.com/zotero-mdnotes/docs/quick-start-guide), not sure how or it different.
 - Tables might not work, see [Markdown Tables breaks when converting from Zotero Note · Issue #135 · argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes/issues/135)
@@ -122,16 +122,6 @@ looks good! might consider changing `"list_separator"` to `/n/n` or making the w
 ```
 
 perfect! have used what I believe to be the correct formatting for `yaml` which is one tag per line (I prefer this to comma delineated lists). [relevant hugo documentation](https://gohugo.io/content-management/taxonomies/#order-taxonomies)
-
-* need to keep one tags default
-
-```yaml
-{"content":"tags: \n{{field_contents}}", "field_contents": " - {{content}}", "link_style": "no-links", "list_separator": "\n", "remove_spaces": "true"}
-```
-
-
-
-
 
 #### ⚠️ `collections`
 
