@@ -1,7 +1,7 @@
 # `mdnotes` demo for "Zotero Metadata Template.md"
 
 - **`title`** - Consumption and standards of living
-- **`author`** -  Authors: [[Carle C. Zimmerman]]
+- **`author`** - Carle C. Zimmerman
 - **`shortTitle`** - - **`date`** -  Date: 1936
 - **`accessDate`** -  Access Date: 2021-08-26 08:24:23
 - **`language`** -  Language: eng

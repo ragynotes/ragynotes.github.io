@@ -1,7 +1,7 @@
 # `mdnotes` demo for "Zotero Metadata Template.md"
 
 - **`title`** - Botany : current literature
-- **`author`** -  Authors: [[ United States. Bureau of Plant Industry. Library]]
+- **`author`** -  United States. Bureau of Plant Industry. Library
 - **`shortTitle`** -  Short Title: Botany
 - **`date`** -  Date: 1933
 - **`accessDate`** -  Access Date: 2021-08-26 08:24:17

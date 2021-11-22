@@ -61,7 +61,15 @@ perfect! for the title. now what about the rest?
 
 ⚠️ changing the preference in the dialogue is only for "internal links" so this still turns to markdown. However not the end of the world so will proceed to fix the rest then return here later if needed. 
 
+#### `author`
 
+`extensions.mdnotes.placeholder.author` change to:
+
+```json
+{"content":"{{field_contents}}", "link_style": "none", "list_separator": ", "}
+```
+
+perfect!
 
 
 
