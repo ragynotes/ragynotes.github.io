@@ -17,7 +17,7 @@
 
 - **`itemType`** -  Item Type: Book
 - **`citekey`** - 1936zimmerman
-- **`tags`** -  Tags: #--Food
+- **`tags`** - --Food
 - **`dateAdded`** -  Date Added: 2021-07-26
 - **`notes`** - ## Highlights and Annotations
 

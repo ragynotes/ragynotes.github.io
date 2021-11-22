@@ -23,7 +23,13 @@
 
 - **`itemType`** -  Item Type: Article
 - **`citekey`** - 2015cinosi
-- **`tags`** -  Tags: #meta-analysis, #health-effects-of-kratom, #to-review-references, #ethnobotany
+- **`tags`** - ethnobotany
+
+	 health-effects-of-kratom
+
+	 meta-analysis
+
+	 to-review-references
 - **`dateAdded`** -  Date Added: 2021-07-26
 - **`notes`** - 
 Probably note useful, but might be:
