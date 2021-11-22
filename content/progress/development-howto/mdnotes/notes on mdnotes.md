@@ -125,6 +125,14 @@ perfect! have used what I believe to be the correct formatting for `yaml` which 
 
 * need to keep one tags default
 
+```yaml
+{"content":"tags: \n{{field_contents}}", "field_contents": " - {{content}}", "link_style": "no-links", "list_separator": "\n", "remove_spaces": "true"}
+```
+
+
+
+
+
 #### ⚠️ `collections`
 
 `extensions.mdnotes.placeholder.collections` change to:

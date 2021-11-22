@@ -1,18 +1,22 @@
 ---
-title: "Botany : current literature"
-title-short: "Botany"
-originalyear: 1930
+title: "Records of the Botanical Survey of India"
+title-short: ""
+originalyear: 1912
 type: "Book"
 
-tags:
- - mdnotes
-  
-alias: "1930unitedstates.bureauofplantindustry.library"
+tags: 
+ - 📓-Academic-Periodicals
+ - but-don't-delete-the-file
+ - delete-the-tag
+ - how-about-📓-emojis?
+ - zztest-tag
+ 
+alias: "1912botanicalsurveyofindia"
 lang: "eng"
 
 draft: true
 
-date: 2021-08-26 08:24:15
+date: 2021-08-26 08:08:59
 ---
 
 ## ❗ Document TODO
