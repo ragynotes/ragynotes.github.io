@@ -9,7 +9,7 @@ use "batch export to markdown"
 - need to include 2x line-breaks sequentially to ensure new line
 - tried changing export filenames to include `/` in hopes of making subdirectories but instead the files seem to have not showed up? looked in both specified and default directories but not found. 
 
-### custom formatting
+### custom formatting for preferences in `about:config`
 
 - It is adding the name of each feild before the information in the format: `Cite key: 1969blum`. This is documented with workarounds provided at: [Field formatting - zotero-mdnotes](https://argenos.gitbook.io/zotero-mdnotes/customization/formatting)
   - changes are made in Zotero hidden `about:config`. 
@@ -177,9 +177,15 @@ not sure how this one will work out... need to learn how the different parts of 
 
 Also, need to figure out how to enable attachments other than PDF. 
 
+#### new preference: `volume`
 
+create preference `extensions.mdnotes.placeholder.volume` with value:
 
+```json
+{"content":"{{field_contents}}", "link_style": "none", "list_separator": ", "}
+```
 
+perfect!
 
 
 

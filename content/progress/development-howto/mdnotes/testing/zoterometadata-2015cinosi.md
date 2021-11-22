@@ -16,7 +16,7 @@
 - **`patent`** - - **`place`** - - **`publicationTitle`** -  Publication Title: BioMed Research International
 - **`publisher`** - - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** -  Short Title: Following “the Roots” of Kratom (Mitragyna speciosa)
 - **`url`** - [https://www.hindawi.com/journals/bmri/2015/968786/](https://www.hindawi.com/journals/bmri/2015/968786/)
-- **`volume`** -  Volume: 2015
+- **`volume`** - 2015
 
 
 ## `mdnotes`  fields
