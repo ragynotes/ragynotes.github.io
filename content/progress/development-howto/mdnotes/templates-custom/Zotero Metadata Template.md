@@ -1,8 +1,4 @@
-
-
-
-
-
+# `mdnotes` demo for "Zotero Metadata Template.md"
 
 ## zotero fields
 

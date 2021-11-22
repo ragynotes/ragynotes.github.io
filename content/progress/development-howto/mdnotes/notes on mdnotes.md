@@ -2,6 +2,11 @@
 
 # notes on `mdnotes`
 
+## general
+
+- need to include 2x line-breaks sequentially to ensure new line
+- It is adding the name of each feild before the information in the format: `Cite key: 1969blum`. This is documented with workarounds provided at: [Field formatting - zotero-mdnotes](https://argenos.gitbook.io/zotero-mdnotes/customization/formatting)
+
 ## fields
 
 ### most useful Zotero fields
@@ -9,12 +14,10 @@
 descriptions can be found at [kb:item types and fields [Zotero Documentation]](https://www.zotero.org/support/kb/item_types_and_fields) and precise names at  [api.zotero.org/itemFields](https://api.zotero.org/itemFields?pprint=1). 
 
 - `{{country}}`
-
 - `{{DOI}}`
 
 - `{{edition}}`
 - `{{extra}}`
-
 - `{{ISBN}}`
 
 - `{{issue}}`
@@ -28,7 +31,7 @@ descriptions can be found at [kb:item types and fields [Zotero Documentation]](h
 - `{{publicationTitle}}`
 
 - `{{publisher}}`
-
+  - as link:  [San Francisco, Jossey-Bass](san-francisco,-jossey-bass)
 - `{{references}}`
 
 - `{{rights}}`
@@ -41,11 +44,12 @@ descriptions can be found at [kb:item types and fields [Zotero Documentation]](h
 
 - `{{volume}}`
 
-
+### `mdnotes`  fields
 
 Full list here: [Placeholders - zotero-mdnotes](https://argenos.gitbook.io/zotero-mdnotes/customization/placeholders#item-placeholders)
 
-- `{{itemType}}` - The Zotero item type.
+- `{{itemType}}` - The Zotero item type. 
+  - Creates a link: [Book](book)
 - `{{citekey}}` - The citekey (requires the Better Bibtex plugin).
 - `{{tags}}` - The list of tags for the selected item.
 - `{{dateAdded}}` - The date the item was added to your library.
