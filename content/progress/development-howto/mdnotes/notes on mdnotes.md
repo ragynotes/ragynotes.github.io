@@ -239,7 +239,8 @@ Full list here: [Placeholders - zotero-mdnotes](https://argenos.gitbook.io/zoter
 
 Probably note useful, but might be:
 
-- `{{pdfAttachments}}` = A list of links to any PDF attachments.
+- `{{pdfAttachments}}` = A list of links to any PDF attachments. 
+  - ❌ do not use: links to zotero URL. 
 
 - `{{mdnotesFileName}}` - The name of the default mdnotes file (following the naming convention).
 
