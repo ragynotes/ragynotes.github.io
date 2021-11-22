@@ -7,7 +7,7 @@
 
 ## zotero fields
 
-- **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** - - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - - **`url`** -  URL: [http://archive.org/details/nhbss_014_1g_schaller_pharmacognosyand](http://archive.org/details/nhbss_014_1g_schaller_pharmacognosyand)
+- **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** - - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - - **`url`** - [http://archive.org/details/nhbss_014_1g_schaller_pharmacognosyand](http://archive.org/details/nhbss_014_1g_schaller_pharmacognosyand)
 - **`volume`** - 
 
 ## `mdnotes`  fields

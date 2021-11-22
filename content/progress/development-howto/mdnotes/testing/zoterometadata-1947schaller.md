@@ -7,7 +7,7 @@
 
 ## zotero fields
 
-- **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** - - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - - **`url`** -  URL: [http://archive.org/details/nhbss_014_2h_schaller_beitragzurphar](http://archive.org/details/nhbss_014_2h_schaller_beitragzurphar)
+- **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** - - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - - **`url`** - [http://archive.org/details/nhbss_014_2h_schaller_beitragzurphar](http://archive.org/details/nhbss_014_2h_schaller_beitragzurphar)
 - **`volume`** - 
 
 ## `mdnotes`  fields

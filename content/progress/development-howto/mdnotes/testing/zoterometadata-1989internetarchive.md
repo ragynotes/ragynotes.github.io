@@ -10,7 +10,7 @@
 
 - **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** -  Publisher: [New Whole Earth, LLC](new-whole-earth,-llc)
 - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** -  Short Title: [Whole Earth Review  Fall 1989](whole-earth-review-fall-1989)
-- **`url`** -  URL: [http://archive.org/details/sim_whole-earth_fall-1989_64](http://archive.org/details/sim_whole-earth_fall-1989_64)
+- **`url`** - [http://archive.org/details/sim_whole-earth_fall-1989_64](http://archive.org/details/sim_whole-earth_fall-1989_64)
 - **`volume`** - 
 
 ## `mdnotes`  fields

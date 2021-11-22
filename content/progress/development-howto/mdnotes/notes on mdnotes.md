@@ -13,7 +13,9 @@ use "batch export to markdown"
 - It is adding the name of each feild before the information in the format: `Cite key: 1969blum`. This is documented with workarounds provided at: [Field formatting - zotero-mdnotes](https://argenos.gitbook.io/zotero-mdnotes/customization/formatting)
   - changes are made in Zotero hidden `about:config`. 
 
-try changing `extensions.mdnotes.bullet;`:
+#### `bullet`
+
+try changing `extensions.mdnotes.bullet`:
 
 ```json
 *
@@ -27,7 +29,9 @@ to
 
 ok, that help. not enough though.
 
-try changing `extensions.mdnotes.placeholder.title;`:
+#### `title`
+
+try changing `extensions.mdnotes.placeholder.title`:
 
 ```json
 {"content":"# {{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links"}
@@ -39,7 +43,41 @@ to
 {"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links"}
 ```
 
-perfect! for the title. 
+perfect! for the title. now what about the rest?
+
+#### `url`
+
+`extensions.mdnotes.placeholder.url` to (added `link_style` component):
+
+```json
+{"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links"}
+```
+
+- adding `link_style` didn't work so instead try changing value in preferences dialogue and change value to:
+
+```json
+{"content":"{{field_contents}}", "field_contents": "{{content}}"}
+```
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

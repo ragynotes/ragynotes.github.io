@@ -8,7 +8,7 @@
 ## zotero fields
 
 - **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** -  Publisher: [New York, D. Van Nostrand Co.](new-york,-d.-van-nostrand-co.)
-- **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - - **`url`** -  URL: [http://archive.org/details/consumptionstand0000unse](http://archive.org/details/consumptionstand0000unse)
+- **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - - **`url`** - [http://archive.org/details/consumptionstand0000unse](http://archive.org/details/consumptionstand0000unse)
 - **`volume`** - 
 
 ## `mdnotes`  fields

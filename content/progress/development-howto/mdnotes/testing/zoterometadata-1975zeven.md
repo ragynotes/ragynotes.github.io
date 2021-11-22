@@ -9,7 +9,7 @@
 
 - **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** -   I S B N: [978-90-220-0549-1](978-90-220-0549-1)
 - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** -  Publisher: [Wageningen : Centre for Agricultural Publishing and Documentation](wageningen-:-centre-for-agricultural-publishing-and-documentation)
-- **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - - **`url`** -  URL: [http://archive.org/details/dictionaryofcult0000zeve](http://archive.org/details/dictionaryofcult0000zeve)
+- **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - - **`url`** - [http://archive.org/details/dictionaryofcult0000zeve](http://archive.org/details/dictionaryofcult0000zeve)
 - **`volume`** - 
 
 ## `mdnotes`  fields
