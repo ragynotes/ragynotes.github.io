@@ -125,7 +125,7 @@ looks good! might consider changing `"list_separator"` to `/n/n` or making the w
 
 
 
-#### `tags`
+#### ⚠️ `tags`
 
 `extensions.mdnotes.placeholder.tags` change to:
 
@@ -133,19 +133,17 @@ looks good! might consider changing `"list_separator"` to `/n/n` or making the w
 {"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links", "list_separator": "\n\n\t", "remove_spaces": "true"}
 ```
 
-perfect! have used what I believe to be the correct formatting for `yaml` which is one tag per line (I prefer this to comma delineated lists). 2x `\n` is required at least for the display in typora. May not *actually* be needed in the frontmatter. 
+perfect! have used what I believe to be the correct formatting for `yaml` which is one tag per line (I prefer this to comma delineated lists). 2x `\n` is required at least for the display in typora. ⚠️ May not *actually* be needed in the frontmatter. 
 
-#### `collections`
+#### ⚠️ `collections`
 
 `extensions.mdnotes.placeholder.collections` change to:
 
 ```json
-{"content":"{{bullet}} Topics: {{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links", "list_separator": "\n\n\t"}
-
-
+{"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links", "list_separator": "\n\n\t"}
 ```
 
-
+⚠️ There are no items with >1 collection so this is not properly tested. I am also not sure if or how I will use this. Have defaulted to formatting same as `tags`  on the assumption that they would go in the `yaml` front matter. 
 
 
 

@@ -30,7 +30,11 @@ Probably note useful, but might be:
 
 - **`metadataFileName`** -  Metadata File Name: zoterometadata-1975zeven
 
-- **`collections`** -  Topics: [[📚 Ethnobotany]], [[🌿📚 RaNoAll (for export)]], [[mdnotes-test]]
+- **`collections`** - 📚 Ethnobotany
+
+	🌿📚 RaNoAll (for export)
+
+	mdnotes-test
 
 - **`related`** - 
   

@@ -30,7 +30,13 @@ Probably note useful, but might be:
 
 - **`metadataFileName`** -  Metadata File Name: zoterometadata-1947schaller
 
-- **`collections`** -  Topics: [[⬇️ Incoming]], [[German]], [[🌿📚 RaNoAll (for export)]], [[mdnotes-test]]
+- **`collections`** - ⬇️ Incoming
+
+	German
+
+	🌿📚 RaNoAll (for export)
+
+	mdnotes-test
 
 - **`related`** - 
   

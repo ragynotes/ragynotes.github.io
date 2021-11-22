@@ -41,7 +41,7 @@ Probably note useful, but might be:
 
 - **`metadataFileName`** -  Metadata File Name: zoterometadata-2015cinosi
 
-- **`collections`** -  Topics: [[mdnotes-test]]
+- **`collections`** - mdnotes-test
 
 - **`related`** - 
   

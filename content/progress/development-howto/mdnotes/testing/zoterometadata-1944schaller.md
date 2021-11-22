@@ -29,7 +29,11 @@ Probably note useful, but might be:
 
 - **`metadataFileName`** -  Metadata File Name: zoterometadata-1944schaller
 
-- **`collections`** -  Topics: [[⬇️ Incoming]], [[🌿📚 RaNoAll (for export)]], [[mdnotes-test]]
+- **`collections`** - ⬇️ Incoming
+
+	🌿📚 RaNoAll (for export)
+
+	mdnotes-test
 
 - **`related`** - 
   

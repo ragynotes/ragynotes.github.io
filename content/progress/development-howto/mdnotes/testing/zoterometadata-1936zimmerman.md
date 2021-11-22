@@ -32,7 +32,13 @@ Probably note useful, but might be:
 
 - **`metadataFileName`** -  Metadata File Name: zoterometadata-1936zimmerman
 
-- **`collections`** -  Topics: [[English]], [[📌 Best]], [[🌿📚 RaNoAll (for export)]], [[mdnotes-test]]
+- **`collections`** - English
+
+	📌 Best
+
+	🌿📚 RaNoAll (for export)
+
+	mdnotes-test
 
 - **`related`** - 
   

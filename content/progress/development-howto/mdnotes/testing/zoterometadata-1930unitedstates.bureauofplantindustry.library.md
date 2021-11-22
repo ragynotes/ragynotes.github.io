@@ -28,7 +28,11 @@ Probably note useful, but might be:
 
 - **`metadataFileName`** -  Metadata File Name: zoterometadata-1930unitedstates.bureauofplantindustry.library
 
-- **`collections`** -  Topics: [[English]], [[🌿📚 RaNoAll (for export)]], [[mdnotes-test]]
+- **`collections`** - English
+
+	🌿📚 RaNoAll (for export)
+
+	mdnotes-test
 
 - **`related`** - 
   

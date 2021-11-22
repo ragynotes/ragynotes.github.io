@@ -32,7 +32,11 @@ Probably note useful, but might be:
 
 - **`metadataFileName`** -  Metadata File Name: zoterometadata-1989internetarchive
 
-- **`collections`** -  Topics: [[⬇️ Incoming]], [[🌿📚 RaNoAll (for export)]], [[mdnotes-test]]
+- **`collections`** - ⬇️ Incoming
+
+	🌿📚 RaNoAll (for export)
+
+	mdnotes-test
 
 - **`related`** - 
   
