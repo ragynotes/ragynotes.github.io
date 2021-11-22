@@ -1,14 +1,14 @@
 ---
-title: Botany : current literature
-title-short: Botany
+title: "Botany : current literature"
+title-short: "Botany"
 originalyear: 1930
-type: Book
+type: "Book"
 
 tags:
  - mdnotes
   
-alias: 1930unitedstates.bureauofplantindustry.library
-lang: eng
+alias: "1930unitedstates.bureauofplantindustry.library"
+lang: "eng"
 
 draft: true
 

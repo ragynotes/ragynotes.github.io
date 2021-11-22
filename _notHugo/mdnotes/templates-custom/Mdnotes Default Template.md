@@ -1,15 +1,15 @@
 ---
-title: {{title}}
-title-short: {{shortTitle}}
+title: "{{title}}"
+title-short: "{{shortTitle}}"
 originalyear: {{date}}
-type: {{itemType}}
+type: "{{itemType}}"
 
 tags:
  - mdnotes
  {{tags}}
  
-alias: {{citekey}}
-lang: {{language}}
+alias: "{{citekey}}"
+lang: "{{language}}"
 
 draft: true
 
