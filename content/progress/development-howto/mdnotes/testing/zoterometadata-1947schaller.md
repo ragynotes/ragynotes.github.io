@@ -2,9 +2,9 @@
 
 - **`title`** - Beitrag zur Pharmakognosie der Arznei-und Wirtschaftspflanzen Siams
 - **`author`** - Rudolf Schaller
-- **`shortTitle`** - - **`date`** -  Date: 1947
-- **`accessDate`** -  Access Date: 2021-10-23 09:19:05
-- **`language`** -  Language: German
+- **`shortTitle`** - - **`date`** - 1947
+- **`accessDate`** - 2021-10-23 09:19:05
+- **`language`** - German
 - **`abstractNote`** - 
 ## zotero fields
 

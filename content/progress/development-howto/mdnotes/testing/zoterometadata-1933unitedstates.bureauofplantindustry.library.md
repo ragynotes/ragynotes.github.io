@@ -3,9 +3,9 @@
 - **`title`** - Botany : current literature
 - **`author`** -  United States. Bureau of Plant Industry. Library
 - **`shortTitle`** - Botany
-- **`date`** -  Date: 1933
-- **`accessDate`** -  Access Date: 2021-08-26 08:24:17
-- **`language`** -  Language: eng
+- **`date`** - 1933
+- **`accessDate`** - 2021-08-26 08:24:17
+- **`language`** - eng
 - **`abstractNote`** - Continued by a new series which appear weekly under the title; Plant science literature. 1.9 P69 Lcp
 
 ## zotero fields

@@ -2,9 +2,9 @@
 
 - **`title`** - Pharmacognosy and its Importance for Thailand
 - **`author`** - Rudolf Schaller
-- **`shortTitle`** - - **`date`** -  Date: 1944
-- **`accessDate`** -  Access Date: 2021-10-23 09:29:10
-- **`language`** -  Language: English
+- **`shortTitle`** - - **`date`** - 1944
+- **`accessDate`** - 2021-10-23 09:29:10
+- **`language`** - English
 - **`abstractNote`** - 
 ## zotero fields
 

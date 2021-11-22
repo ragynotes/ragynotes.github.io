@@ -2,9 +2,9 @@
 
 - **`title`** - Consumption and standards of living
 - **`author`** - Carle C. Zimmerman
-- **`shortTitle`** - - **`date`** -  Date: 1936
-- **`accessDate`** -  Access Date: 2021-08-26 08:24:23
-- **`language`** -  Language: eng
+- **`shortTitle`** - - **`date`** - 1936
+- **`accessDate`** - 2021-08-26 08:24:23
+- **`language`** - eng
 - **`abstractNote`** - xvi, 602 pages 24 cm; commitment to retain 20151204
 
 ## zotero fields

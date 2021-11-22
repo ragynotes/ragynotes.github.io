@@ -2,9 +2,9 @@
 
 - **`title`** - Whole Earth Review  Fall 1989: Iss 64
 - **`author`** - - **`shortTitle`** - Whole Earth Review  Fall 1989
-- **`date`** -  Date: Fall 1989
-- **`accessDate`** -  Access Date: 2021-10-23 08:50:21
-- **`language`** -  Language: English
+- **`date`** - Fall 1989
+- **`accessDate`** - 2021-10-23 08:50:21
+- **`language`** - English
 - **`abstractNote`** - Whole Earth Review Fall 1989: Volume None, Issue 64.
 Digitized from IA1632309-05.
 Previous issue: sim_whole-earth_summer-1989_63.

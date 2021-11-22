@@ -199,7 +199,7 @@ create preference `extensions.mdnotes.placeholder.shortTitle` with value:
 {"content":"{{field_contents}}", "link_style": "none", "list_separator": ", "}
 ```
 
-
+perfect!
 
 #### new preference: `pages`
 
@@ -209,7 +209,7 @@ create preference `extensions.mdnotes.placeholder.pages` with value:
 {"content":"{{field_contents}}", "link_style": "none", "list_separator": ", "}
 ```
 
-
+perfect!
 
 #### new preference: `itemType`
 
@@ -218,6 +218,52 @@ create preference `extensions.mdnotes.placeholder.itemType` with value:
 ```json
 {"content":"{{field_contents}}", "link_style": "itemType", "list_separator": ", "}
 ```
+
+perfect!
+
+#### new preference: `date`
+
+create preference `extensions.mdnotes.placeholder.date` with value:
+
+```json
+{"content":"{{field_contents}}", "link_style": "itemType", "list_separator": ", "}
+```
+
+perfect!
+
+#### new preference: `accessDate`
+
+create preference `extensions.mdnotes.placeholder.accessDate` with value:
+
+```json
+{"content":"{{field_contents}}", "link_style": "itemType", "list_separator": ", "}
+```
+
+perfect!
+
+#### new preference: `language`
+
+create preference `extensions.mdnotes.placeholder.language` with value:
+
+```json
+{"content":"{{field_contents}}", "link_style": "itemType", "list_separator": ", "}
+```
+
+perfect!
+
+#### new preference: `publicationTitle`
+
+create preference `extensions.mdnotes.placeholder.publicationTitle` with value:
+
+```json
+{"content":"{{field_contents}}", "link_style": "itemType", "list_separator": ", "}
+```
+
+perfect!
+
+
+
+
 
 
 
