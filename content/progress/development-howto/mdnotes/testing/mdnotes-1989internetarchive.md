@@ -3,8 +3,8 @@ Whole Earth Review  Fall 1989: Iss 64
 ![[zoterometadata-1989internetarchive#Metadata]]
 
 Other files:
- Mdnotes File Name: [mdnotes-1989internetarchive](mdnotes-1989internetarchive)
- Metadata File Name: [zoterometadata-1989internetarchive](zoterometadata-1989internetarchive)
+ Mdnotes File Name: mdnotes-1989internetarchive
+ Metadata File Name: zoterometadata-1989internetarchive
 
 ## Zotero links
 

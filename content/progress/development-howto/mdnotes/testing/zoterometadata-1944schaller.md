@@ -1,9 +1,9 @@
 # `mdnotes` demo for "Zotero Metadata Template.md"
 
 - **`title`** - Pharmacognosy and its Importance for Thailand
-- **`shortTitle`** - - **`date`** -  Date: [1944](1944)
-- **`accessDate`** -  Access Date: [2021-10-23 09:29:10](2021-10-23-09:29:10)
-- **`language`** -  Language: [English](english)
+- **`shortTitle`** - - **`date`** -  Date: 1944
+- **`accessDate`** -  Access Date: 2021-10-23 09:29:10
+- **`language`** -  Language: English
 
 ## zotero fields
 
@@ -12,9 +12,9 @@
 
 ## `mdnotes`  fields
 
-- **`itemType`** -  Item Type: [Book](book)
+- **`itemType`** -  Item Type: Book
 - **`citekey`** -  Cite key: 1944schaller
-- **`tags`** - - **`dateAdded`** -  Date Added: [2021-09-23](2021-09-23)
+- **`tags`** - - **`dateAdded`** -  Date Added: 2021-09-23
 - **`notes`** - ## Highlights and Annotations
 
 - [[zoteronote-1944schaller - pg 47]]
@@ -24,9 +24,9 @@ Probably note useful, but might be:
 - **`pdfAttachments`** -  PDF Attachments
 	- [1944-schaller-.pdf](zotero://open-pdf/library/items/6UJRFL6D)
 
-- **`mdnotesFileName`** -  Mdnotes File Name: [mdnotes-1944schaller](mdnotes-1944schaller)
+- **`mdnotesFileName`** -  Mdnotes File Name: mdnotes-1944schaller
 
-- **`metadataFileName`** -  Metadata File Name: [zoterometadata-1944schaller](zoterometadata-1944schaller)
+- **`metadataFileName`** -  Metadata File Name: zoterometadata-1944schaller
 
 - **`collections`** -  Topics: [[⬇️ Incoming]], [[🌿📚 RaNoAll (for export)]], [[mdnotes-test]]
 

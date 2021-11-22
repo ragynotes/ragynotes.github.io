@@ -3,8 +3,8 @@ Records of the Botanical Survey of India
 ![[zoterometadata-1912botanicalsurveyofindia#Metadata]]
 
 Other files:
- Mdnotes File Name: [mdnotes-1912botanicalsurveyofindia](mdnotes-1912botanicalsurveyofindia)
- Metadata File Name: [zoterometadata-1912botanicalsurveyofindia](zoterometadata-1912botanicalsurveyofindia)
+ Mdnotes File Name: mdnotes-1912botanicalsurveyofindia
+ Metadata File Name: zoterometadata-1912botanicalsurveyofindia
 
 ## Zotero links
 

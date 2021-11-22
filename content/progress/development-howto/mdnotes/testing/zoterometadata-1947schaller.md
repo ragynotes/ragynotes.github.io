@@ -1,9 +1,9 @@
 # `mdnotes` demo for "Zotero Metadata Template.md"
 
 - **`title`** - Beitrag zur Pharmakognosie der Arznei-und Wirtschaftspflanzen Siams
-- **`shortTitle`** - - **`date`** -  Date: [1947](1947)
-- **`accessDate`** -  Access Date: [2021-10-23 09:19:05](2021-10-23-09:19:05)
-- **`language`** -  Language: [German](german)
+- **`shortTitle`** - - **`date`** -  Date: 1947
+- **`accessDate`** -  Access Date: 2021-10-23 09:19:05
+- **`language`** -  Language: German
 
 ## zotero fields
 
@@ -12,9 +12,9 @@
 
 ## `mdnotes`  fields
 
-- **`itemType`** -  Item Type: [Book](book)
+- **`itemType`** -  Item Type: Book
 - **`citekey`** -  Cite key: 1947schaller
-- **`tags`** - - **`dateAdded`** -  Date Added: [2021-09-23](2021-09-23)
+- **`tags`** - - **`dateAdded`** -  Date Added: 2021-09-23
 - **`notes`** - ## Highlights and Annotations
 
 - [[zoteronote-1947schaller - pg 78]]
@@ -25,9 +25,9 @@ Probably note useful, but might be:
 	- [1947-schaller-.pdf](zotero://open-pdf/library/items/EQRBRRM5)
 	- [1947-schaller-.pdf](zotero://open-pdf/library/items/6WVX4CUE)
 
-- **`mdnotesFileName`** -  Mdnotes File Name: [mdnotes-1947schaller](mdnotes-1947schaller)
+- **`mdnotesFileName`** -  Mdnotes File Name: mdnotes-1947schaller
 
-- **`metadataFileName`** -  Metadata File Name: [zoterometadata-1947schaller](zoterometadata-1947schaller)
+- **`metadataFileName`** -  Metadata File Name: zoterometadata-1947schaller
 
 - **`collections`** -  Topics: [[⬇️ Incoming]], [[German]], [[🌿📚 RaNoAll (for export)]], [[mdnotes-test]]
 

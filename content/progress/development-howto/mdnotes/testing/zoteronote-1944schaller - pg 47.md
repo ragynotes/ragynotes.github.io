@@ -1,4 +1,4 @@
- Mdnotes File Name: [mdnotes-1944schaller](mdnotes-1944schaller)
+ Mdnotes File Name: mdnotes-1944schaller
 
 pg 47
 

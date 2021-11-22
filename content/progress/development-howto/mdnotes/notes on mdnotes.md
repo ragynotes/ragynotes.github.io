@@ -45,7 +45,7 @@ to
 
 perfect! for the title. now what about the rest?
 
-#### `url`
+#### ⚠️ `url`
 
 `extensions.mdnotes.placeholder.url` to (added `link_style` component):
 
@@ -59,7 +59,9 @@ perfect! for the title. now what about the rest?
 {"content":"{{field_contents}}", "field_contents": "{{content}}"}
 ```
 
-- 
+⚠️ changing the preference in the dialogue is only for "internal links" so this still turns to markdown. However not the end of the world so will proceed to fix the rest then return here later if needed. 
+
+
 
 
 

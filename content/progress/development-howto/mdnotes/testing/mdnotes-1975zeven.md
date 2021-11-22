@@ -3,8 +3,8 @@ Dictionary of cultivated plants and their centres of diversity excluding ornamen
 ![[zoterometadata-1975zeven#Metadata]]
 
 Other files:
- Mdnotes File Name: [mdnotes-1975zeven](mdnotes-1975zeven)
- Metadata File Name: [zoterometadata-1975zeven](zoterometadata-1975zeven)
+ Mdnotes File Name: mdnotes-1975zeven
+ Metadata File Name: zoterometadata-1975zeven
 
 ## Zotero links
 

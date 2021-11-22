@@ -1,4 +1,4 @@
- Mdnotes File Name: [mdnotes-1936zimmerman](mdnotes-1936zimmerman)
+ Mdnotes File Name: mdnotes-1936zimmerman
 
 pg 63-64
 
