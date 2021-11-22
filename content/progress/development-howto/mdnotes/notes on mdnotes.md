@@ -5,7 +5,29 @@
 ## general
 
 - need to include 2x line-breaks sequentially to ensure new line
+
+### custom formatting
+
 - It is adding the name of each feild before the information in the format: `Cite key: 1969blum`. This is documented with workarounds provided at: [Field formatting - zotero-mdnotes](https://argenos.gitbook.io/zotero-mdnotes/customization/formatting)
+  - changes are made in Zotero hidden `about:config`. 
+
+try changing:
+
+```json
+extensions.mdnotes.bullet;*
+```
+
+to
+
+```json
+extensions.mdnotes.bullet;
+```
+
+
+
+
+
+
 
 ## fields
 
