@@ -10,7 +10,7 @@
 ## zotero fields
 
 - **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - 978-90-220-0549-1
-- **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** -  Publisher: Wageningen : Centre for Agricultural Publishing and Documentation
+- **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** - Wageningen : Centre for Agricultural Publishing and Documentation
 - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - - **`url`** - [http://archive.org/details/dictionaryofcult0000zeve](http://archive.org/details/dictionaryofcult0000zeve)
 - **`volume`** - 
 

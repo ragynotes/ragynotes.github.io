@@ -9,7 +9,7 @@
 
 ## zotero fields
 
-- **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** -  Publisher: Calcutta : Office of Supt. of Govt. Print., India
+- **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** - Calcutta : Office of Supt. of Govt. Print., India
 - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - - **`url`** - [http://archive.org/details/recordsofbotanic61912bota](http://archive.org/details/recordsofbotanic61912bota)
 - **`volume`** - 6
 

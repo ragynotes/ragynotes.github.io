@@ -12,7 +12,7 @@ Next issue: sim_whole-earth_winter-1989_65.
 
 ## zotero fields
 
-- **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** -  Publisher: New Whole Earth, LLC
+- **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** - New Whole Earth, LLC
 - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - Whole Earth Review  Fall 1989
 - **`url`** - [http://archive.org/details/sim_whole-earth_fall-1989_64](http://archive.org/details/sim_whole-earth_fall-1989_64)
 - **`volume`** - 

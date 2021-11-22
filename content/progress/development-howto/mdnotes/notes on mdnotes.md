@@ -327,6 +327,52 @@ perfect!
 
 
 
+#### new preference: `publisher`
+
+create preference `extensions.mdnotes.placeholder.publisher` with value:
+
+```json
+{"content":"{{field_contents}}", "link_style": "itemType", "list_separator": ", "}
+```
+
+perfect!
+
+#### new preference: `references`
+
+create preference `extensions.mdnotes.placeholder.references` with value:
+
+```json
+{"content":"{{field_contents}}", "link_style": "itemType", "list_separator": ", "}
+```
+
+perfect!
+
+#### new preference: `rights`
+
+create preference `extensions.mdnotes.placeholder.rights` with value:
+
+```json
+{"content":"{{field_contents}}", "link_style": "itemType", "list_separator": ", "}
+```
+
+perfect!
+
+#### new preference: `section`
+
+create preference `extensions.mdnotes.placeholder.section` with value:
+
+```json
+{"content":"{{field_contents}}", "link_style": "itemType", "list_separator": ", "}
+```
+
+perfect!
+
+
+
+
+
+
+
 
 
 

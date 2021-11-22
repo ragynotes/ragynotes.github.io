@@ -10,7 +10,7 @@
 
 ## zotero fields
 
-- **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** - - **`references`** - - **`rights`** -  Rights: The contributing institution believes that this item is not in copyright.
+- **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** - - **`references`** - - **`rights`** - The contributing institution believes that this item is not in copyright.
 - **`section`** - - **`shortTitle`** - Botany
 - **`url`** - [http://archive.org/details/botanycurrentlit14unit](http://archive.org/details/botanycurrentlit14unit)
 - **`volume`** - 
