@@ -1,11 +1,21 @@
 ---
 title: "ZZZZ test fake file"
 title-short: ""
+<<<<<<< HEAD:content/testing/Nov22/document-zotero-1405-mdn.md
 originalyear:  
 type: ""
 
 alias: "zotero-1405"
 lang: ""
+=======
+originalyear: 1912
+type: "Book"
+
+
+ 
+alias: "1912botanicalsurveyofindia"
+lang: "eng"
+>>>>>>> 613b62143256f101756fa4ac1d7020274117243c:content/testing/Nov22/document-1912botanicalsurveyofindia-mdn.md
 
 draft: true
 
