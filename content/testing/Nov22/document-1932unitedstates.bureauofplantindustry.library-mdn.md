@@ -1,17 +1,17 @@
 ---
-title: "{{title}}"
-title-short: "{{shortTitle}}"
-originalyear: {{date}}
-type: "{{itemType}}"
+title: "Botany : current literature"
+title-short: "Botany"
+originalyear: 1932
+type: "Book"
 
 
  
-alias: "{{citekey}}"
-lang: "{{language}}"
+alias: "1932unitedstates.bureauofplantindustry.library"
+lang: "eng"
 
 draft: true
 
-date: {{accessDate}}
+date: 2021-08-26 08:24:16
 ---
 
 ## ❗ Document TODO
