@@ -19,9 +19,7 @@
 - **`itemType`** -  Item Type: Book
 - **`citekey`** - 1975zeven
 - **`tags`** - - **`dateAdded`** -  Date Added: 2021-09-23
-- **`notes`** - ## Highlights and Annotations
-
-- [[zoteronote-1975zeven - ]]
+- **`notes`** - zoteronote-1975zeven - 
 
 Probably note useful, but might be:
 

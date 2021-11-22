@@ -10,9 +10,7 @@
 
 - **`itemType`** - - **`citekey`** - zotero-1405
 - **`tags`** - - **`dateAdded`** -  Date Added: 2021-10-22
-- **`notes`** - ## Highlights and Annotations
-
-- [[zoteronote-zotero-1405 - here is a blockquote from something I haven't read]]
+- **`notes`** - zoteronote-zotero-1405 - here is a blockquote from something I haven't read
 
 Probably note useful, but might be:
 

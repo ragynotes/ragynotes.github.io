@@ -61,7 +61,7 @@ perfect! for the title. now what about the rest?
 {"content":"{{field_contents}}", "field_contents": "{{content}}"}
 ```
 
-⚠️ changing the preference in the dialogue is only for "internal links" so this still turns to markdown. However not the end of the world so will proceed to fix the rest then return here later if needed. 
+⚠ changing the preference in the dialogue is only for "internal links" so this still turns to markdown. However not the end of the world so will proceed to fix the rest then return here later if needed. 
 
 #### `author`
 
@@ -121,7 +121,7 @@ looks good! might consider changing `"list_separator"` to `/n/n` or making the w
 {"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links"}
 ```
 
-⚠️result is: `[10/gb85nb](https://doi.org/10/gb85nb)` so still has link. May need to investigate further in the future but for now, leave. 
+⚠ result is: `[10/gb85nb](https://doi.org/10/gb85nb)` so still has link. May need to investigate further in the future but for now, leave. 
 
 
 
@@ -133,7 +133,7 @@ looks good! might consider changing `"list_separator"` to `/n/n` or making the w
 {"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links", "list_separator": "\n\n\t", "remove_spaces": "true"}
 ```
 
-perfect! have used what I believe to be the correct formatting for `yaml` which is one tag per line (I prefer this to comma delineated lists). 2x `\n` is required at least for the display in typora. ⚠️ May not *actually* be needed in the frontmatter. 
+perfect! have used what I believe to be the correct formatting for `yaml` which is one tag per line (I prefer this to comma delineated lists). 2x `\n` is required at least for the display in typora. ⚠  May not *actually* be needed in the frontmatter. 
 
 #### ⚠️ `collections`
 
@@ -143,7 +143,7 @@ perfect! have used what I believe to be the correct formatting for `yaml` which
 {"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links", "list_separator": "\n\n\t"}
 ```
 
-⚠️ There are no items with >1 collection so this is not properly tested. I am also not sure if or how I will use this. Have defaulted to formatting same as `tags`  on the assumption that they would go in the `yaml` front matter. 
+⚠ There are no items with >1 collection so this is not properly tested. I am also not sure if or how I will use this. Have defaulted to formatting same as `tags`  on the assumption that they would go in the `yaml` front matter. 
 
 #### `related` items
 
@@ -153,15 +153,25 @@ perfect! have used what I believe to be the correct formatting for `yaml` which
 {"content":"{{field_contents}}", "link_style": "no-links", "list_separator": ", "}
 ```
 
-#### `notes`
+#### ⚠️ `notes`
 
 `extensions.mdnotes.placeholder.notes` change to:
 
 ```json
-{"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "wiki", "list_separator": "\n- "}
+{"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links", "list_separator": "\n- "}
 ```
 
+not sure how this one will work out... need to learn how the different parts of extension work together. 
 
+⚠ changed`"link_style":` from ` "wiki"` to `"no-links"` but something else might be more appropriate... or let `hugo` handle it. 
+
+#### 
+
+
+
+```json
+{"content":"{{bullet}} PDF Attachments\n\t- {{field_contents}}", "field_contents": "{{content}}", "list_separator": "\n\t- "}
+```
 
 
 

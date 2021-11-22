@@ -19,9 +19,7 @@
 - **`citekey`** - 1936zimmerman
 - **`tags`** - --Food
 - **`dateAdded`** -  Date Added: 2021-07-26
-- **`notes`** - ## Highlights and Annotations
-
-- [[zoteronote-1936zimmerman - pg 63-64]]
+- **`notes`** - zoteronote-1936zimmerman - pg 63-64
 
 Probably note useful, but might be:
 

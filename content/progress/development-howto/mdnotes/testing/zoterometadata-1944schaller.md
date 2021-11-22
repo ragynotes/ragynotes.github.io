@@ -16,9 +16,7 @@
 - **`itemType`** -  Item Type: Book
 - **`citekey`** - 1944schaller
 - **`tags`** - - **`dateAdded`** -  Date Added: 2021-09-23
-- **`notes`** - ## Highlights and Annotations
-
-- [[zoteronote-1944schaller - pg 47]]
+- **`notes`** - zoteronote-1944schaller - pg 47
 
 Probably note useful, but might be:
 
