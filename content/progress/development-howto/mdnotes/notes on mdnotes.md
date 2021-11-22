@@ -80,10 +80,18 @@ what happens if I just delete the value of the key?
 `extensions.mdnotes.placeholder.citekey` original:
 
 ```json
-{"content":"{{bullet}} Cite key: {{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links"
+{"content":"{{bullet}} Cite key: {{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links"}
 ```
 
 seems to have no impact. 
+
+change to:
+
+```json
+{"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links"}
+```
+
+perfect! 
 
 
 

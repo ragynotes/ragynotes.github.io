@@ -14,7 +14,7 @@
 ## `mdnotes`  fields
 
 - **`itemType`** -  Item Type: Book
-- **`citekey`** -  Citekey: 1947schaller
+- **`citekey`** - 1947schaller
 - **`tags`** - - **`dateAdded`** -  Date Added: 2021-09-23
 - **`notes`** - ## Highlights and Annotations
 

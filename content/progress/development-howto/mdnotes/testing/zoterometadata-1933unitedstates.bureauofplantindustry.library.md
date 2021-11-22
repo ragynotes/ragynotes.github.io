@@ -21,7 +21,7 @@ Continued by a new series which appear weekly under the title; Plant science lit
 ## `mdnotes`  fields
 
 - **`itemType`** -  Item Type: Book
-- **`citekey`** -  Citekey: 1933unitedstates.bureauofplantindustry.library
+- **`citekey`** - 1933unitedstates.bureauofplantindustry.library
 - **`tags`** - - **`dateAdded`** -  Date Added: 2021-07-26
 - **`notes`** - 
 Probably note useful, but might be:
