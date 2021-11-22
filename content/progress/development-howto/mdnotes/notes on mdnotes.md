@@ -367,21 +367,33 @@ create preference `extensions.mdnotes.placeholder.section` with value:
 
 perfect!
 
+#### ⚠️ new preference: `extra`
+
+create preference `extensions.mdnotes.placeholder.extra` with value:
+
+```json
+{"content":"{{field_contents}}", "link_style": "itemType", "list_separator": ", "}
+```
+
+⚠ Looks OK but will probably need to be checked if used much. 
+
+#### not done: new preference: `metadataFileName`
+
+create preference `extensions.mdnotes.placeholder.metadataFileName` with value:
+
+```json
+
+```
+
+#### not done: new preference: `mdnotesFileName`
+
+create preference `extensions.mdnotes.placeholder.mdnotesFileName` with value:
+
+```json
+
+```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-#### todo: new preference: `extra`
 
 
 

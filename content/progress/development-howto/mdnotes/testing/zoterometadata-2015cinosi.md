@@ -11,7 +11,7 @@
 ## zotero fields
 
 - **`country`** - - **`DOI`** - [10/gb85nb](https://doi.org/10/gb85nb)
-- **`edition`** - - **`extra`** -  Extra: Publisher: Hindawi
+- **`edition`** - - **`extra`** - Publisher: Hindawi
 - **`ISBN`** - - **`issue`** - - **`pages`** - e968786
 - **`patent`** - - **`place`** - - **`publicationTitle`** - BioMed Research International
 - **`publisher`** - - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - Following “the Roots” of Kratom (Mitragyna speciosa)
