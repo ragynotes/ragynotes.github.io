@@ -165,15 +165,17 @@ not sure how this one will work out... need to learn how the different parts of 
 
 ⚠ changed`"link_style":` from ` "wiki"` to `"no-links"` but something else might be more appropriate... or let `hugo` handle it. 
 
-#### 
+#### `pdfAttachments`
 
-
+`extensions.mdnotes.placeholder.pdfAttachments` change to:
 
 ```json
 {"content":"{{bullet}} PDF Attachments\n\t- {{field_contents}}", "field_contents": "{{content}}", "list_separator": "\n\t- "}
 ```
 
+❌ do not use: links to zotero URL. 
 
+Also, need to figure out how to enable attachments other than PDF. 
 
 
 
