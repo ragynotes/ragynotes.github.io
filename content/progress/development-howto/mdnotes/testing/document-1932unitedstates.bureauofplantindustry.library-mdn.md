@@ -5,7 +5,7 @@ originalyear: 1932
 type: Book	# zotero type ⚠️
 
 tags:								# ⚠️ check how does this output
-#  - summary: 							# ❗
+	- summary: 							# ❗
 alias: 1932unitedstates.bureauofplantindustry.library
 lang: eng
 .IsTranslated: false				# ❗

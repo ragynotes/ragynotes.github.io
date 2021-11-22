@@ -3,7 +3,7 @@ title: ZZZZ test fake file
 title-short: originalyear: type: 	# zotero type ⚠️
 
 tags:								# ⚠️ check how does this output
-#  - summary: 							# ❗
+	- summary: 							# ❗
 alias: zotero-1405
 lang: .IsTranslated: false				# ❗
 

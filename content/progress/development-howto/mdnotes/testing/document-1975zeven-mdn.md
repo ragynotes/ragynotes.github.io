@@ -4,7 +4,7 @@ title-short: originalyear: 1975
 type: Book	# zotero type ⚠️
 
 tags:								# ⚠️ check how does this output
-#  - summary: 							# ❗
+	- summary: 							# ❗
 alias: 1975zeven
 lang: eng
 .IsTranslated: false				# ❗

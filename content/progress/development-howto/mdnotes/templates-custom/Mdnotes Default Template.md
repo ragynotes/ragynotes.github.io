@@ -5,7 +5,7 @@ originalyear: {{date}}
 type: {{itemType}}	# zotero type ⚠️
 
 tags:								# ⚠️ check how does this output
-#  - {{tags}}
+	- {{tags}}
 summary: 							# ❗
 alias: {{citekey}}
 lang: {{language}}

@@ -4,7 +4,7 @@ title-short: originalyear: 1947
 type: Book	# zotero type ⚠️
 
 tags:								# ⚠️ check how does this output
-#  - summary: 							# ❗
+	- summary: 							# ❗
 alias: 1947schaller
 lang: German
 .IsTranslated: false				# ❗

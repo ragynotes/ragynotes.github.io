@@ -4,7 +4,7 @@ title-short: originalyear: 1912
 type: Book	# zotero type ⚠️
 
 tags:								# ⚠️ check how does this output
-#  - 📓-Academic-Periodicals
+	- 📓-Academic-Periodicals
 summary: 							# ❗
 alias: 1912botanicalsurveyofindia
 lang: eng

@@ -4,7 +4,7 @@ title-short: originalyear: 1936
 type: Book	# zotero type ⚠️
 
 tags:								# ⚠️ check how does this output
-#  - --Food
+	- --Food
 summary: 							# ❗
 alias: 1936zimmerman
 lang: eng

@@ -5,7 +5,7 @@ originalyear: Fall 1989
 type: Book	# zotero type ⚠️
 
 tags:								# ⚠️ check how does this output
-#  - summary: 							# ❗
+	- summary: 							# ❗
 alias: 1989internetarchive
 lang: English
 .IsTranslated: false				# ❗

@@ -7,13 +7,13 @@ use "batch export to markdown"
 ## general
 
 - need to include 2x line-breaks sequentially to ensure new line
-- tried changing export filenames to include `/` in hopes of making subdirectories but instead the files seem to have not showed up? looked in both specified and default directories but not found. 
+- tried changing export filenames to include `/` in hopes of making subdirectories but instead the files seem to have not showed up? looked in both specified and default directories but not found. 
 
 ### custom formatting for preferences in `about:config`
 
 - It is adding the name of each feild before the information in the format: `Cite key: 1969blum`. This is documented with workarounds provided at: [Field formatting - zotero-mdnotes](https://argenos.gitbook.io/zotero-mdnotes/customization/formatting)
   - changes are made in Zotero hidden `about:config`. 
-- I notice that line breaks are denoted with `\n`
+- I notice that line breaks are denoted with `\n`
 
 #### `bullet`
 
@@ -121,19 +121,17 @@ looks good! might consider changing `"list_separator"` to `/n/n` or making the w
 {"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links"}
 ```
 
-⚠ result is: `[10/gb85nb](https://doi.org/10/gb85nb)` so still has link. May need to investigate further in the future but for now, leave. 
+⚠ result is: `[10/gb85nb](https://doi.org/10/gb85nb)` so still has link. May need to investigate further in the future but for now, leave. 
 
-
-
-####  `tags`
+####  `tags`
 
 `extensions.mdnotes.placeholder.tags` change to:
 
 ```json
-{"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links", "list_separator": "\n\t", "remove_spaces": "true"}
+{"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links", "list_separator": "\n\t- ", "remove_spaces": "true"}
 ```
 
-perfect! have used what I believe to be the correct formatting for `yaml` which is one tag per line (I prefer this to comma delineated lists). 
+perfect! have used what I believe to be the correct formatting for `yaml` which is one tag per line (I prefer this to comma delineated lists). [relevant hugo documentation](https://gohugo.io/content-management/taxonomies/#order-taxonomies)
 
 #### ⚠️ `collections`
 
@@ -143,9 +141,9 @@ perfect! have used what I believe to be the correct formatting for `yaml` which
 {"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links", "list_separator": "\n\n\t"}
 ```
 
-⚠ There are no items with >1 collection so this is not properly tested. I am also not sure if or how I will use this. Have defaulted to formatting same as `tags`  on the assumption that they would go in the `yaml` front matter. 
+⚠ There are no items with >1 collection so this is not properly tested. I am also not sure if or how I will use this. Have defaulted to formatting same as `tags`  on the assumption that they would go in the `yaml` front matter. 
 
-#### `related` items
+#### `related` items
 
 `extensions.mdnotes.placeholder.related` change to
 
@@ -163,7 +161,7 @@ perfect! have used what I believe to be the correct formatting for `yaml` which
 
 not sure how this one will work out... need to learn how the different parts of extension work together. 
 
-⚠ changed`"link_style":` from ` "wiki"` to `"no-links"` but something else might be more appropriate... or let `hugo` handle it. 
+⚠ changed`"link_style":` from ` "wiki"` to `"no-links"` but something else might be more appropriate... or let `hugo` handle it. 
 
 #### `pdfAttachments`
 
@@ -401,7 +399,7 @@ create preference `extensions.mdnotes.placeholder.mdnotesFileName` with value:
 
 ### most useful Zotero fields
 
-descriptions can be found at [kb:item types and fields [Zotero Documentation]](https://www.zotero.org/support/kb/item_types_and_fields) and precise names at  [api.zotero.org/itemFields](https://api.zotero.org/itemFields?pprint=1). 
+descriptions can be found at [kb:item types and fields [Zotero Documentation]](https://www.zotero.org/support/kb/item_types_and_fields) and precise names at  [api.zotero.org/itemFields](https://api.zotero.org/itemFields?pprint=1). 
 
 - `{{country}}`
 - `{{DOI}}`
