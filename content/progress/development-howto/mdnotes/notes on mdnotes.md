@@ -261,8 +261,6 @@ create preference `extensions.mdnotes.placeholder.publicationTitle` with value:
 
 perfect!
 
-
-
 #### new preference: `dateAdded`
 
 create preference `extensions.mdnotes.placeholder.dateAdded` with value:
@@ -271,7 +269,7 @@ create preference `extensions.mdnotes.placeholder.dateAdded` with value:
 {"content":"{{field_contents}}", "link_style": "itemType", "list_separator": ", "}
 ```
 
-xxxxxx
+perfect!
 
 #### new preference: `edition`
 
@@ -281,7 +279,7 @@ create preference `extensions.mdnotes.placeholder.edition` with value:
 {"content":"{{field_contents}}", "link_style": "itemType", "list_separator": ", "}
 ```
 
-xxxxxx
+perfect!
 
 #### new preference: `ISBN`
 
@@ -291,7 +289,7 @@ create preference `extensions.mdnotes.placeholder.ISBN` with value:
 {"content":"{{field_contents}}", "link_style": "itemType", "list_separator": ", "}
 ```
 
-xxxxxx
+perfect!
 
 #### new preference: `issue`
 
@@ -301,7 +299,7 @@ create preference `extensions.mdnotes.placeholder.issue` with value:
 {"content":"{{field_contents}}", "link_style": "itemType", "list_separator": ", "}
 ```
 
-xxxxxx
+perfect!
 
 #### new preference: `patent`
 
@@ -311,7 +309,7 @@ create preference `extensions.mdnotes.placeholder.patent` with value:
 {"content":"{{field_contents}}", "link_style": "itemType", "list_separator": ", "}
 ```
 
-xxxxxx
+perfect!
 
 #### new preference: `place`
 
@@ -321,7 +319,7 @@ create preference `extensions.mdnotes.placeholder.place` with value:
 {"content":"{{field_contents}}", "link_style": "itemType", "list_separator": ", "}
 ```
 
-xxxxxx
+perfect!
 
 
 
