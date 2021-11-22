@@ -4,12 +4,7 @@ title-short: ""
 originalyear: 1912
 type: "Book"
 
-tags: 
- - 📓-Academic-Periodicals
- - but-don't-delete-the-file
- - delete-the-tag
- - how-about-📓-emojis?
- - zztest-tag
+
  
 alias: "1912botanicalsurveyofindia"
 lang: "eng"
@@ -46,9 +41,6 @@ See **About: Site development** for notes.
 
 ## Document information
 
-Year of original publication: {{< param originalyear >}}
-
-Format of original publication:  {{< param originalformat >}}
 
 
 
