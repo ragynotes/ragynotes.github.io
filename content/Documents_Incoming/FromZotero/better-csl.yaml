@@ -7670,11 +7670,151 @@ references:
   URL: https://www.sciencedirect.com/science/article/pii/S0149763412002023
   volume: '37'
 
+- id: 2013hassana
+  abstract: >-
+    Kratom (or Ketum) is a psychoactive plant preparation used in Southeast
+    Asia. It is derived from the plant Mitragyna speciosa Korth. Kratom as well
+    as its main alkaloid, mitragynine, currently spreads around the world. Thus,
+    addiction potential and adverse health consequences are becoming an
+    important issue for health authorities. Here we reviewed the available
+    evidence and identified future research needs. It was found that mitragynine
+    and M. speciosa preparations are systematically consumed with rather well
+    defined instrumentalization goals, e.g. to enhance tolerance for hard work
+    or as a substitute in the self-treatment of opiate addiction. There is also
+    evidence from experimental animal models supporting analgesic, muscle
+    relaxant, anti-inflammatory as well as strong anorectic effects. In humans,
+    regular consumption may escalate, lead to tolerance and may yield aversive
+    withdrawal effects. Mitragynine and its derivatives actions in the central
+    nervous system involve μ-opioid receptors, neuronal Ca²⁺ channels and
+    descending monoaminergic projections. Altogether, available data currently
+    suggest both, a therapeutic as well as an abuse potential.
+  author:
+    - family: Hassan
+      given: Zurina
+    - family: Muzaimi
+      given: Mustapha
+    - family: Navaratnam
+      given: Visweswaran
+    - family: Yusoff
+      given: Nurul H. M.
+    - family: Suhaimi
+      given: Farah W.
+    - family: Vadivelu
+      given: Rajakumar
+    - family: Vicknasingam
+      given: Balasingam K.
+    - family: Amato
+      given: Davide
+    - family: Hörsten
+      given: Stephan
+      non-dropping-particle: von
+    - family: Ismail
+      given: Nurul I. W.
+    - family: Jayabalan
+      given: Nanthini
+    - family: Hazim
+      given: Ammar I.
+    - family: Mansor
+      given: Sharif M.
+    - family: Müller
+      given: Christian P.
+  container-title: Neuroscience and Biobehavioral Reviews
+  container-title-short: Neurosci Biobehav Rev
+  DOI: 10/f4kkn6
+  ISSN: 1873-7528
+  issue: '2'
+  issued:
+    - year: 2013
+      month: 2
+  language: eng
+  page: 138-151
+  PMID: '23206666'
+  source: PubMed
+  title: >-
+    From Kratom to mitragynine and its derivatives: physiological and
+    behavioural effects related to use, abuse, and addiction
+  title-short: From Kratom to mitragynine and its derivatives
+  type: article-journal
+  volume: '37'
+
 - id: 2013RegionalATS
   title: 2013_Regional_ATS_Report_Myanmar.pdf
   type: article
   URL: >-
     https://www.unodc.org/documents/southeastasiaandpacific/2013/11/ats-2013/embargoed/2013_Regional_ATS_Report_Myanmar.pdf
+
+- id: 2015cinosi
+  abstract: >-
+    The use of substances to enhance human abilities is a constant and
+    cross-cultural feature in the evolution of humanity. Although much has
+    changed over time, the availability on the Internet, often supported by
+    misleading marketing strategies, has made their use even more likely and
+    risky. This paper will explore the case of Mitragyna speciosa Korth.
+    (kratom), a tropical tree used traditionally to combat fatigue and improve
+    work productivity among farm populations in Southeast Asia, which has
+    recently become popular as novel psychoactive substance in Western
+    countries. Specifically, it (i) reviews the state of the art on kratom
+    pharmacology and identification; (ii) provides a comprehensive overview of
+    kratom use cross-culturally; (iii) explores the subjective experiences of
+    users; (iv) identifies potential risks and side-effects related to its
+    consumption. Finally, it concludes that the use of kratom is not negligible,
+    especially for self-medication, and more clinical, pharmacological, and
+    socioanthropological studies as well as a better international collaboration
+    are needed to tackle this marginally explored phenomenon.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - family: Cinosi
+      given: Eduardo
+    - family: Martinotti
+      given: Giovanni
+    - family: Simonato
+      given: Pierluigi
+    - family: Singh
+      given: Darshan
+    - family: Demetrovics
+      given: Zsolt
+    - family: Roman-Urrestarazu
+      given: Andres
+    - family: Bersani
+      given: Francesco Saverio
+    - family: Vicknasingam
+      given: Balasingam
+    - family: Piazzon
+      given: Giulia
+    - family: Li
+      given: Jih-Heng
+    - family: Yu
+      given: Wen-Jing
+    - family: Kapitány-Fövény
+      given: Máté
+    - family: Farkas
+      given: Judit
+    - family: Di Giannantonio
+      given: Massimo
+    - family: Corazza
+      given: Ornella
+  container-title: BioMed Research International
+  DOI: 10/gb85nb
+  ISSN: 2314-6133
+  issued:
+    - year: 2015
+      month: 11
+      day: 10
+  language: en
+  page: e968786
+  publisher: Hindawi
+  source: www.hindawi.com
+  title: >-
+    Following “the Roots” of Kratom (Mitragyna speciosa): The Evolution of an
+    Enhancer from a Traditional Use to Increase Work and Productivity in
+    Southeast Asia to a Recreational Psychoactive Drug in Western Countries
+  title-short: Following “the Roots” of Kratom (Mitragyna speciosa)
+  type: article-journal
+  URL: https://www.hindawi.com/journals/bmri/2015/968786/
+  volume: '2015'
 
 - id: 2016pwmuckraker
   abstract: >-
@@ -7696,6 +7836,62 @@ references:
   title: Mac Haddow . . . Khadafy . . . "Blood Money"
   type: motion_picture
   URL: https://www.youtube.com/watch?v=SAB2376BO-8
+
+- id: 2016warner
+  abstract: >-
+    Mitragyna speciosa (Rubiaceae), commonly known as kratom, is a tropical tree
+    with a long history of traditional use in parts of Africa and Southeast
+    Asia. In recent years, kratom has gained popularity for use as a
+    recreational drug across the globe. Relatively new to the illicit market and
+    used in a manner different from its traditional applications, preparations
+    of kratom are touted by many as a safe and legal psychoactive product that
+    improves mood, relieves pain, and may provide benefits in opiate addiction.
+    Available literature was reviewed for M. speciosa via PubMed, Google
+    Scholar, CINAHL, and EBSCO to summarize its traditional uses, phytochemical
+    composition, pharmacology and toxicology of proposed active constituents,
+    and potential for misuse and abuse. Research has demonstrated that both
+    stimulant and sedative dose-dependent effects do exist, but a growing
+    concern for the drug's effects and safety of use has resulted in national
+    and international attention primarily due to an increase in hospital visits
+    and deaths in several countries that are said to have been caused by
+    extracts of the plant. The main active alkaloid substances in kratom,
+    mitragynine and 7-hydroxymitragynine, present with a range of CNS stimulant
+    and depressant effects mediated primarily through monoaminergic and opioid
+    receptors. Recently, Palm Beach County, located in the southeastern corridor
+    of Florida, has considered regulating kratom due to public safety concerns
+    following the death of a young adult. At the local, state, and even federal
+    levels, governments are now being confronted with the task of determining
+    the safety and the possible regulation of kratom extracts. There are
+    currently no standard analytical screening techniques for mitragynine and
+    its metabolites following ingestion limiting its detection to more
+    sophisticated techniques like liquid chromatography-mass spectrometry to
+    determine kratom use. The growing concern of the abuse potential of kratom
+    requires careful evaluation of its benefits and potential toxicities.
+  author:
+    - family: Warner
+      given: Marcus L.
+    - family: Kaufman
+      given: Nellie C.
+    - family: Grundmann
+      given: Oliver
+  container-title: International Journal of Legal Medicine
+  container-title-short: Int J Legal Med
+  DOI: 10/gh5g6h
+  ISSN: 1437-1596
+  issue: '1'
+  issued:
+    - year: 2016
+      month: 1
+  language: eng
+  page: 127-138
+  PMID: '26511390'
+  source: PubMed
+  title: >-
+    The pharmacology and toxicology of kratom: from traditional herb to drug of
+    abuse
+  title-short: The pharmacology and toxicology of kratom
+  type: article-journal
+  volume: '130'
 
 - id: '2017'
   abstract: >-
@@ -7792,6 +7988,67 @@ references:
   URL: https://www.sciencedirect.com/science/article/pii/S037887411630678X
   volume: '202'
 
+- id: 2017browna
+  abstract: >-
+    ETHNOPHARMACOLOGICAL RELEVANCE: The genus Mitragyna (Rubiacaeae) has been
+    traditionally used in parts of Africa, Asia and Oceania. In recent years,
+    there has been increased interest in species of Mitragyna with the
+    introduction of products to western markets and regulatory uncertainty.
+
+    AIM OF THE STUDY: This paper reviewed the traditional ethnomedicinal uses of
+    leaves for species belonging to the genus Mitragyna with reference to the
+    botany and known chemistry in order to highlight areas of interest for
+    products currently being sold as kratom.
+
+    MATERIALS AND METHODS: A literature search was conducted using Web of
+    Science, Google Scholar, the Royal Museum for Central Africa, Internet
+    Archive, Hathi Trust, and Biodiversity Heritage Library search engines in
+    the spring of 2015, fall of 2016 and winter of 2017 to document uses of
+    bark, leaf and root material.
+
+    RESULTS: Leaves of M. speciosa (kratom) had the most common documented
+    ethnomedicinal uses as an opium substitute or remedy for addiction. Other
+    species of Mitragyna were reportedly used for treating pain, however the
+    mode of preparation was most often cited as topical application. Other uses
+    of Mitragyna included treatment of fever, skin infections, and as a mild
+    anxiolytic.
+
+    CONCLUSIONS: Mitragyna species have been used medicinally in various parts
+    of the world and that there is significant traditional evidence of use.
+    Modern products that include formulations as topical application of
+    liniments, balms or tinctures may provide effective alternatives for
+    treatment of certain types of pains. Future research is required to
+    establish safety and toxicology limits, medicinal chemistry parameters and
+    the potential for different physiological responses among varying genetic
+    populations to support regulatory requirements for Mitragyna spp.
+  author:
+    - family: Brown
+      given: Paula N.
+    - family: Lund
+      given: Jensen A.
+    - family: Murch
+      given: Susan J.
+  container-title: Journal of Ethnopharmacology
+  container-title-short: J Ethnopharmacol
+  DOI: 10/f96s6x
+  ISSN: 1872-7573
+  issued:
+    - year: 2017
+      month: 4
+      day: 18
+  language: eng
+  page: 302-325
+  PMID: '28330725'
+  source: PubMed
+  title: >-
+    A botanical, phytochemical and ethnomedicinal review of the genus Mitragyna
+    korth: Implications for products sold as kratom
+  title-short: >-
+    A botanical, phytochemical and ethnomedicinal review of the genus Mitragyna
+    korth
+  type: article-journal
+  volume: '202'
+
 - id: 2017kqed
   abstract: 'Included: whether kratom is a valid treatment for opiod addiction.'
   accessed:
@@ -7810,6 +8067,58 @@ references:
   title-short: PBS NewsHour Weekend
   type: broadcast
   URL: http://archive.org/details/KQED_20170116_013000_PBS_NewsHour_Weekend
+
+- id: 2017singh
+  abstract: >-
+    OBJECTIVE: Kratom (Mitragyna speciosa. Korth) is an indigenous medicinal
+    plant of Southeast Asia. This review paper aims to describe the trends of
+    kratom use in Southeast Asia.
+
+    DESIGN: A literature review search was conducted through ScienceDirect,
+    Scopus, ProMed and Google Scholar. Twenty-five articles illustrating kratom
+    use in humans in Southeast Asia were reviewed.
+
+    RESULTS: Kratom has long been used by rural populations in Southeast Asia as
+    a remedy for common ailments, to fight fatigue from hard manual work, as a
+    drink during social interaction among men, and in village religious
+    functions. Studies based on self-reports suggest that prolonged kratom use
+    does not result in serious health risks or impair social functioning. Two
+    recent trends have also emerged: (a) Kratom is reportedly being used to ease
+    withdrawal from opioid dependence in rural settings; whereas (b) in urban
+    areas, adulterated kratom cocktails are being consumed by younger people to
+    induce euphoria.
+
+    CONCLUSIONS: Legal sanctions appear to have preceded serious scientific
+    investigations into the claimed benefits of ketum. More objective-controlled
+    trials and experiments on humans need to be conducted to validate
+    self-report claims by kratom users in the community.
+  author:
+    - family: Singh
+      given: Darshan
+    - family: Narayanan
+      given: Suresh
+    - family: Vicknasingam
+      given: Balasingam
+    - family: Corazza
+      given: Ornella
+    - family: Santacroce
+      given: Rita
+    - family: Roman-Urrestarazu
+      given: Andres
+  container-title: Human Psychopharmacology
+  container-title-short: Hum Psychopharmacol
+  DOI: 10/gmk27q
+  ISSN: 1099-1077
+  issue: '3'
+  issued:
+    - year: 2017
+      month: 5
+  language: eng
+  PMID: '28544011'
+  source: PubMed
+  title: Changing trends in the use of kratom (Mitragyna speciosa) in Southeast Asia
+  type: article-journal
+  volume: '32'
 
 - id: 2018npa
   abstract: >-
@@ -7881,6 +8190,178 @@ references:
   URL: >-
     http://archive.org/details/buku-flora-di-habitat-bekantan-lahan-basah-suwi-kalimantan-timur
 
+- id: 2018singh
+  abstract: >-
+    ETHNOPHARMACOLOGICAL RELEVANCE: Mitragyna speciosa (Korth.) also known as
+    kratom, is a native medicinal plant of Southeast Asia with opioid-like
+    effects. Kratom tea/juice have been traditionally used as a folk remedy and
+    for controlling opiate withdrawal in Malaysia. Long-term opioid use is
+    associated with depletion in testosterone levels.
+
+    AIM OF THE STUDY: Since kratom is reported to deform sperm morphology and
+    reduce sperm motility, we aimed to clinically investigate the testosterone
+    levels following long-term kratom tea/juice use in regular kratom users.
+
+    METHODS: A total of 19 regular kratom users were recruited for this
+    cross-sectional study. A full-blood test was conducted including
+    determination of testosterone level, follicle stimulating hormone (FSH) and
+    luteinizing hormone (LH) profile, as well as hematological and biochemical
+    parameters of participants.
+
+    RESULTS: We found long-term kratom tea/juice consumption with a daily
+    mitragynine dose of 76.23-94.15 mg did not impair testosterone levels, or
+    gonadotrophins, hematological and biochemical parameters in regular kratom
+    users.
+
+    CONCLUSION: Regular kratom tea/juice consumption over prolonged periods (>2
+    years) was not associated with testosterone impairing effects in humans.
+  author:
+    - family: Singh
+      given: Darshan
+    - family: Murugaiyah
+      given: Vikneswaran
+    - family: Hamid
+      given: Shahrul Bariyah Sahul
+    - family: Kasinather
+      given: Vicknasingam
+    - family: Chan
+      given: Michelle Su Ann
+    - family: Ho
+      given: Eric Tatt Wei
+    - family: Grundmann
+      given: Oliver
+    - family: Chear
+      given: Nelson Jeng Yeou
+    - family: Mansor
+      given: Sharif Mahsufi
+  container-title: Journal of Ethnopharmacology
+  container-title-short: J Ethnopharmacol
+  DOI: 10/gdrp7k
+  ISSN: 1872-7573
+  issued:
+    - year: 2018
+      month: 7
+      day: 15
+  language: eng
+  page: 30-36
+  PMID: '29626673'
+  source: PubMed
+  title: >-
+    Assessment of gonadotropins and testosterone hormone levels in regular
+    Mitragyna speciosa (Korth.) users
+  type: article-journal
+  volume: '221'
+
+- id: 2018singha
+  abstract: >-
+    ETHNOPHARMACOLOGICAL RELEVANCE: Kratom (Mitragyna speciosa Korth.) from the
+    Rubiaceae family is an indigenous tropical medicinal tree of Southeast Asia.
+    Kratom leaves have been used for decades in Malaysia and Thailand in
+    traditional context for its perceived vast medicinal value, and as a mild
+    stimulant among manual labourers. Kratom consumption has been reported to
+    cause side-effects in kratom users.
+
+    AIM OF THE STUDY: To evaluate kratom's effects towards hematological and
+    clinical-chemistry parameters among regular kratom users in Malaysia.
+
+    METHODS: A total of 77 subjects (n=58 regular kratom users, and n=19 healthy
+    controls) participated in this cross-sectional study. All the surveys were
+    conducted through face-to-face interview to elicit subject's
+    socio-demographic characteristics and kratom use history. A full-blood test
+    was also administered. Laboratory analysis was conducted using GC-MS to
+    determine mitragynine content in the acquired kratom samples in order to
+    relate mitragynine consumption with possible alterations in the blood
+    parameters of kratom users.
+
+    RESULTS: Findings showed that there were no significant differences in the
+    hematological and clinical-chemistry parameters of traditional kratom users
+    and healthy controls, except for HDL and LDL cholesterol values; these were
+    found to be above the normal reference range for the former. Similarly,
+    long-term kratom consumption (>5 years), and quantity of daily kratom use
+    (≥3 ½ glasses; mitragynine content 76.3-114.8mg) did not appear to alter the
+    hematological and biochemical parameters of kratom users.
+
+    CONCLUSION: These data suggest that even long-term and heavy kratom
+    consumption did not significantly alter the hematological and
+    clinical-chemistry parameters of kratom users in a traditional setting.
+  author:
+    - family: Singh
+      given: Darshan
+    - family: Müller
+      given: Christian P.
+    - family: Murugaiyah
+      given: Vikneswaran
+    - family: Hamid
+      given: Shahrul Bariyah Sahul
+    - family: Vicknasingam
+      given: Balasingam K.
+    - family: Avery
+      given: Bonnie
+    - family: Chear
+      given: Nelson Jeng Yeou
+    - family: Mansor
+      given: Sharif Mahsufi
+  container-title: Journal of Ethnopharmacology
+  container-title-short: J Ethnopharmacol
+  DOI: 10/gc54s2
+  ISSN: 1872-7573
+  issued:
+    - year: 2018
+      month: 3
+      day: 25
+  language: eng
+  page: 197-206
+  PMID: '29248450'
+  source: PubMed
+  title: >-
+    Evaluating the hematological and clinical-chemistry parameters of kratom
+    (Mitragyna speciosa) users in Malaysia
+  type: article-journal
+  volume: '214'
+
+- id: 2018swogger
+  abstract: >-
+    BACKGROUND: Kratom (Mitragyna speciosa) is a psychoactive plant native to
+    Southeastern Asia that is receiving increased international attention as a
+    potential therapeutic agent. While much of the limited scientific research
+    on kratom is focused on its analgesic potential, kratom use also has
+    important risks and benefits in the domain of mental health.
+
+    METHODS: We conducted a comprehensive systematic review of all studies on
+    kratom use and mental health published between January 1960 and July 2017.
+
+    RESULTS: Findings indicate kratom's potential as a harm reduction tool, most
+    notably as a substitute for opioids among people who are addicted. Kratom
+    also enhances mood and relieves anxiety among many users. For many, kratom's
+    negative mental health effects - primarily withdrawal symptoms - appear to
+    be mild relative to those of opioids. For some users, however, withdrawal is
+    highly uncomfortable and maintaining abstinence becomes difficult.
+
+    CONCLUSION: Results inform clinicians working in the mental health and
+    substance use fields, policy-makers, and researchers about the mental health
+    effects of this plant.
+  author:
+    - family: Swogger
+      given: Marc T.
+    - family: Walsh
+      given: Zach
+  container-title: Drug and Alcohol Dependence
+  container-title-short: Drug Alcohol Depend
+  DOI: 10/gc2smc
+  ISSN: 1879-0046
+  issued:
+    - year: 2018
+      month: 2
+      day: 1
+  language: eng
+  page: 134-140
+  PMID: '29248691'
+  source: PubMed
+  title: 'Kratom use and mental health: A systematic review'
+  title-short: Kratom use and mental health
+  type: article-journal
+  volume: '183'
+
 - id: 2018WHOWHO2018
   issued:
     - year: 2018
@@ -7907,6 +8388,28 @@ references:
     KRATOM (Mitragyna speciosa korth) (Street Names: Thang, Kakuam, Thom, Ketum,
     Biak)
   type: article-journal
+
+- id: 2019veltri
+  abstract: "The leaves from the tree Mitragyna speciosa, commonly known as Kratom, in the coffee plant family (Rubiaceae) are commonly used in their native habitat of Southeast Asia as a stimulant to sustain energy during hard day labor and as an opioid-like analgesic and sedative. Traditional and modern uses overlap based on the effects of the leaf extract which has also gained popularity in the United States and Europe in the last two decades. Kratom has and is being used for the mitigation of opioid withdrawal symptoms and as a harm reduction agent with a minority of users subsequently developing a dependence on the extract. The respective demographic use patterns of Kratom differ between Southeast Asia and the Western world. While pure Kratom is primarily used by day laborers and misused in conjunction with cough medicine by youth in Southeast Asia, a majority of users in the United States is middle-aged, has at least middle income, private health insurance, and completed some college. Deaths attributed to the use of Kratom have been reported in Europe and the United States but not in Southeast Asia. Although Kratom was detected as the alkaloid mitragynine in the blood of the decedents, causality could not be established in almost all cases because of poly-drug exposures. It is notable that Kratom can cause herb-drug interactions, especially with other central nervous system\_-active substances. Given the mostly unregulated market for Kratom products in Western countries, consumers may be exposed to adulterated or contaminated products, especially if purchased through websites or the darknet. A number of countries have scheduled Kratom because of its stimulant- and opioid-like effects and the established interaction of the alkaloid mitragynine with opioid receptors."
+  author:
+    - family: Veltri
+      given: Charles
+    - family: Grundmann
+      given: Oliver
+  container-title: Substance Abuse and Rehabilitation
+  container-title-short: Subst Abuse Rehabil
+  DOI: 10/gnj2ff
+  ISSN: 1179-8467
+  issued:
+    - year: 2019
+  language: eng
+  page: 23-31
+  PMCID: PMC6612999
+  PMID: '31308789'
+  source: PubMed
+  title: Current perspectives on the impact of Kratom use
+  type: article-journal
+  volume: '10'
 
 - id: '2020'
   abstract: >-
@@ -8047,6 +8550,36 @@ references:
   URL: >-
     https://kratomherald.com/the-aka-is-a-double-crossing-scam-part-1-the-american-kratom-association-is-operated-by-a-lobbying-firm-upstream-consulting-which-works-for-organizations-which-are-trying-to-get-kratom-banned-inclu/
 
+- id: 2021damodaran
+  abstract: "Background: Kratom (Mitragyna speciosa Korth), a popular opioid-like plant holds its therapeutic potential in pain management and opioid dependence. However, there are growing concerns about the safety or potential toxicity risk of kratom after prolonged use. Aim of the study: The study aimed to assess the possible toxic effects of kratom decoction and its major alkaloids, mitragynine, and speciociliatine in comparison to morphine in an embryonic zebrafish model. Methods: The zebrafish embryos were exposed to kratom decoction (1,000-62.5\_μg/ml), mitragynine, speciociliatine, and morphine (100-3.125\_μg/ml) for 96 h post-fertilization (hpf). The toxicity parameters, namely mortality, hatching rate, heart rate, and morphological malformations were examined at 24, 48, 72, and 96 hpf, respectively. Results: Kratom decoction at a concentration range of ≥500\_μg/ml caused 100% mortality of zebrafish embryos and decreased the hatching rate in a concentration-dependent manner. Meanwhile, mitragynine and speciociliatine exposure resulted in 100% mortality of zebrafish embryos at 100\_μg/ml. Both alkaloids caused significant alterations in the morphological development of zebrafish embryos including hatching inhibition and spinal curvature (scoliosis) at the highest concentration. While exposure to morphine induced significant morphological malformations such as pericardial oedema, spinal curvature (lordosis), and yolk edema in zebrafish embryos. Conclusion: Our findings provide evidence for embryonic developmental toxicity of kratom decoction and its alkaloids both mitragynine and speciociliatine at the highest concentration, hence suggesting that kratom consumption may have potential teratogenicity risk during pregnancy and thereby warrants further investigations."
+  author:
+    - family: Damodaran
+      given: Thenmoly
+    - family: Chear
+      given: Nelson Jeng-Yeou
+    - family: Murugaiyah
+      given: Vikneswaran
+    - family: Mordi
+      given: Mohd Nizam
+    - family: Ramanathan
+      given: Surash
+  container-title: Frontiers in Pharmacology
+  container-title-short: Front Pharmacol
+  DOI: 10/gnj2fq
+  ISSN: 1663-9812
+  issued:
+    - year: 2021
+  language: eng
+  page: '714918'
+  PMCID: PMC8417521
+  PMID: '34489704'
+  source: PubMed
+  title: >-
+    Comparative Toxicity Assessment of Kratom Decoction, Mitragynine and
+    Speciociliatine Versus Morphine on Zebrafish (Danio rerio) Embryos
+  type: article-journal
+  volume: '12'
+
 - id: 2021editor
   abstract: >-
     I am writing in regards to the Town Hall meeting that was held Tuesday night
@@ -8092,6 +8625,214 @@ references:
   type: post-weblog
   URL: >-
     https://icmglt.org/prince-william-racial-justice-commission-argues-about-town-hall-foia/
+
+- id: 2021jasim
+  abstract: >-
+    Mitragyna speciosa (Korth.) also known as kratom or ketum has been
+    traditionally used for its diverse medicinal value in Southeast Asia.
+    Despite of its therapeutic value, kratom's safety profile remains
+    deficiently elucidated. Our study aims to characterize the urinary protein
+    profile of regular kratom users to determine its toxic effects on renal
+    functioning. A total of 171 respondents (comprising of n = 88 regular kratom
+    users, and n = 83 healthy controls) were recruited for this study. Urine
+    specimens were collected and analyzed using SDS-PAGE, followed by LC/MS/MS
+    analysis. Our results show albumin is the primary, and most abundant form of
+    protein excreted in kratom user's urine specimens (n = 60/64), indicating
+    that kratom users are predisposed to proteinuria. Kratom users had an
+    elevated urinary protein (with an intensity of 66.7 kDa band), and protein:
+    creatinine ratio (PCR) concentrations relative to healthy controls. However,
+    kratom user's urinary creatinine concentration was found to be in the normal
+    range as the healthy control group. While, kratom users who tested positive
+    for illicit drug use had an elevated urinary albumin concentration. Our
+    preliminary findings indicate that regular consumption of freshly brewed
+    kratom solution over a protracted period (for an average of eleven years)
+    seems to induce proteinuria, suggestive of an early stage of kidney injury.
+    Hence, further studies are urgently needed to confirm our findings, and
+    establish kratom's renal impairing effects.
+  author:
+    - family: Jasim
+      given: Rana Khudhair
+    - family: Hassan
+      given: Zurina
+    - family: Singh
+      given: Darshan
+    - family: Boyer
+      given: Edward
+    - family: Gam
+      given: Lay-Harn
+  container-title: Journal of Addictive Diseases
+  container-title-short: J Addict Dis
+  DOI: 10/gnj2f3
+  ISSN: 1545-0848
+  issued:
+    - year: 2021
+      month: 11
+      day: 8
+  language: eng
+  page: 1-12
+  PMID: '34747343'
+  source: PubMed
+  title: >-
+    Characterization of urinary protein profile in regular kratom (Mitragyna
+    speciosa korth.) users in Malaysia
+  type: article-journal
+
+- id: 2021leongabdullah
+  abstract: >-
+    OBJECTIVES: Little is known about the cardiotoxic effects of kratom
+    (Mitragyna speciosa Korth.), a medicinal plant. This analytical
+    cross-sectional study investigated the prevalence of electrocardiogram (ECG)
+    abnormalities and QTc intervals in regular kratom users compared with
+    non-kratom-using control subjects.
+
+    METHODS: We enrolled regular kratom users and non-kratom-using control
+    subjects from three communities. Demographic data, clinical data, kratom use
+    characteristics, and ECG findings were recorded. The mitragynine content of
+    kratom juice was quantified using a validated gas chromatography-mass
+    spectrometry (GC-MS) method.
+
+    RESULTS: A total of 200 participants (100 kratom users and 100 control
+    subjects) participated in this study. The prevalence of ECG abnormalities in
+    kratom users (28%) did not differ from that of control subjects (32%).
+    Kratom use was not associated with ECG abnormalities, except for
+    significantly higher odds of sinus tachycardia (OR = 8.61, 95% CI =
+    1.06-70.17, p = 0.035) among kratom users compared with control subjects.
+    The odds of observing borderline QTc intervals were significantly higher for
+    kratom users compared with control subjects, regardless of the age of first
+    use, the duration of use, the daily quantity consumed, and the length of
+    time that had elapsed between last kratom use and ECG assessment.
+    Nevertheless, there were no differences in the odds of having prolonged QTc
+    intervals between kratom users and controls. The estimated average daily
+    intake of mitragynine consumed by kratom users was 434.28 mg.
+
+    CONCLUSION: We found no link between regular kratom use and
+    electrocardiographic abnormalities with an estimated average daily intake of
+    434.28 mg of mitragynine.
+  author:
+    - family: Leong Abdullah
+      given: Mohammad Farris Iman
+    - family: Tan
+      given: Kok Leng
+    - family: Narayanan
+      given: Suresh
+    - family: Yuvashnee
+      given: Novline
+    - family: Chear
+      given: Nelson Jeng Yeou
+    - family: Singh
+      given: Darshan
+    - family: Grundmann
+      given: Oliver
+    - family: Henningfield
+      given: Jack E.
+  container-title: Clinical Toxicology (Philadelphia, Pa.)
+  container-title-short: Clin Toxicol (Phila)
+  DOI: 10/gnj2dm
+  ISSN: 1556-9519
+  issue: '5'
+  issued:
+    - year: 2021
+      month: 5
+  language: eng
+  page: 400-408
+  PMID: '32870119'
+  source: PubMed
+  title: >-
+    Is kratom (Mitragyna speciosa Korth.) use associated with ECG abnormalities?
+    Electrocardiogram comparisons between regular kratom users and controls
+  title-short: Is kratom (Mitragyna speciosa Korth.) use associated with ECG abnormalities?
+  type: article-journal
+  volume: '59'
+
+- id: 2021leongbinabdullah
+  abstract: >-
+    Background: Kratom or Mitragyna speciosa (Korth.) has received overwhelming
+    attention recently due to its alleged pain-relieving effects. Despite its
+    potential therapeutic value, kratom use has been linked to many occurrences
+    of multiorgan toxicity and cardiotoxicity. Accordingly, the current
+    narrative review aimed to provide a detailed account of kratom's adverse
+    cardiovascular effects and cardiotoxicity risk, based on in vitro studies,
+    poison center reports, coroner and autopsy reports, clinical case reports,
+    and clinical studies. Methods: An electronic search was conducted to
+    identify all research articles published in English from 1950 to 2021 using
+    the major research databases, such as Google Scholar, Web of Science,
+    PubMed, Scopus, Mendeley, EMBASE, Cochrane Library, and Medline. We then
+    analyzed the literature's discussion of adverse cardiovascular effects,
+    toxicity, and mortality related to kratom use. Results: Our findings
+    revealed that, although in vitro studies have found kratom preparations'
+    most abundant alkaloid-mitragynine-to cause a prolonged QTc interval and an
+    increased risk of torsades de pointes, a clinical study examining humans'
+    regular consumption of kratom did not report such a risk. However, this
+    latter study did show that regular kratom use could induce an increased QTc
+    interval in a dose-dependent manner. A few case reports also highlighted
+    that kratom consumption is associated with ventricular arrhythmia and
+    cardiopulmonary arrest, but this association could have ensued when kratom
+    was co-administered with another substance. Similarly, analyses of national
+    poison data showed that kratom's most common adverse acute cardiovascular
+    effects include tachycardia and hypertension. Meanwhile, coroner and autopsy
+    reports indicated that kratom's cardiovascular sequelae encompass coronary
+    atherosclerosis, myocardial infarction, hypertensive cardiovascular disease,
+    left ventricular hypertrophy, cardiac arrhythmia, cardiomegaly,
+    cardiomyopathy, focal band necrosis in the myocardium, and myocarditis.
+    Given the available data, we deduced that all cardiac eventualities reported
+    in the literature could have been compounded by polysubstance use and
+    unresolved underlying medical illnesses. Conclusion: Although kratom use has
+    been associated with death and cardiotoxicity, especially at higher doses
+    and when associated with other psychoactive drugs, the dearth of data and
+    methodological limitations reported in existing studies do not allow a
+    definitive conclusion, and further studies are still necessary to address
+    this issue.
+  author:
+    - family: Leong Bin Abdullah
+      given: Mohammad Farris Iman
+    - family: Singh
+      given: Darshan
+  container-title: Frontiers in Pharmacology
+  container-title-short: Front Pharmacol
+  DOI: 10/gnj2ft
+  ISSN: 1663-9812
+  issued:
+    - year: 2021
+  language: eng
+  page: '726003'
+  PMCID: PMC8504575
+  PMID: '34646135'
+  source: PubMed
+  title: >-
+    The Adverse Cardiovascular Effects and Cardiotoxicity of Kratom (Mitragyna
+    speciosa Korth.): A Comprehensive Review
+  title-short: >-
+    The Adverse Cardiovascular Effects and Cardiotoxicity of Kratom (Mitragyna
+    speciosa Korth.)
+  type: article-journal
+  volume: '12'
+
+- id: 2021leongbinabdullaha
+  abstract: "Multiorgan toxicities have been extensively reported in kratom (Mitragyna speciosa Korth) users in Western countries but not in Southeast Asia. Existing literature argued that this discrepancy may be due to underreporting of kratom-related toxicity cases in Southeast Asia. Hence, this case series filled the research gap by clinically assessing the cardiovascular functioning and serum mitragynine level of regular kratom users in its traditional settings in Malaysia. Nine regular kratom users without history of polysubstance use were recruited from the same community via snowball sampling and were subjected to electrocardiogram (ECG) and echocardiogram assessments. Serum mitragynine analysis was also performed by solid-phase extraction and liquid chromatography-tandem mass spectrometry. The mean serum mitragynine level was 10.3\_mg/L (SD = 6.9) and ranged from 2.5\_mg/L to 22.4\_mg/L. Those who consumed an average daily quantity of four or more glasses of brewed kratom juice (p = 0.045) and those who had prolonged QTc intervals (p = 0.017) had significantly higher serum mitragynine level. Echocardiographic findings of all the respondents were normal except one reported left ventricular hypertrophy and another had trivial tricuspid regurgitation with pulmonary artery systolic pressure (PASP) of 10 + 5\_mmHg. Regular kratom use without concomitant use of other illicit substances may not provoke any risk of cardiovascular impairment or toxicity except for prolonged QTc interval, which appeared to be dose dependent. However, as this study was limited by a small sample size, future studies with larger sample size are warranted to confirm our findings."
+  author:
+    - family: Leong Bin Abdullah
+      given: Mohammad Farris Iman
+    - family: Singh
+      given: Darshan
+  container-title: Frontiers in Pharmacology
+  container-title-short: Front Pharmacol
+  DOI: 10/gnj2gv
+  ISSN: 1663-9812
+  issued:
+    - year: 2021
+  language: eng
+  page: '723567'
+  PMCID: PMC8421531
+  PMID: '34504428'
+  source: PubMed
+  title: >-
+    Assessment of Cardiovascular Functioning Among Regular Kratom (Mitragyna
+    speciosa Korth) Users: A Case Series
+  title-short: >-
+    Assessment of Cardiovascular Functioning Among Regular Kratom (Mitragyna
+    speciosa Korth) Users
+  type: article-journal
+  volume: '12'
 
 - id: 44thECDDList
   abstract: Annex1 - Final 44th ECDD list of substances
@@ -8679,79 +9420,6 @@ references:
   type: graphic
   URL: >-
     www.unodc.org/documents/commissions/CND/2019/Contributions/October/Panellists/24_October/6._Sri_Lanka_SAMAN.pdf
-
-- id: cinosiFollowingRootsKratom2015
-  abstract: >-
-    The use of substances to enhance human abilities is a constant and
-    cross-cultural feature in the evolution of humanity. Although much has
-    changed over time, the availability on the Internet, often supported by
-    misleading marketing strategies, has made their use even more likely and
-    risky. This paper will explore the case of Mitragyna speciosa Korth.
-    (kratom), a tropical tree used traditionally to combat fatigue and improve
-    work productivity among farm populations in Southeast Asia, which has
-    recently become popular as novel psychoactive substance in Western
-    countries. Specifically, it (i) reviews the state of the art on kratom
-    pharmacology and identification; (ii) provides a comprehensive overview of
-    kratom use cross-culturally; (iii) explores the subjective experiences of
-    users; (iv) identifies potential risks and side-effects related to its
-    consumption. Finally, it concludes that the use of kratom is not negligible,
-    especially for self-medication, and more clinical, pharmacological, and
-    socioanthropological studies as well as a better international collaboration
-    are needed to tackle this marginally explored phenomenon.
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - family: Cinosi
-      given: Eduardo
-    - family: Martinotti
-      given: Giovanni
-    - family: Simonato
-      given: Pierluigi
-    - family: Singh
-      given: Darshan
-    - family: Demetrovics
-      given: Zsolt
-    - family: Roman-Urrestarazu
-      given: Andres
-    - family: Bersani
-      given: Francesco Saverio
-    - family: Vicknasingam
-      given: Balasingam
-    - family: Piazzon
-      given: Giulia
-    - family: Li
-      given: Jih-Heng
-    - family: Yu
-      given: Wen-Jing
-    - family: Kapitány-Fövény
-      given: Máté
-    - family: Farkas
-      given: Judit
-    - family: Di Giannantonio
-      given: Massimo
-    - family: Corazza
-      given: Ornella
-  container-title: BioMed Research International
-  DOI: 10/gb85nb
-  ISSN: 2314-6133
-  issued:
-    - year: 2015
-      month: 11
-      day: 10
-  language: en
-  page: e968786
-  publisher: Hindawi
-  source: www.hindawi.com
-  title: >-
-    Following “the Roots” of Kratom (Mitragyna speciosa): The Evolution of an
-    Enhancer from a Traditional Use to Increase Work and Productivity in
-    Southeast Asia to a Recreational Psychoactive Drug in Western Countries
-  title-short: Following “the Roots” of Kratom (Mitragyna speciosa)
-  type: article-journal
-  URL: https://www.hindawi.com/journals/bmri/2015/968786/
-  volume: '2015'
 
 - id: coeKratomSubstituteOpioids2019
   abstract: >-
@@ -13825,6 +14493,10 @@ references:
   title: machaddow
   type: webpage
   URL: https://kratomwatchdog.com/user/machaddow
+
+- id: zotero-1405
+  title: ZZZZ test fake file
+  type: article
 
 - id: zotero-733
   type: webpage

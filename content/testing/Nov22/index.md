@@ -1,18 +1,17 @@
 ---
-title: Botany : current literature
-title-short: Botany
-originalyear: 1932
+title: Beitrag zur Pharmakognosie der Arznei-und Wirtschaftspflanzen Siams
+originalyear: 1947
 type: Book	# zotero type ⚠️
 
-tags:								# ⚠️ check how does this output
-	- summary: 							# ❗
-alias: 1932unitedstates.bureauofplantindustry.library
-lang: eng
+tags:
+ - summary
+alias: 1947schaller
+lang: German
 .IsTranslated: false				# ❗
 
 draft: true	# ❗ page will not be included in site build until draft status is changed
 
-date: 2021-08-26 08:24:16				# ⚠️ might need to have a second step to update this
+date: 2021-10-23 09:19:05				# ⚠️ might need to have a second step to update this
 ---
 
 ## ❗ Document TODO
@@ -42,38 +41,12 @@ See **About: Site development** for notes.
 
 ## Document information
 
-Year of original publication: {{< param originalyear >}}
-
-Format of original publication:  {{< param originalformat >}}
 
 
 
 
 
 
-
-
-
-
-### Origin of original document
-
-{{< readfile "origin.md" >}}
-
-### Notes on modifications and changes made	
-
-{{< readfile "modifications.md" >}}
-
-## Commentary
-
-{{< readfile "commentary.md" >}}
-
-## Text of document	
-
-{{< readfile "document.md" >}}
-
-## See also
-
-none
 
 
 

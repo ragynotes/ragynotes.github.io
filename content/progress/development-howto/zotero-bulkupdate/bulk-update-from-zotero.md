@@ -1,5 +1,5 @@
 ---
-typora-copy-images-to:images
+# typora-copy-images-to:images
 ---
 
 # Export from Zotero
