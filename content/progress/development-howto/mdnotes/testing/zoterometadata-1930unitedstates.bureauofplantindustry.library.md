@@ -19,7 +19,7 @@
 
 - **`itemType`** - Book
 - **`citekey`** - 1930unitedstates.bureauofplantindustry.library
-- **`tags`** - - **`dateAdded`** -  Date Added: 2021-07-26
+- **`tags`** - - **`dateAdded`** - 2021-07-26
 - **`notes`** - 
 Probably note useful, but might be:
 

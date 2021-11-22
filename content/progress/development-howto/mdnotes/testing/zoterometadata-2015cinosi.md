@@ -30,7 +30,7 @@
 	meta-analysis
 
 	to-review-references
-- **`dateAdded`** -  Date Added: 2021-07-26
+- **`dateAdded`** - 2021-07-26
 - **`notes`** - 
 Probably note useful, but might be:
 

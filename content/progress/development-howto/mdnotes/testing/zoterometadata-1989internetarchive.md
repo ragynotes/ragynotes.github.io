@@ -21,7 +21,7 @@ Next issue: sim_whole-earth_winter-1989_65.
 
 - **`itemType`** - Book
 - **`citekey`** - 1989internetarchive
-- **`tags`** - - **`dateAdded`** -  Date Added: 2021-09-23
+- **`tags`** - - **`dateAdded`** - 2021-09-23
 - **`notes`** - 
 Probably note useful, but might be:
 

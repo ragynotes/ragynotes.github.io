@@ -19,7 +19,7 @@
 - **`itemType`** - Book
 - **`citekey`** - 1912botanicalsurveyofindia
 - **`tags`** - 📓-Academic-Periodicals
-- **`dateAdded`** -  Date Added: 2021-07-26
+- **`dateAdded`** - 2021-07-26
 - **`notes`** - 
 Probably note useful, but might be:
 
