@@ -1,6 +1,6 @@
 # `mdnotes` demo for "Zotero Metadata Template.md"
 
-- **`title`** - # Records of the Botanical Survey of India
+- **`title`** - Records of the Botanical Survey of India
 - **`shortTitle`** - - **`date`** -  Date: [1912](1912)
 - **`accessDate`** -  Access Date: [2021-08-26 08:08:59](2021-08-26-08:08:59)
 - **`language`** -  Language: [eng](eng)

@@ -1,6 +1,6 @@
 # `mdnotes` demo for "Zotero Metadata Template.md"
 
-- **`title`** - # Pharmacognosy and its Importance for Thailand
+- **`title`** - Pharmacognosy and its Importance for Thailand
 - **`shortTitle`** - - **`date`** -  Date: [1944](1944)
 - **`accessDate`** -  Access Date: [2021-10-23 09:29:10](2021-10-23-09:29:10)
 - **`language`** -  Language: [English](english)

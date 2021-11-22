@@ -1,4 +1,4 @@
-# Records of the Botanical Survey of India
+Records of the Botanical Survey of India
 
 ![[zoterometadata-1912botanicalsurveyofindia#Metadata]]
 

@@ -2,6 +2,8 @@
 
 # notes on `mdnotes`
 
+use "batch export to markdown"
+
 ## general
 
 - need to include 2x line-breaks sequentially to ensure new line
@@ -11,19 +13,33 @@
 - It is adding the name of each feild before the information in the format: `Cite key: 1969blum`. This is documented with workarounds provided at: [Field formatting - zotero-mdnotes](https://argenos.gitbook.io/zotero-mdnotes/customization/formatting)
   - changes are made in Zotero hidden `about:config`. 
 
-try changing:
+try changing `extensions.mdnotes.bullet;`:
 
 ```json
-extensions.mdnotes.bullet;*
+*
 ```
 
 to
 
 ```json
-extensions.mdnotes.bullet;
+
 ```
 
+ok, that help. not enough though.
 
+try changing `extensions.mdnotes.placeholder.title;`:
+
+```json
+{"content":"# {{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links"}
+```
+
+to
+
+```json
+{"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links"}
+```
+
+perfect! for the title. 
 
 
 

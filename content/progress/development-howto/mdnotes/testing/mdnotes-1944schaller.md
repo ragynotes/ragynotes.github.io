@@ -1,4 +1,4 @@
-# Pharmacognosy and its Importance for Thailand
+Pharmacognosy and its Importance for Thailand
 
 ![[zoterometadata-1944schaller#Metadata]]
 

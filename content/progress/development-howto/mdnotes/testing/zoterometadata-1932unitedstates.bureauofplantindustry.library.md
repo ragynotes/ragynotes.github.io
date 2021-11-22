@@ -1,6 +1,6 @@
 # `mdnotes` demo for "Zotero Metadata Template.md"
 
-- **`title`** - # Botany : current literature
+- **`title`** - Botany : current literature
 - **`shortTitle`** -  Short Title: [Botany](botany)
 - **`date`** -  Date: [1932](1932)
 - **`accessDate`** -  Access Date: [2021-08-26 08:24:16](2021-08-26-08:24:16)

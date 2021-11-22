@@ -1,4 +1,4 @@
-# Beitrag zur Pharmakognosie der Arznei-und Wirtschaftspflanzen Siams
+Beitrag zur Pharmakognosie der Arznei-und Wirtschaftspflanzen Siams
 
 ![[zoterometadata-1947schaller#Metadata]]
 

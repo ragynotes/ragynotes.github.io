@@ -1,4 +1,4 @@
-# Dictionary of cultivated plants and their centres of diversity excluding ornamentals, forest trees, and lower plants
+Dictionary of cultivated plants and their centres of diversity excluding ornamentals, forest trees, and lower plants
 
 ![[zoterometadata-1975zeven#Metadata]]
 

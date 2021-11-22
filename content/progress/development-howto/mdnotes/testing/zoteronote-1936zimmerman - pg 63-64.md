@@ -1,6 +1,6 @@
  Mdnotes File Name: [mdnotes-1936zimmerman](mdnotes-1936zimmerman)
 
-# pg 63-64
+pg 63-64
 
 
 Physical stimulants, such as beverages, masticatories, and tobaccos, constitute another group of interests which compete with food expenditures (interpreting food now solely as nutriments). There is evidence that many races of men have considered such desires fundamental to a standard of living. It is impossible to separate these desires from food and other values. Water may have been the most ancient beverage but we must agree with Pliny that man is so skillful in flattering his vices that he has ever found means to render water poisonous and intoxicating. 20

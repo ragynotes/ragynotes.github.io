@@ -1,4 +1,4 @@
-# Whole Earth Review  Fall 1989: Iss 64
+Whole Earth Review  Fall 1989: Iss 64
 
 ![[zoterometadata-1989internetarchive#Metadata]]
 

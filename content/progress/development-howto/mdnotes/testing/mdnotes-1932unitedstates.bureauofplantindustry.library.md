@@ -1,4 +1,4 @@
-# Botany : current literature
+Botany : current literature
 
 ![[zoterometadata-1932unitedstates.bureauofplantindustry.library#Metadata]]
 

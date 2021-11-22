@@ -1,6 +1,6 @@
 # `mdnotes` demo for "Zotero Metadata Template.md"
 
-- **`title`** - # Whole Earth Review  Fall 1989: Iss 64
+- **`title`** - Whole Earth Review  Fall 1989: Iss 64
 - **`shortTitle`** -  Short Title: [Whole Earth Review  Fall 1989](whole-earth-review-fall-1989)
 - **`date`** -  Date: [Fall 1989](fall-1989)
 - **`accessDate`** -  Access Date: [2021-10-23 08:50:21](2021-10-23-08:50:21)

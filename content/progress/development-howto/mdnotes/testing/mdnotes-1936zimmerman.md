@@ -1,4 +1,4 @@
-# Consumption and standards of living
+Consumption and standards of living
 
 ![[zoterometadata-1936zimmerman#Metadata]]
 

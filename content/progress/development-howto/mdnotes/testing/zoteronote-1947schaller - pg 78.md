@@ -1,6 +1,6 @@
  Mdnotes File Name: [mdnotes-1947schaller](mdnotes-1947schaller)
 
-# pg 78-
+pg 78-
 
 Mitragyna speciosa* The leaves of Mitragyna speciosa, called u gratom in siamese, have Ioiig been used in this country as a sfcinmlant, wlnch is however liabifc forming. Therefore sincc 1942 the drug is controlled by a law prohibiting cultivation and sale. As the illicit market conti mies to deal with substantlal quantities of it, means to ideJltify the drug in ifcs various preparations had fco be fottnd* This paper describes the pharmacognostic fiCatures of the drug and microchemical methods including an alcaloid test by mieromeltingpoint determination to identify it even if disintegrated.
 
