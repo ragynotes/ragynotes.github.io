@@ -1,1 +1,0 @@
-*no commentary included with this item*
