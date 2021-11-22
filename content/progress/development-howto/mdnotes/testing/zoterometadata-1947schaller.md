@@ -24,7 +24,7 @@ Probably note useful, but might be:
 	- [1947-schaller-.pdf](zotero://open-pdf/library/items/EQRBRRM5)
 	- [1947-schaller-.pdf](zotero://open-pdf/library/items/6WVX4CUE)
 
-- **`mdnotesFileName`** -  Mdnotes File Name: mdnotes-1947schaller
+- **`mdnotesFileName`** -  Mdnotes File Name: document-1947schaller-mdn
 
 - **`metadataFileName`** -  Metadata File Name: zoterometadata-1947schaller
 

@@ -26,7 +26,7 @@ Probably note useful, but might be:
 - **`pdfAttachments`** -  PDF Attachments
 	- [1936-zimmerman-new_york,_d._van_nostrand_co..pdf](zotero://open-pdf/library/items/5KJLWNI2)
 
-- **`mdnotesFileName`** -  Mdnotes File Name: mdnotes-1936zimmerman
+- **`mdnotesFileName`** -  Mdnotes File Name: document-1936zimmerman-mdn
 
 - **`metadataFileName`** -  Metadata File Name: zoterometadata-1936zimmerman
 

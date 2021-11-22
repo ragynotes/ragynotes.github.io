@@ -1,19 +1,15 @@
 ---
-title: {{title}}
-title-short: {{shortTitle}}
-originalyear: {{date}}
-type: {{itemType}}	# zotero type ⚠️
+title: ZZZZ test fake file
+title-short: originalyear: type: 	# zotero type ⚠️
 
 tags:								# ⚠️ check how does this output
-#  - {{tags}}
-summary: 							# ❗
-alias: {{citekey}}
-lang: {{language}}
-.IsTranslated: false				# ❗
+#  - summary: 							# ❗
+alias: zotero-1405
+lang: .IsTranslated: false				# ❗
 
 draft: true	# ❗ page will not be included in site build until draft status is changed
 
-date: {{accessDate}}				# ⚠️ might need to have a second step to update this
+date: 				# ⚠️ might need to have a second step to update this
 ---
 
 ## ❗ Document TODO

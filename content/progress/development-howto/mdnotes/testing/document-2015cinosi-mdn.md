@@ -1,19 +1,25 @@
 ---
-title: {{title}}
-title-short: {{shortTitle}}
-originalyear: {{date}}
-type: {{itemType}}	# zotero type ⚠️
+title: Following “the Roots” of Kratom (Mitragyna speciosa): The Evolution of an Enhancer from a Traditional Use to Increase Work and Productivity in Southeast Asia to a Recreational Psychoactive Drug in Western Countries
+title-short: Following “the Roots” of Kratom (Mitragyna speciosa)
+originalyear: 2015/11/10
+type: Article	# zotero type ⚠️
 
 tags:								# ⚠️ check how does this output
-#  - {{tags}}
+#  - ethnobotany
+
+	health-effects-of-kratom
+
+	meta-analysis
+
+	to-review-references
 summary: 							# ❗
-alias: {{citekey}}
-lang: {{language}}
+alias: 2015cinosi
+lang: en
 .IsTranslated: false				# ❗
 
 draft: true	# ❗ page will not be included in site build until draft status is changed
 
-date: {{accessDate}}				# ⚠️ might need to have a second step to update this
+date: 2021-08-26 07:15:45				# ⚠️ might need to have a second step to update this
 ---
 
 ## ❗ Document TODO

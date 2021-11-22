@@ -1,19 +1,17 @@
 ---
-title: {{title}}
-title-short: {{shortTitle}}
-originalyear: {{date}}
-type: {{itemType}}	# zotero type ⚠️
+title: Dictionary of cultivated plants and their centres of diversity excluding ornamentals, forest trees, and lower plants
+title-short: originalyear: 1975
+type: Book	# zotero type ⚠️
 
 tags:								# ⚠️ check how does this output
-#  - {{tags}}
-summary: 							# ❗
-alias: {{citekey}}
-lang: {{language}}
+#  - summary: 							# ❗
+alias: 1975zeven
+lang: eng
 .IsTranslated: false				# ❗
 
 draft: true	# ❗ page will not be included in site build until draft status is changed
 
-date: {{accessDate}}				# ⚠️ might need to have a second step to update this
+date: 2021-10-23 07:59:10				# ⚠️ might need to have a second step to update this
 ---
 
 ## ❗ Document TODO

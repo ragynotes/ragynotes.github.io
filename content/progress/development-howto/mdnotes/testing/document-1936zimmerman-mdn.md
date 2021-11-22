@@ -1,19 +1,18 @@
 ---
-title: {{title}}
-title-short: {{shortTitle}}
-originalyear: {{date}}
-type: {{itemType}}	# zotero type ⚠️
+title: Consumption and standards of living
+title-short: originalyear: 1936
+type: Book	# zotero type ⚠️
 
 tags:								# ⚠️ check how does this output
-#  - {{tags}}
+#  - --Food
 summary: 							# ❗
-alias: {{citekey}}
-lang: {{language}}
+alias: 1936zimmerman
+lang: eng
 .IsTranslated: false				# ❗
 
 draft: true	# ❗ page will not be included in site build until draft status is changed
 
-date: {{accessDate}}				# ⚠️ might need to have a second step to update this
+date: 2021-08-26 08:24:23				# ⚠️ might need to have a second step to update this
 ---
 
 ## ❗ Document TODO

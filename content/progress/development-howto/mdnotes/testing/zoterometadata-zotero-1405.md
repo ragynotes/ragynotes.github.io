@@ -15,7 +15,7 @@
 Probably note useful, but might be:
 
 - **`pdfAttachments`** - 
-- **`mdnotesFileName`** -  Mdnotes File Name: mdnotes-zotero-1405
+- **`mdnotesFileName`** -  Mdnotes File Name: document-zotero-1405-mdn
 
 - **`metadataFileName`** -  Metadata File Name: zoterometadata-zotero-1405
 

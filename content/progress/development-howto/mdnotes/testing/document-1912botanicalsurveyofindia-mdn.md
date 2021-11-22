@@ -1,19 +1,18 @@
 ---
-title: {{title}}
-title-short: {{shortTitle}}
-originalyear: {{date}}
-type: {{itemType}}	# zotero type ⚠️
+title: Records of the Botanical Survey of India
+title-short: originalyear: 1912
+type: Book	# zotero type ⚠️
 
 tags:								# ⚠️ check how does this output
-#  - {{tags}}
+#  - 📓-Academic-Periodicals
 summary: 							# ❗
-alias: {{citekey}}
-lang: {{language}}
+alias: 1912botanicalsurveyofindia
+lang: eng
 .IsTranslated: false				# ❗
 
 draft: true	# ❗ page will not be included in site build until draft status is changed
 
-date: {{accessDate}}				# ⚠️ might need to have a second step to update this
+date: 2021-08-26 08:08:59				# ⚠️ might need to have a second step to update this
 ---
 
 ## ❗ Document TODO

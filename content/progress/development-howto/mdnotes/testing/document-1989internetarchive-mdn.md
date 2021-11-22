@@ -1,19 +1,18 @@
 ---
-title: {{title}}
-title-short: {{shortTitle}}
-originalyear: {{date}}
-type: {{itemType}}	# zotero type ⚠️
+title: Whole Earth Review  Fall 1989: Iss 64
+title-short: Whole Earth Review  Fall 1989
+originalyear: Fall 1989
+type: Book	# zotero type ⚠️
 
 tags:								# ⚠️ check how does this output
-#  - {{tags}}
-summary: 							# ❗
-alias: {{citekey}}
-lang: {{language}}
+#  - summary: 							# ❗
+alias: 1989internetarchive
+lang: English
 .IsTranslated: false				# ❗
 
 draft: true	# ❗ page will not be included in site build until draft status is changed
 
-date: {{accessDate}}				# ⚠️ might need to have a second step to update this
+date: 2021-10-23 08:50:21				# ⚠️ might need to have a second step to update this
 ---
 
 ## ❗ Document TODO

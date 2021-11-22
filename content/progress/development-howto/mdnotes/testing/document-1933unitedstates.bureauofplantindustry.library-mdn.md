@@ -1,19 +1,18 @@
 ---
-title: {{title}}
-title-short: {{shortTitle}}
-originalyear: {{date}}
-type: {{itemType}}	# zotero type ⚠️
+title: Botany : current literature
+title-short: Botany
+originalyear: 1933
+type: Book	# zotero type ⚠️
 
 tags:								# ⚠️ check how does this output
-#  - {{tags}}
-summary: 							# ❗
-alias: {{citekey}}
-lang: {{language}}
+#  - summary: 							# ❗
+alias: 1933unitedstates.bureauofplantindustry.library
+lang: eng
 .IsTranslated: false				# ❗
 
 draft: true	# ❗ page will not be included in site build until draft status is changed
 
-date: {{accessDate}}				# ⚠️ might need to have a second step to update this
+date: 2021-08-26 08:24:17				# ⚠️ might need to have a second step to update this
 ---
 
 ## ❗ Document TODO

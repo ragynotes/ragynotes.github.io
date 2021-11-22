@@ -37,7 +37,7 @@ Probably note useful, but might be:
 - **`pdfAttachments`** -  PDF Attachments
 	- [Full Text PDF](zotero://open-pdf/library/items/9QTEPA8M)
 
-- **`mdnotesFileName`** -  Mdnotes File Name: mdnotes-2015cinosi
+- **`mdnotesFileName`** -  Mdnotes File Name: document-2015cinosi-mdn
 
 - **`metadataFileName`** -  Metadata File Name: zoterometadata-2015cinosi
 

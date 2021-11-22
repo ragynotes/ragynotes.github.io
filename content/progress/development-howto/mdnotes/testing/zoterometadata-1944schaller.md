@@ -23,7 +23,7 @@ Probably note useful, but might be:
 - **`pdfAttachments`** -  PDF Attachments
 	- [1944-schaller-.pdf](zotero://open-pdf/library/items/6UJRFL6D)
 
-- **`mdnotesFileName`** -  Mdnotes File Name: mdnotes-1944schaller
+- **`mdnotesFileName`** -  Mdnotes File Name: document-1944schaller-mdn
 
 - **`metadataFileName`** -  Metadata File Name: zoterometadata-1944schaller
 

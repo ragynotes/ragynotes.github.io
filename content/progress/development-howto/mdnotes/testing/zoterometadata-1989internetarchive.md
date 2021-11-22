@@ -28,7 +28,7 @@ Probably note useful, but might be:
 - **`pdfAttachments`** -  PDF Attachments
 	- [1989--new_whole_earth,_llc.pdf](zotero://open-pdf/library/items/EABWUNHQ)
 
-- **`mdnotesFileName`** -  Mdnotes File Name: mdnotes-1989internetarchive
+- **`mdnotesFileName`** -  Mdnotes File Name: document-1989internetarchive-mdn
 
 - **`metadataFileName`** -  Metadata File Name: zoterometadata-1989internetarchive
 

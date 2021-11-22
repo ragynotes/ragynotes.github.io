@@ -24,7 +24,7 @@
 Probably note useful, but might be:
 
 - **`pdfAttachments`** - 
-- **`mdnotesFileName`** -  Mdnotes File Name: mdnotes-1912botanicalsurveyofindia
+- **`mdnotesFileName`** -  Mdnotes File Name: document-1912botanicalsurveyofindia-mdn
 
 - **`metadataFileName`** -  Metadata File Name: zoterometadata-1912botanicalsurveyofindia
 
