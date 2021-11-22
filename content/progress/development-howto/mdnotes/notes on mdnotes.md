@@ -113,7 +113,15 @@ looks good! might consider changing `"list_separator"` to `/n/n` or making the w
 {"content":"{{field_contents}}"}
 ```
 
+#### ⚠️`DOI`
 
+`extensions.mdnotes.placeholder.DOI` change to:
+
+```json
+{"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links"}
+```
+
+⚠️result is: `[10/gb85nb](https://doi.org/10/gb85nb)` so still has link. May need to investigate further in the future but for now, leave. 
 
 
 

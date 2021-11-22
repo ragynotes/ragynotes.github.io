@@ -10,7 +10,7 @@
 
 ## zotero fields
 
-- **`country`** - - **`DOI`** -  DOI: [10/gb85nb](https://doi.org/10/gb85nb)
+- **`country`** - - **`DOI`** - [10/gb85nb](https://doi.org/10/gb85nb)
 - **`edition`** - - **`extra`** -  Extra: Publisher: Hindawi
 - **`ISBN`** - - **`issue`** - - **`pages`** -  Pages: e968786
 - **`patent`** - - **`place`** - - **`publicationTitle`** -  Publication Title: BioMed Research International
