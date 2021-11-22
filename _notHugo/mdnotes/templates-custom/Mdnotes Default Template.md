@@ -4,16 +4,16 @@ title-short: {{shortTitle}}
 originalyear: {{date}}
 type: {{itemType}}
 
-tags:								# ⚠️ check how does this output
-	- {{tags}}
-#summary: 							# ❗
+tags:
+ - mdnotes
+ {{tags}}
+ 
 alias: {{citekey}}
 lang: {{language}}
-#.IsTranslated: false				# ❗
 
-draft: true	# ❗ page will not be included in site build until draft status is changed
+draft: true
 
-date: {{accessDate}}				# ⚠️ might need to have a second step to update this
+date: {{accessDate}}
 ---
 
 ## ❗ Document TODO

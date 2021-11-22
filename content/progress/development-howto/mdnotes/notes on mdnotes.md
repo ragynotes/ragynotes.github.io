@@ -123,6 +123,8 @@ looks good! might consider changing `"list_separator"` to `/n/n` or making the w
 
 perfect! have used what I believe to be the correct formatting for `yaml` which is one tag per line (I prefer this to comma delineated lists). [relevant hugo documentation](https://gohugo.io/content-management/taxonomies/#order-taxonomies)
 
+* need to keep one tags default
+
 #### ⚠️ `collections`
 
 `extensions.mdnotes.placeholder.collections` change to:

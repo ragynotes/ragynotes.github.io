@@ -4,15 +4,15 @@ title-short: Botany
 originalyear: 1930
 type: Book
 
-tags:								# ⚠️ check how does this output
-	- #summary: 							# ❗
+tags:
+ - mdnotes
+  
 alias: 1930unitedstates.bureauofplantindustry.library
 lang: eng
-#.IsTranslated: false				# ❗
 
-draft: true	# ❗ page will not be included in site build until draft status is changed
+draft: true
 
-date: 2021-08-26 08:24:15				# ⚠️ might need to have a second step to update this
+date: 2021-08-26 08:24:15
 ---
 
 ## ❗ Document TODO
