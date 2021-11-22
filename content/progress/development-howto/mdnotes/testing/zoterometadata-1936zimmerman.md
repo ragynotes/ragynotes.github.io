@@ -1,9 +1,14 @@
 # `mdnotes` demo for "Zotero Metadata Template.md"
 
 - **`title`** - Consumption and standards of living
+- **`author`** -  Authors: [[Carle C. Zimmerman]]
 - **`shortTitle`** - - **`date`** -  Date: 1936
 - **`accessDate`** -  Access Date: 2021-08-26 08:24:23
 - **`language`** -  Language: eng
+- **`abstractNote`** - ## Abstract
+
+xvi, 602 pages 24 cm; commitment to retain 20151204
+
 
 ## zotero fields
 

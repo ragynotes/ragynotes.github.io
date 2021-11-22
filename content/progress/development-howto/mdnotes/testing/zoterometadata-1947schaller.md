@@ -1,10 +1,11 @@
 # `mdnotes` demo for "Zotero Metadata Template.md"
 
 - **`title`** - Beitrag zur Pharmakognosie der Arznei-und Wirtschaftspflanzen Siams
+- **`author`** -  Authors: [[Rudolf Schaller]]
 - **`shortTitle`** - - **`date`** -  Date: 1947
 - **`accessDate`** -  Access Date: 2021-10-23 09:19:05
 - **`language`** -  Language: German
-
+- **`abstractNote`** - 
 ## zotero fields
 
 - **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** - - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - - **`url`** - [http://archive.org/details/nhbss_014_2h_schaller_beitragzurphar](http://archive.org/details/nhbss_014_2h_schaller_beitragzurphar)

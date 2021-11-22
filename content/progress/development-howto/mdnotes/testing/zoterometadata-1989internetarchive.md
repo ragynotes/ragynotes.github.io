@@ -1,10 +1,17 @@
 # `mdnotes` demo for "Zotero Metadata Template.md"
 
 - **`title`** - Whole Earth Review  Fall 1989: Iss 64
-- **`shortTitle`** -  Short Title: Whole Earth Review  Fall 1989
+- **`author`** - - **`shortTitle`** -  Short Title: Whole Earth Review  Fall 1989
 - **`date`** -  Date: Fall 1989
 - **`accessDate`** -  Access Date: 2021-10-23 08:50:21
 - **`language`** -  Language: English
+- **`abstractNote`** - ## Abstract
+
+Whole Earth Review Fall 1989: Volume None, Issue 64.
+Digitized from IA1632309-05.
+Previous issue: sim_whole-earth_summer-1989_63.
+Next issue: sim_whole-earth_winter-1989_65.
+
 
 ## zotero fields
 

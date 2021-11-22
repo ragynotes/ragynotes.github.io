@@ -1,9 +1,14 @@
 # `mdnotes` demo for "Zotero Metadata Template.md"
 
 - **`title`** - Records of the Botanical Survey of India
+- **`author`** -  Authors: [[ Botanical Survey of India]]
 - **`shortTitle`** - - **`date`** -  Date: 1912
 - **`accessDate`** -  Access Date: 2021-08-26 08:08:59
 - **`language`** -  Language: eng
+- **`abstractNote`** - ## Abstract
+
+Also available as electronic reproduction; Vols. 1-17, 1893-1959. 1 v; extracted picklist; Digitized
+
 
 ## zotero fields
 

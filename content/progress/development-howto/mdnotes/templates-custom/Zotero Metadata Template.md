@@ -1,10 +1,12 @@
 # `mdnotes` demo for "Zotero Metadata Template.md"
 
 - **`title`** - {{title}}
+- **`author`** - {{author}}
 - **`shortTitle`** - {{shortTitle}}
 - **`date`** - {{date}}
 - **`accessDate`** - {{accessDate}}
 - **`language`** - {{language}}
+- **`abstractNote`** - {{abstractNote}}
 
 ## zotero fields
 

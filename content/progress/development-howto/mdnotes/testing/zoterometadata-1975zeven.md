@@ -1,9 +1,14 @@
 # `mdnotes` demo for "Zotero Metadata Template.md"
 
 - **`title`** - Dictionary of cultivated plants and their centres of diversity excluding ornamentals, forest trees, and lower plants
+- **`author`** -  Authors: [[A. C. Zeven]]
 - **`shortTitle`** - - **`date`** -  Date: 1975
 - **`accessDate`** -  Access Date: 2021-10-23 07:59:10
 - **`language`** -  Language: eng
+- **`abstractNote`** - ## Abstract
+
+219 p. : 25 cm; Label mounted on verso of t.p.: Exclusive Distributor: ISBS, Forest Grove, Or; Bibliography: p. [182]-192; Includes index
+
 
 ## zotero fields
 

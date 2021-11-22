@@ -1,10 +1,15 @@
 # `mdnotes` demo for "Zotero Metadata Template.md"
 
 - **`title`** - Botany : current literature
+- **`author`** -  Authors: [[ United States. Bureau of Plant Industry. Library]]
 - **`shortTitle`** -  Short Title: Botany
 - **`date`** -  Date: 1930
 - **`accessDate`** -  Access Date: 2021-08-26 08:24:15
 - **`language`** -  Language: eng
+- **`abstractNote`** - ## Abstract
+
+Continued by a new series which appear weekly under the title; Plant science literature. 1.9 P69 Lcp
+
 
 ## zotero fields
 
