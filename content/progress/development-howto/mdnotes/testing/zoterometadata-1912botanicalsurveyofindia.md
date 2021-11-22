@@ -20,7 +20,7 @@ Also available as electronic reproduction; Vols. 1-17, 1893-1959. 1 v; extracted
 ## `mdnotes`  fields
 
 - **`itemType`** -  Item Type: Book
-- **`citekey`** -  Cite key: 1912botanicalsurveyofindia
+- **`citekey`** -  Citekey: 1912botanicalsurveyofindia
 - **`tags`** -  Tags: #📓-Academic-Periodicals
 - **`dateAdded`** -  Date Added: 2021-07-26
 - **`notes`** - 

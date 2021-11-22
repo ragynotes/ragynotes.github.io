@@ -19,7 +19,7 @@ xvi, 602 pages 24 cm; commitment to retain 20151204
 ## `mdnotes`  fields
 
 - **`itemType`** -  Item Type: Book
-- **`citekey`** -  Cite key: 1936zimmerman
+- **`citekey`** -  Citekey: 1936zimmerman
 - **`tags`** -  Tags: #--Food
 - **`dateAdded`** -  Date Added: 2021-07-26
 - **`notes`** - ## Highlights and Annotations

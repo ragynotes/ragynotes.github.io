@@ -23,7 +23,7 @@ Next issue: sim_whole-earth_winter-1989_65.
 ## `mdnotes`  fields
 
 - **`itemType`** -  Item Type: Book
-- **`citekey`** -  Cite key: 1989internetarchive
+- **`citekey`** -  Citekey: 1989internetarchive
 - **`tags`** - - **`dateAdded`** -  Date Added: 2021-09-23
 - **`notes`** - 
 Probably note useful, but might be:

@@ -20,7 +20,7 @@
 ## `mdnotes`  fields
 
 - **`itemType`** -  Item Type: Book
-- **`citekey`** -  Cite key: 1975zeven
+- **`citekey`** -  Citekey: 1975zeven
 - **`tags`** - - **`dateAdded`** -  Date Added: 2021-09-23
 - **`notes`** - ## Highlights and Annotations
 
