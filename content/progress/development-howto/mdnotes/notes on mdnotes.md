@@ -145,6 +145,18 @@ perfect! have used what I believe to be the correct formatting for `yaml` which
 
 ⚠️ There are no items with >1 collection so this is not properly tested. I am also not sure if or how I will use this. Have defaulted to formatting same as `tags`  on the assumption that they would go in the `yaml` front matter. 
 
+#### `related` items
+
+`extensions.mdnotes.placeholder.related` change to
+
+```json
+{"content":"{{field_contents}}", "link_style": "no-links", "list_separator": ", "}
+```
+
+
+
+
+
 
 
 
