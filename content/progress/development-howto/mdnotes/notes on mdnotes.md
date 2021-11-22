@@ -7,6 +7,7 @@ use "batch export to markdown"
 ## general
 
 - need to include 2x line-breaks sequentially to ensure new line
+- tried changing export filenames to include `/` in hopes of making subdirectories but instead the files seem to have not showed up? looked in both specified and default directories but not found. 
 
 ### custom formatting
 

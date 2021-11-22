@@ -1,10 +1,10 @@
 Dictionary of cultivated plants and their centres of diversity excluding ornamentals, forest trees, and lower plants
 
-![[zoterometadata-1975zeven#Metadata]]
+![[zoterometadata/zoterometadata-1975zeven#Metadata]]
 
 Other files:
  Mdnotes File Name: mdnotes-1975zeven
- Metadata File Name: zoterometadata-1975zeven
+ Metadata File Name: zoterometadata/zoterometadata-1975zeven
 
 ## Zotero links
 

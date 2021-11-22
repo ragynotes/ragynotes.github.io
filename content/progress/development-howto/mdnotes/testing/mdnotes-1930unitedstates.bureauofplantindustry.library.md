@@ -1,10 +1,10 @@
 Botany : current literature
 
-![[zoterometadata-1930unitedstates.bureauofplantindustry.library#Metadata]]
+![[zoterometadata/zoterometadata-1930unitedstates.bureauofplantindustry.library#Metadata]]
 
 Other files:
  Mdnotes File Name: mdnotes-1930unitedstates.bureauofplantindustry.library
- Metadata File Name: zoterometadata-1930unitedstates.bureauofplantindustry.library
+ Metadata File Name: zoterometadata/zoterometadata-1930unitedstates.bureauofplantindustry.library
 
 ## Zotero links
 

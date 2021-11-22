@@ -1,10 +1,10 @@
 Beitrag zur Pharmakognosie der Arznei-und Wirtschaftspflanzen Siams
 
-![[zoterometadata-1947schaller#Metadata]]
+![[zoterometadata/zoterometadata-1947schaller#Metadata]]
 
 Other files:
  Mdnotes File Name: mdnotes-1947schaller
- Metadata File Name: zoterometadata-1947schaller
+ Metadata File Name: zoterometadata/zoterometadata-1947schaller
 
 ## Zotero links
 

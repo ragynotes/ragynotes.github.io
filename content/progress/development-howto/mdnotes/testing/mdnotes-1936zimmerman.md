@@ -1,10 +1,10 @@
 Consumption and standards of living
 
-![[zoterometadata-1936zimmerman#Metadata]]
+![[zoterometadata/zoterometadata-1936zimmerman#Metadata]]
 
 Other files:
  Mdnotes File Name: mdnotes-1936zimmerman
- Metadata File Name: zoterometadata-1936zimmerman
+ Metadata File Name: zoterometadata/zoterometadata-1936zimmerman
 
 ## Zotero links
 
