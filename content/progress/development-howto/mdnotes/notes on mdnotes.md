@@ -153,6 +153,14 @@ perfect! have used what I believe to be the correct formatting for `yaml` which
 {"content":"{{field_contents}}", "link_style": "no-links", "list_separator": ", "}
 ```
 
+#### `notes`
+
+`extensions.mdnotes.placeholder.notes` change to:
+
+```json
+{"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "wiki", "list_separator": "\n- "}
+```
+
 
 
 
