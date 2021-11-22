@@ -6,11 +6,8 @@ type: Article	# zotero type ⚠️
 
 tags:								# ⚠️ check how does this output
 #  - ethnobotany
-
 	health-effects-of-kratom
-
 	meta-analysis
-
 	to-review-references
 summary: 							# ❗
 alias: 2015cinosi
