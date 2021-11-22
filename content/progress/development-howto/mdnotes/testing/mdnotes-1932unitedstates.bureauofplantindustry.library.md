@@ -1,15 +1,15 @@
 Botany : current literature
 
-![[zoterometadata/zoterometadata-1932unitedstates.bureauofplantindustry.library#Metadata]]
+![[zoterometadata-1932unitedstates.bureauofplantindustry.library#Metadata]]
 
 Other files:
  Mdnotes File Name: mdnotes-1932unitedstates.bureauofplantindustry.library
- Metadata File Name: zoterometadata/zoterometadata-1932unitedstates.bureauofplantindustry.library
+ Metadata File Name: zoterometadata-1932unitedstates.bureauofplantindustry.library
 
 ## Zotero links
 
- [Local library](zotero://select/items/1_VTXSUJXT)
- [Cloud library](http://zotero.org/users/8542045/items/VTXSUJXT)
+[Local library](zotero://select/items/1_VTXSUJXT)
+[Cloud library](http://zotero.org/users/8542045/items/VTXSUJXT)
 
 ## Notes
 

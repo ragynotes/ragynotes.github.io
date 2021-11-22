@@ -103,7 +103,15 @@ perfect!
 {"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links", "list_separator": ", "}
 ```
 
-looks good! might consider changing `"list_separator"` to `/n/n` or making the whole thing into a list or blockquote. but will leave that to the future.  
+looks good! might consider changing `"list_separator"` to `/n/n` or making the whole thing into a list or blockquote. but will leave that to the future.  
+
+#### library links
+
+`extensions.mdnotes.placeholder.cloudLibrary`, `extensions.mdnotes.placeholder.localLibrary`
+
+```json
+{"content":"{{field_contents}}"}
+```
 
 
 
