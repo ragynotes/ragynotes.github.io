@@ -1,7 +1,7 @@
 # `mdnotes` demo for "Zotero Metadata Template.md"
 
 - **`title`** - Whole Earth Review  Fall 1989: Iss 64
-- **`author`** - - **`shortTitle`** -  Short Title: Whole Earth Review  Fall 1989
+- **`author`** - - **`shortTitle`** - Whole Earth Review  Fall 1989
 - **`date`** -  Date: Fall 1989
 - **`accessDate`** -  Access Date: 2021-10-23 08:50:21
 - **`language`** -  Language: English
@@ -13,13 +13,13 @@ Next issue: sim_whole-earth_winter-1989_65.
 ## zotero fields
 
 - **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** -  Publisher: New Whole Earth, LLC
-- **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** -  Short Title: Whole Earth Review  Fall 1989
+- **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - Whole Earth Review  Fall 1989
 - **`url`** - [http://archive.org/details/sim_whole-earth_fall-1989_64](http://archive.org/details/sim_whole-earth_fall-1989_64)
 - **`volume`** - 
 
 ## `mdnotes`  fields
 
-- **`itemType`** -  Item Type: Book
+- **`itemType`** - Book
 - **`citekey`** - 1989internetarchive
 - **`tags`** - - **`dateAdded`** -  Date Added: 2021-09-23
 - **`notes`** - 

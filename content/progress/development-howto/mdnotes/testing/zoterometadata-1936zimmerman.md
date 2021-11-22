@@ -15,7 +15,7 @@
 
 ## `mdnotes`  fields
 
-- **`itemType`** -  Item Type: Book
+- **`itemType`** - Book
 - **`citekey`** - 1936zimmerman
 - **`tags`** - --Food
 - **`dateAdded`** -  Date Added: 2021-07-26

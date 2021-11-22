@@ -2,7 +2,7 @@
 
 - **`title`** - Following “the Roots” of Kratom (Mitragyna speciosa): The Evolution of an Enhancer from a Traditional Use to Increase Work and Productivity in Southeast Asia to a Recreational Psychoactive Drug in Western Countries
 - **`author`** - Eduardo Cinosi, Giovanni Martinotti, Pierluigi Simonato, Darshan Singh, Zsolt Demetrovics, Andres Roman-Urrestarazu, Francesco Saverio Bersani, Balasingam Vicknasingam, Giulia Piazzon, Jih-Heng Li, Wen-Jing Yu, Máté Kapitány-Fövény, Judit Farkas, Massimo Di Giannantonio, Ornella Corazza
-- **`shortTitle`** -  Short Title: Following “the Roots” of Kratom (Mitragyna speciosa)
+- **`shortTitle`** - Following “the Roots” of Kratom (Mitragyna speciosa)
 - **`date`** -  Date: 2015/11/10
 - **`accessDate`** -  Access Date: 2021-08-26 07:15:45
 - **`language`** -  Language: en
@@ -12,16 +12,16 @@
 
 - **`country`** - - **`DOI`** - [10/gb85nb](https://doi.org/10/gb85nb)
 - **`edition`** - - **`extra`** -  Extra: Publisher: Hindawi
-- **`ISBN`** - - **`issue`** - - **`pages`** -  Pages: e968786
+- **`ISBN`** - - **`issue`** - - **`pages`** - e968786
 - **`patent`** - - **`place`** - - **`publicationTitle`** -  Publication Title: BioMed Research International
-- **`publisher`** - - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** -  Short Title: Following “the Roots” of Kratom (Mitragyna speciosa)
+- **`publisher`** - - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - Following “the Roots” of Kratom (Mitragyna speciosa)
 - **`url`** - [https://www.hindawi.com/journals/bmri/2015/968786/](https://www.hindawi.com/journals/bmri/2015/968786/)
 - **`volume`** - 2015
 
 
 ## `mdnotes`  fields
 
-- **`itemType`** -  Item Type: Article
+- **`itemType`** - Article
 - **`citekey`** - 2015cinosi
 - **`tags`** - ethnobotany
 

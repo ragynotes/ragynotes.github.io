@@ -16,7 +16,7 @@
 
 ## `mdnotes`  fields
 
-- **`itemType`** -  Item Type: Book
+- **`itemType`** - Book
 - **`citekey`** - 1975zeven
 - **`tags`** - - **`dateAdded`** -  Date Added: 2021-09-23
 - **`notes`** - zoteronote-1975zeven - 

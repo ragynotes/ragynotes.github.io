@@ -191,7 +191,49 @@ perfect!
 
 
 
+#### new preference: `shortTitle`
 
+create preference `extensions.mdnotes.placeholder.shortTitle` with value:
+
+```json
+{"content":"{{field_contents}}", "link_style": "none", "list_separator": ", "}
+```
+
+
+
+#### new preference: `pages`
+
+create preference `extensions.mdnotes.placeholder.pages` with value:
+
+```json
+{"content":"{{field_contents}}", "link_style": "none", "list_separator": ", "}
+```
+
+
+
+#### new preference: `itemType`
+
+create preference `extensions.mdnotes.placeholder.itemType` with value:
+
+```json
+{"content":"{{field_contents}}", "link_style": "itemType", "list_separator": ", "}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### todo: new preference: `extra`
 
 
 

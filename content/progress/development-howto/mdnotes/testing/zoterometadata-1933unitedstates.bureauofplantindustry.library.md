@@ -2,7 +2,7 @@
 
 - **`title`** - Botany : current literature
 - **`author`** -  United States. Bureau of Plant Industry. Library
-- **`shortTitle`** -  Short Title: Botany
+- **`shortTitle`** - Botany
 - **`date`** -  Date: 1933
 - **`accessDate`** -  Access Date: 2021-08-26 08:24:17
 - **`language`** -  Language: eng
@@ -11,13 +11,13 @@
 ## zotero fields
 
 - **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** - - **`references`** - - **`rights`** -  Rights: The contributing institution believes that this item is not in copyright.
-- **`section`** - - **`shortTitle`** -  Short Title: Botany
+- **`section`** - - **`shortTitle`** - Botany
 - **`url`** - [http://archive.org/details/botanycurrentlit15unit](http://archive.org/details/botanycurrentlit15unit)
 - **`volume`** - 
 
 ## `mdnotes`  fields
 
-- **`itemType`** -  Item Type: Book
+- **`itemType`** - Book
 - **`citekey`** - 1933unitedstates.bureauofplantindustry.library
 - **`tags`** - - **`dateAdded`** -  Date Added: 2021-07-26
 - **`notes`** - 

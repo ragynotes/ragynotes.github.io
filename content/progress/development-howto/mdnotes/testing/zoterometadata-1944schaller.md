@@ -13,7 +13,7 @@
 
 ## `mdnotes`  fields
 
-- **`itemType`** -  Item Type: Book
+- **`itemType`** - Book
 - **`citekey`** - 1944schaller
 - **`tags`** - - **`dateAdded`** -  Date Added: 2021-09-23
 - **`notes`** - zoteronote-1944schaller - pg 47

@@ -16,7 +16,7 @@
 
 ## `mdnotes`  fields
 
-- **`itemType`** -  Item Type: Book
+- **`itemType`** - Book
 - **`citekey`** - 1912botanicalsurveyofindia
 - **`tags`** - 📓-Academic-Periodicals
 - **`dateAdded`** -  Date Added: 2021-07-26
