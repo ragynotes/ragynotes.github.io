@@ -1,17 +1,15 @@
 ---
-title: "{{title}}"
-title-short: "{{shortTitle}}"
-originalyear: {{date}}
-type: "{{itemType}}"
+title: "{{title}}" 
+title-short: "{{shortTitle}}" 
+originalyear: {{date}} 
+type: "{{itemType}}" 
 
-
- 
-alias: "{{citekey}}"
-lang: "{{language}}"
+alias: "{{citekey}}" 
+lang: "{{language}}" 
 
 draft: true
 
-date: {{accessDate}}
+date: {{accessDate}} 
 ---
 
 ## ❗ Document TODO
