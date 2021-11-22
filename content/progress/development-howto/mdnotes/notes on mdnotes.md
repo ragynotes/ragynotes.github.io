@@ -12,6 +12,7 @@ use "batch export to markdown"
 
 - It is adding the name of each feild before the information in the format: `Cite key: 1969blum`. This is documented with workarounds provided at: [Field formatting - zotero-mdnotes](https://argenos.gitbook.io/zotero-mdnotes/customization/formatting)
   - changes are made in Zotero hidden `about:config`. 
+- I notice that line breaks are denoted with `\n`
 
 #### `bullet`
 
@@ -93,7 +94,15 @@ change to:
 
 perfect! 
 
+#### `abstractNote`
 
+`extensions.mdnotes.placeholder.abstractNote` change to:
+
+```json
+{"content":"{{field_contents}}", "field_contents": "{{content}}", "link_style": "no-links", "list_separator": ", "}
+```
+
+looks good! might consider changing `"list_separator"` to `/n/n` or making the whole thing into a list or blockquote. but will leave that to the future.  
 
 
 
