@@ -1,4 +1,10 @@
-# `mdnotes` demo for "Zotero Metadata Template.md"
+# `mdnotes` demo for "Zotero Metadata Template.md"
+
+- **`title`** - # Botany : current literature
+- **`shortTitle`** -  Short Title: [Botany](botany)
+- **`date`** -  Date: [1932](1932)
+- **`accessDate`** -  Access Date: [2021-08-26 08:24:16](2021-08-26-08:24:16)
+- **`language`** -  Language: [eng](eng)
 
 ## zotero fields
 
@@ -6,7 +12,6 @@
 - **`section`** - - **`shortTitle`** -  Short Title: [Botany](botany)
 - **`url`** -  URL: [http://archive.org/details/botanycurrentlit14unit](http://archive.org/details/botanycurrentlit14unit)
 - **`volume`** - 
-
 
 ## `mdnotes`  fields
 

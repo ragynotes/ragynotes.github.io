@@ -129,104 +129,9 @@ references:
   number-of-pages: '1516'
   publisher: London [etc.]
   source: Internet Archive
-  title: Journal
+  title: Journal of Society of Chemical Industry
   type: book
   URL: http://archive.org/details/journals26soci
-
-- id: 1886bombaynaturalhistorysociety
-  abstract: >-
-    Issue for Dec. 1986 is called "Centenary supplement, 1886-1986.";
-    Description based on: Vol. 36, no. 1 (Nov. 1932); title from cover; Latest
-    issue consulted: Vol. 104, no. 3 (Dec. 2007); Vols. 1 (1886)-13 (1901) in v.
-    13; Vols. 14 (1902)-17 (1907) in v. 17; Vols. 18 (1907)-24 (1916) in v. 24;
-    Vols. 1 (1886)-24 (1917). 1 v.; Vols. 25 (1918)-30 (1925). 1 v.; Vols. 31
-    (1926)-36 (1933). 1 v.; Vols. 37 (1934)-42 (1941). 1 v; Vol. 36, no. 4-v.
-    37, no. 1, 4, v. 38, no. 2 have separately paged supplements: The Wild
-    animals of the Indian Empire and the problem of their preservation, pts. 1-4
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - literal: Bombay Natural History Society
-  call-number: BOM 1452
-  issued:
-    - year: 1886
-  language: eng
-  number-of-pages: '298'
-  publisher: 'Bombay : Bombay Natural History Society'
-  source: Internet Archive
-  title: The Journal of the Bombay Natural History Society
-  type: book
-  URL: http://archive.org/details/journalofbombayn1072bomb
-
-- id: 1886bombaynaturalhistorysocietya
-  abstract: >-
-    Vol. 1-24, 1886-1917; v. 18-24, 1907-14. 1 v.; v. 25-30, 1918-25. 1 v.; v.
-    31-36, 1926-33 1 v.; v. 37-42, 1934-41. 1 v; digitized; Elecresource
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - literal: Bombay Natural History Society
-  call-number: '39088014818637'
-  issued:
-    - year: 1886
-  language: eng
-  number-of-pages: '518'
-  publisher: Bombay, Bombay Natural History Society
-  source: Internet Archive
-  title: Journal of the Bombay Natural History Society
-  type: book
-  URL: http://archive.org/details/journalofbomba1012004bomb
-
-- id: 1889king
-  abstract: >-
-    Geneva Botanical Garden Purchase 1923; Nos. 1-13 by Sir George King; no.
-    14-21 by Sir George King and J.S. Gamble; no. 22-25 by J.S. Gamble; no. 26
-    by A.T. Gage; From Journal of the Asiatic Society of Bengal, v. 58, pt. 2,
-    no. 4, etc
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - family: King
-      given: George
-    - family: Gamble
-      given: J. S. (James Sykes)
-  call-number: '1024778'
-  issued:
-    - year: 1889
-  language: eng
-  number-of-pages: '530'
-  publisher: Calcutta; London
-  source: Internet Archive
-  title: Materials for a flora of the Malayan Peninsula
-  type: book
-  URL: http://archive.org/details/materialsforflor1417king
-
-- id: 1893botanicalsurveyofindia
-  abstract: >-
-    Also available as electronic reproduction; Vols. 1-17, 1893-1959. 1 v;
-    extracted picklist; Digitized
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - literal: Botanical Survey of India
-  call-number: '39088014854236'
-  issued:
-    - year: 1893
-  language: eng
-  number-of-pages: '550'
-  publisher: 'Calcutta : Office of Supt. of Govt. Print., India'
-  source: Internet Archive
-  title: Records of the Botanical Survey of India
-  type: book
-  URL: http://archive.org/details/recordsofbotanic61912bota
 
 - id: 1893hooker
   abstract: >-
@@ -259,52 +164,6 @@ references:
   title: Index Kewensis  plantarum phanerogamarum.
   type: book
   URL: http://archive.org/details/indexkewensispla11hook
-
-- id: 1893santapau.h
-  abstract: |-
-    Book Source: Digital Library of India Item 2015.221503
-
-    dc.contributor.author: Santapau. H
-    dc.date.accessioned: 2015-07-09T22:15:56Z
-    dc.date.available: 2015-07-09T22:15:56Z
-    dc.date.digitalpublicationdate: 2005-05-19
-    dc.date.citation: 1953
-    dc.identifier.barcode: 2990140053856
-    dc.identifier.origpath: /data_copy/upload/0053/861
-    dc.identifier.copyno: 1
-    dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/221503
-    dc.description.scannerno: 9
-    dc.description.scanningcentre: Osmania University
-    dc.description.main: 1
-    dc.description.tagged: 0
-    dc.description.totalpages: 442
-    dc.format.mimetype: application/pdf
-    dc.language.iso: English
-    dc.publisher.digitalrepublisher: Digital Library Of India
-    dc.publisher: The Government Of India Press
-    dc.rights: Not Available
-    dc.source.library: Osmania University
-    dc.subject.classification: Natural Sciences
-    dc.subject.classification: Botany
-    dc.subject.classification: General Botany
-    dc.title: Records Of The Botanical Survey Of India Vol Xvi No 1
-
-
-    ; v. : 25 cm; Vols. 1-17, 1893-1959. 1 v
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - literal: Santapau. H
-  issued:
-    - year: 1893
-  language: eng
-  publisher: 'Calcutta : Office of Supt. of Govt. Print., India'
-  source: Internet Archive
-  title: Records of the Botanical Survey of India
-  type: book
-  URL: http://archive.org/details/in.ernet.dli.2015.221503
 
 - id: 1893trimen
   abstract: >-
@@ -340,63 +199,6 @@ references:
   title-short: A hand-book to the flora of Ceylon
   type: book
   URL: http://archive.org/details/handbooktoflorao06trim
-
-- id: 1895americanpharmaceuticalassociation
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  archive: Columbia University Libraries
-  archive_location: sn 86014448
-  author:
-    - literal: American Pharmaceutical Association
-  container-title: >-
-    Proceedings of the maerican Pharmaceutical Association at the Fourty-Third
-    Annual Meeting Held At Denever, Colorado, August 1895
-  event-place: Baltimore
-  issued:
-    - year: 1895
-  language: eng
-  publisher: 'Philadelphia : Sherman & Co.'
-  publisher-place: Baltimore
-  source: Internet Archive
-  title: >-
-    Report on the Progress of the Pharmacy: Some Medicinal Products from the
-    Straits Settlements
-  title-short: Some Medicinal Products from the Straits Settlements
-  type: chapter
-  URL: http://archive.org/details/proceedingsofame4318amer
-  volume: '43'
-
-- id: 1895americanpharmaceuticalassociationa
-  abstract: >-
-    No meeting was held in 1861; Proceedings for 1852 issued by the association
-    under the name of its organizing body: National Pharmaceutical Convention;
-    Issues for 1857-1911 include Report on the progress of pharmacy; Vol. for
-    1852 includes the Minutes of the Convention of Pharmaceutists and Druggists,
-    held in the City of New York, October 15, 1851; In 1912, the series of
-    Proceedings was superseded by its Journal, and the Report on the progress of
-    pharmacy was incorporated into its Year book; 14
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - literal: American Pharmaceutical Association
-    - family: National Pharmaceutical Convention
-      given: Philadelphia
-    - family: Convention of Pharmaceutists and Druggists
-      given: New York
-  call-number: AAX-3173
-  issued:
-    - year: 1895
-  language: eng
-  number-of-pages: '1484'
-  publisher: Baltimore [etc.]
-  source: Internet Archive
-  title: Proceedings of the annual meeting
-  type: book
-  URL: http://archive.org/details/proceedingsofann43ameruoft
 
 - id: 1895ernestbosc
   abstract: "The Treaty Of Hashish\_ Ernest Bosc"
@@ -479,65 +281,6 @@ references:
   type: book
   URL: http://archive.org/details/in.ernet.dli.2015.19098
 
-- id: 1896britishmuseumnaturalhistory.dept.ofbotany
-  abstract: >-
-    GENEVA BOTANICAL GARDEN; Bibliography: v. 1, pt. 1, p. xix-xxv; I, pt. 1-4.
-    Dicotyledons. By William P. Hiern. l806-1900.--II, pt. 1. Monocotyledons and
-    gymnosperms. By Alfred B. Rendle. l899.--pt. 2. Cryptogamia. 1901
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - literal: British Museum (Natural History). Dept. of Botany
-    - family: Hiern
-      given: William Philip
-    - family: Rendle
-      given: A. B. (Alfred Barton)
-    - family: Welwitsch
-      given: Friedrich
-  call-number: '1025373'
-  issued:
-    - year: 1896
-  language: eng
-  number-of-pages: '208'
-  publisher: London, Printed by order of the Trustees
-  source: Internet Archive
-  title: Catalogue of the African plants
-  type: book
-  URL: http://archive.org/details/catalogueofafric12brit
-
-- id: 1896britishmuseumnaturalhistory.dept.ofbotanya
-  abstract: >-
-    Bibliography: v. 1, pt. 1, p. xix-xxv; I, pt. 1-4. Dicotyledons. By William
-    P. Hiern. l806-1900.--II, pt. 1. Monocotyledons and gymnosperms. By Alfred
-    B. Rendle. l899.--pt. 2. Cryptogamia. 1901
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - literal: British Museum (Natural History). Dept. of Botany
-    - family: Hiern
-      given: William P. (William Philip)
-    - family: Rendle
-      given: A. B. (Alfred Barton)
-    - family: Welwitsch
-      given: Friedrich Martin Josef
-  call-number: srlf_ucla:LAGE-649447
-  issued:
-    - year: 1896
-    - year: 1901
-  language: eng
-  number-of-pages: '208'
-  publisher: 'London : Printed by order of the Trustees'
-  source: Internet Archive
-  title: >-
-    Catalogue of the African plants collected by Dr. Friedrich Welwitsch in
-    1853-61
-  type: book
-  URL: http://archive.org/details/catalogueofafricapt201britiala
-
 - id: 1897gerstein-universityoftoronto
   abstract: '14'
   accessed:
@@ -603,6 +346,36 @@ references:
   type: book
   URL: http://archive.org/details/in.ernet.dli.2015.93964
 
+- id: 1898britishmuseumnaturalhistory.dept.ofbotany
+  abstract: >-
+    Bibliography: v. 1, pt. 1, p. xix-xxv; I, pt. 1-4. Dicotyledons. By William
+    P. Hiern. l806-1900.--II, pt. 1. Monocotyledons and gymnosperms. By Alfred
+    B. Rendle. l899.--pt. 2. Cryptogamia. 1901
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - literal: British Museum (Natural History). Dept. of Botany
+    - family: Hiern
+      given: William P. (William Philip)
+    - family: Rendle
+      given: A. B. (Alfred Barton)
+    - family: Welwitsch
+      given: Friedrich Martin Josef
+  call-number: srlf_ucla:LAGE-649447
+  issued:
+    - year: 1898
+  language: eng
+  number-of-pages: '208'
+  publisher: London, Printed by order of the Trustees
+  source: Internet Archive
+  title: >-
+    Catalogue of the African plants collected by Dr. Friedrich Welwitsch in
+    1853-61
+  type: book
+  URL: http://archive.org/details/catalogueofafric12brit
+
 - id: 1898royalbotanicgardens
   accessed:
     - year: 2021
@@ -651,30 +424,7 @@ references:
   type: book
   URL: http://archive.org/details/dli.ernet.26685
 
-- id: 1899merrill
-  abstract: 'Binder''s title; (v. 19- called: Publications of E.D. Merrill)'
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - family: Merrill
-      given: Elmer Drew
-  call-number: '1052334'
-  issued:
-    - year: 1899
-  language: eng
-  number-of-pages: '654'
-  publisher: '[New York, etc.'
-  source: Internet Archive
-  title: Botanical publications of E.D. Merrill
-  type: book
-  URL: http://archive.org/details/botanicalpublica11merr
-
 - id: 1900internationalbotanicalcongress
-  abstract: >-
-    Title varies: 1905, Verhandlungen; 1926, Proceedings; 1930, Report of
-    proceedings; 1935-5, Proceedings; Mode of access: Internet
   accessed:
     - year: 2021
       month: 8
@@ -687,29 +437,9 @@ references:
   number-of-pages: '632'
   publisher: '[S.l.]'
   source: Internet Archive
-  title: Proceedings 1926, 1935-50, <1993->
+  title: Proceedings of the International Botanical Congress
   type: book
   URL: http://archive.org/details/bub_gb_3MBUAAAAMAAJ
-
-- id: 1900internetarchive
-  abstract: >-
-    v.  : 22 cm; -- v. 2. Philippines and Japan. Europe. North America.
-    Australiasia. Central America and the Caribbean; Includes bibliographies and
-    indexes
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  ISBN: 978-0-86095-837-6
-  issued:
-    - year: 1900
-  language: eng
-  number-of-pages: '466'
-  publisher: '[High Wycombe] : TRADA ; Lancaster : [Distributed by] Construction Press'
-  source: Internet Archive
-  title: Timbers of the world
-  type: book
-  URL: http://archive.org/details/timbersofworld0000unse_k4a6
 
 - id: 1900royalbotanicgardens
   accessed:
@@ -892,33 +622,10 @@ references:
   type: book
   URL: http://archive.org/details/internationalcat03roya
 
-- id: 1903cooke
-  abstract: |-
-    Central Secretariat Library, Government of India
-    Source URL: http://cslrepository.nvli.in//handle/123456789/8524
-
-    ; Description: Vol. I : Ranunculaceae to Rubiaceae.
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - family: Cooke
-      given: Theodore
-  issued:
-    - year: 1903
-  language: eng
-  publisher: Taylor and Francis, London
-  source: Internet Archive
-  title: The Flora of the Presidency of Bombay, Vol. I
-  type: book
-  URL: http://archive.org/details/dli.csl.8524
-
 - id: 1903cookea
   abstract: >-
-    Horticultural Society of New York Gift, June 2006; K. K. Mackenzie
-    collection; Added t.p. title: Flora of Bombay; v. 1. Ranunculaceae to
-    Rubiaceae -- v. 2. Compositae to Gramineae
+    Flora of Bombay; v. 1. Ranunculaceae to Rubiaceae -- v. 2. Compositae to
+    Gramineae
   accessed:
     - year: 2021
       month: 8
@@ -933,7 +640,7 @@ references:
   number-of-pages: '672'
   publisher: 'London : Taylor and Francis'
   source: Internet Archive
-  title: The flora of the presidency of Bombay
+  title: The flora of the presidency of Bombay - v. 1. Ranunculaceae to Rubiaceae
   type: book
   URL: http://archive.org/details/floraofpresidenc01cook
 
@@ -1051,28 +758,6 @@ references:
   type: book
   URL: http://archive.org/details/CUbiodiversity690553
 
-- id: 1906federatedmalaystates.JournalFederatedMalay
-  author:
-    - family: Federated Malay States.
-      given: ''
-    - family: States
-      given: Federated Malay
-    - family: Museum
-      given: Perak State
-    - family: Museum
-      given: ''
-  event-place: 'Kuala Lumpur :'
-  issued:
-    - year: 1906
-  number-of-pages: '238'
-  page: 1-238
-  publisher: the Museums,
-  publisher-place: 'Kuala Lumpur :'
-  title: Journal of the Federated Malay States Museums.
-  type: book
-  URL: https://www.biodiversitylibrary.org/item/62878
-  volume: '2'
-
 - id: 1906l.wray
   abstract: Fleming Collection; 14 29
   accessed:
@@ -1179,6 +864,8 @@ references:
     - year: 2021
       month: 8
       day: 26
+  archive: Columbia University Libraries
+  archive_location: sn 86014448
   author:
     - literal: American Pharmaceutical Association
     - family: National Pharmaceutical Convention
@@ -1186,15 +873,19 @@ references:
     - family: Convention of Pharmaceutists and Druggists
       given: New York
   call-number: AAX-3173
+  event-place: Baltimore
   issued:
     - year: 1907
   language: eng
   number-of-pages: '1114'
-  publisher: Baltimore [etc.]
+  publisher: 'Philadelphia : Sherman & Co.'
+  publisher-place: Baltimore
   source: Internet Archive
   title: Proceedings of the annual meeting, 1907
+  title-short: Some Medicinal Products from the Straits Settlements
   type: book
   URL: http://archive.org/details/proceedingsofann55ameruoft
+  volume: '43'
 
 - id: 1907bombaynaturalhistorysociety
   abstract: >-
@@ -1352,6 +1043,74 @@ references:
   type: book
   URL: http://archive.org/details/acx0689.0015.001.umich.edu
 
+- id: 1909king
+  abstract: >-
+    PREFACE.
+
+    The papers contained in this volume originally appeared, like their
+    predecessors, in the Journal of the Asiatic Society of Bengal. For the
+    convenience of Botanists, separate copies of each of these papers were
+    printed off as it appeared, and these form a volume dealing with the
+    Gamopetalce as its predecessors dealt respectively with Thalamiflorce,
+    Disciflorce and Calyciflorce. Each page of the volume bears two numbers. The
+    one at the top of the page is that of the volume of the Journal in which the
+    paper originally appeared. This number is not referred to in the Index, but
+    it is the one which ought to be used by any one quoting this work. The
+    numbers at the bottom of the pages {xvhich run contifiuously) are those used
+    in the index.
+
+    The dates of the publication of the Parts included in the present volume are
+    as follows : —
+
+    No. 14, pages 1 to 120, Journ. As. Society, Bengal, Vol. Ixxii. ii. 4, 1903.
+
+    „ 15, „ 121 to 210,
+
+    ,, 16, ,, 211 to 302,
+
+    „ 17, ,. 303 to 484,
+
+    „ 18, ,, 485 to 596,
+
+    „ 19, „ 597 to 836,
+
+    ,,20, ,, 837 to 938,
+
+    S ,, 21, „ 939 to 1125,
+
+    Vol. Ixxiii. ii. 3, 1904.
+
+    Vol. Ixxiv. ii. Extra No. 1905.
+
+    do 1905.
+
+    do 1905.
+
+    do 1907.
+
+    do 1907.
+
+    do 1908
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - family: King
+      given: George
+    - family: Gamble
+      given: J. S. (James Sykes)
+  call-number: '1024778'
+  issued:
+    - year: 1909
+  language: eng
+  number-of-pages: '530'
+  publisher: Calcutta; London
+  source: Internet Archive
+  title: Materials for a flora of the Malayan Peninsula
+  type: book
+  URL: http://archive.org/details/materialsforflor1417king
+
 - id: 1909talbot
   abstract: |-
     Source: Asiatic Society of Mumbai
@@ -1400,97 +1159,9 @@ references:
   number-of-pages: '1316'
   publisher: London, Baillière, Tindall and Cox
   source: Internet Archive
-  title: Manual of tropical medicine. [electronic resource]
-  type: book
-  URL: http://archive.org/details/b21360182
-
-- id: 1910castellania
-  abstract: >-
-    The metadata below describe the original scanning. Follow the "All Files:
-    HTTP" link in the "View the book" box to the left to find XML files that
-    contain more metadata about the original images and the derived formats (OCR
-    results, PDF etc.). See also the What is the directory structure for the
-    texts? FAQ for information about file content and naming conventions.
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - family: Castellani
-      given: Aldo
-  issued:
-    - year: 1910
-  language: eng
-  number-of-pages: '1304'
-  publisher: New York, W. Wood and Company
-  source: Internet Archive
-  title: Manual of tropical medicine
+  title: Manual of tropical medicine.
   type: book
   URL: http://archive.org/details/cu31924000318034
-
-- id: 1910gmarshallwoodrow
-  abstract: |-
-    Book Source: Digital Library of India Item 2015.222818
-
-    dc.contributor.author: G Marshall Woodrow
-    dc.date.accessioned: 2015-07-09T22:56:59Z
-    dc.date.available: 2015-07-09T22:56:59Z
-    dc.date.digitalpublicationdate: 2005-04-30
-    dc.date.citation: 1910
-    dc.identifier.barcode: 2990150063943
-    dc.identifier.origpath: /data_copy/upload/0063/948
-    dc.identifier.copyno: 1
-    dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/222818
-    dc.description.scannerno: 50012
-    dc.description.scanningcentre: Salar Jung Museum
-    dc.description.main: 1
-    dc.description.tagged: 0
-    dc.description.totalpages: 688
-    dc.format.mimetype: application/pdf
-    dc.language.iso: English
-    dc.publisher.digitalrepublisher: Digital Library Of India
-    dc.publisher: Alexander Gardner
-    dc.source.library: Salar Jung Museum
-    dc.subject.classification: Natural Sciences
-    dc.subject.classification: Botany
-    dc.title: Gardening In The Tropics
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - literal: G Marshall Woodrow
-  issued:
-    - year: 1910
-  language: eng
-  source: Internet Archive
-  title: Gardening In The Tropics
-  type: book
-  URL: http://archive.org/details/in.ernet.dli.2015.222818
-
-- id: 1910haines
-  abstract: Map lacking
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - family: Haines
-      given: Henry Haselfoot
-  call-number: '1024712'
-  issued:
-    - year: 1910
-  language: eng
-  number-of-pages: '702'
-  publisher: Dehra Dun, India, Bishen Singh Mahendra Pal Singh
-  source: Internet Archive
-  title: >-
-    A forest flora of Chota Nagpur including Gangpur and the Santal-Parganahs. A
-    description of all the indigenous trees, shrubs and climbers, the principal
-    economic herbs, and the most commonly cultivated trees and shrubs (with
-    introduction and glossary)
-  type: book
-  URL: http://archive.org/details/forestfloraofcho00hain
 
 - id: 1910hainesa
   accessed:
@@ -1510,32 +1181,6 @@ references:
   title: A forest flora of Chota Nagpur including Gangpur and the Santal-Parganahs
   type: book
   URL: http://archive.org/details/forestfloraofch00hain
-
-- id: 1910hainesb
-  abstract: |-
-    Source: Asiatic Society of Mumbai
-    Identifier: BK_00057203
-    Digitization Sponsor: Dr. Gersan Da Cunha
-
-    ; Original Source: Item 93040
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - family: Haines
-      given: H. H.
-  issued:
-    - year: 1910
-  language: eng
-  publisher: The Superintendent, Government Printing (Calcutta)
-  source: Internet Archive
-  title: >-
-    A Forest Flora of Chota Nagpur, including Gangapur and the Santal-Parganahs;
-    a description of all the indigenous trees, shrubs and climbers, the
-    principal economic herbs and the most commonly cultivated trees and shrubs
-  type: book
-  URL: http://archive.org/details/dli.granth.93040
 
 - id: 1910jordan
   abstract: 'Mode of access: Internet'
@@ -1624,50 +1269,6 @@ references:
   type: book
   URL: http://archive.org/details/manualofpoisonou02pamm
 
-- id: 1910pammela
-  abstract: >-
-    "Bibliography of poisonous plants, by Harriette S. Kellog": pt. 2, p.
-    [862]-918; Includes index; Part 2, copy 1 inscribed: To Dr. N. L. Britton,
-    with my compliments, L. H. Pammel
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - family: Pammel
-      given: L. H. (Louis Hermann)
-  call-number: '1000487'
-  issued:
-    - year: 1910
-  language: eng
-  number-of-pages: '882'
-  publisher: 'Cedar Rapids, Ia. : The Torch Press'
-  source: Internet Archive
-  title: >-
-    A manual of poisonous plants : chiefly of eastern North America, with brief
-    notes on economic and medicinal plants, and numerous illustrations
-  title-short: A manual of poisonous plants
-  type: book
-  URL: http://archive.org/details/manualofpoisonou02pamm
-
-- id: 1910philippines.bureauofscience
-  abstract: 'Mode of access: Internet'
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - literal: Philippines. Bureau of Science
-  issued:
-    - year: 1910
-  language: eng
-  number-of-pages: '652'
-  publisher: Manila
-  source: Internet Archive
-  title: Monograph
-  type: book
-  URL: http://archive.org/details/acw7735.0018.003.umich.edu
-
 - id: 1910whitlawilliamsir
   abstract: >-
     This material has been provided by the Royal College of Physicians of
@@ -1677,29 +1278,6 @@ references:
     - year: 2021
       month: 10
       day: 23
-  author:
-    - family: Whitla William Sir
-      given: 1851-1933
-    - literal: Royal College of Physicians of Edinburgh
-  issued:
-    - year: 1910
-  language: eng
-  number-of-pages: '704'
-  publisher: 'London : Bailliere, Tindall and Cox'
-  source: Internet Archive
-  title: Elements of pharmacy, materia medica, and therapeutics
-  type: book
-  URL: http://archive.org/details/b21725573
-
-- id: 1910whitlawilliamsira
-  abstract: >-
-    This material has been provided by the Royal College of Physicians of
-    Edinburgh. The original may be consulted at the Royal College of Physicians
-    of Edinburgh; Royal College of Physicians of Edinburgh
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
   author:
     - family: Whitla William Sir
       given: 1851-1933
@@ -1854,58 +1432,6 @@ references:
   type: book
   URL: http://archive.org/details/dli.granth.93036
 
-- id: 1911talbota
-  abstract: |-
-    Central Secretariat Library, Government of India
-    Source URL: http://cslrepository.nvli.in//handle/123456789/8009
-
-    ; Description: Vol. II : Rhizophoraceae to Graamineae.
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - family: Talbot
-      given: W. A.
-  issued:
-    - year: 1911
-  language: eng
-  publisher: Government Photozincographic Department, Poona
-  source: Internet Archive
-  title: Forest Flora of the Bombay Presidency and Sind, Vol. II
-  type: book
-  URL: http://archive.org/details/dli.csl.8009
-
-- id: 1911talbotb
-  abstract: >-
-    Source: Digital Library of India
-
-
-    Scanning Centre: Allama Iqbal Library, University of Kashmir
-
-    Source Library: Allama Iqbal Library, University Of Kashmir
-
-    Date Accessioned: 8/6/2015 22:15
-
-    The Digital Library of India was a project under the auspices of the
-    Government of India.
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - family: Talbot
-      given: W.
-      dropping-particle: a
-  issued:
-    - year: 1911
-  language: eng
-  publisher: N.a
-  source: Internet Archive
-  title: Forest Flora Of The Bombay Presidency and Sind Vol Ii
-  type: book
-  URL: http://archive.org/details/dli.ernet.285569
-
 - id: 1912alfredrehder
   abstract: >-
     Book digitized by Google from the library of the University of Wisconsin -
@@ -1929,6 +1455,28 @@ references:
   title-short: The Bradley Bibliography
   type: book
   URL: http://archive.org/details/bradleybibliogr00sarggoog
+
+- id: 1912botanicalsurveyofindia
+  abstract: >-
+    Also available as electronic reproduction; Vols. 1-17, 1893-1959. 1 v;
+    extracted picklist; Digitized
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - literal: Botanical Survey of India
+  call-number: '39088014854236'
+  issued:
+    - year: 1912
+  language: eng
+  number-of-pages: '550'
+  publisher: 'Calcutta : Office of Supt. of Govt. Print., India'
+  source: Internet Archive
+  title: Records of the Botanical Survey of India
+  type: book
+  URL: http://archive.org/details/recordsofbotanic61912bota
+  volume: '6'
 
 - id: 1912craib
   abstract: '14'
@@ -2133,65 +1681,7 @@ references:
     North-west Frontier Province, and Kashmir
   title-short: Plants of the Punjab
   type: book
-  URL: http://archive.org/details/plantsofpunjabde00bamb
-
-- id: 1916bambera
-  abstract: >-
-    This book was copied from the amazing and wonderful PAHAR: Mountains of
-    Central Asia Digital Dataset, a labor of love by two dedicated and talented
-    historians. We encourage you to visit them, and subscribe to their list for
-    updates on new books as they are uploaded.
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - literal: Bamber
-  issued:
-    - year: 1916
-  language: eng
-  source: Internet Archive
-  title: Plants of the Punjab--Flora of Punjab NWFP and Kashmir
-  type: book
   URL: http://archive.org/details/dli.pahar.2040
-
-- id: 1916bambercj
-  abstract: |-
-    Book Source: Digital Library of India Item 2015.29837
-
-    dc.contributor.author: Bamber C J
-    dc.date.accessioned: 2015-06-25T15:14:52Z
-    dc.date.available: 2015-06-25T15:14:52Z
-    dc.date.digitalpublicationdate: 2007-01-20
-    dc.date.citation: 1916
-    dc.identifier.barcode: 99999990184942
-    dc.identifier.origpath: /data2/upload/0039/248
-    dc.identifier.copyno: 1
-    dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/29837
-    dc.description.scanningcentre: UOD, Delhi
-    dc.description.main: 1
-    dc.description.tagged: 0
-    dc.description.totalpages: 708
-    dc.format.mimetype: application/pdf
-    dc.language.iso: English
-    dc.publisher.digitalrepublisher: Digital Library Of India
-    dc.publisher: The Suprintedent Goverment Printing Junjab
-    dc.rights: Not Available
-    dc.source.library: I A R I Library
-    dc.title: Plants Of The Punjab
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - literal: Bamber C J
-  issued:
-    - year: 1916
-  language: eng
-  source: Internet Archive
-  title: Plants Of The Punjab
-  type: book
-  URL: http://archive.org/details/in.ernet.dli.2015.29837
 
 - id: 1916c.j.bamber
   abstract: 'Bamber, C. J. (1916) Plants of the Punjab. Lahore: Government Press.'
@@ -2588,8 +2078,8 @@ references:
   type: book
   URL: http://archive.org/details/botanyofbiharori46hain
 
-- id: 1921merrill
-  abstract: 'Bibliography: p. 2-6'
+- id: 1921merrilla
+  abstract: 'Binder''s title; (v. 19- called: Publications of E.D. Merrill)'
   accessed:
     - year: 2021
       month: 8
@@ -2597,16 +2087,16 @@ references:
   author:
     - family: Merrill
       given: Elmer Drew
-  call-number: nrlf_ucb:GLAD-84111479
+  call-number: '1052334'
   issued:
-    - literal: 1921]
+    - year: 1921
   language: eng
-  number-of-pages: '648'
-  publisher: '[Singapore, Printed by Fraser & Neave, ltd.'
+  number-of-pages: '654'
+  publisher: Fraser & Neave
   source: Internet Archive
-  title: A bibliographic enumeration of Bornean plants
+  title: Botanical publications of E.D. Merrill
   type: book
-  URL: http://archive.org/details/bibliographicenu00merrrich
+  URL: http://archive.org/details/botanicalpublica11merr
 
 - id: 1921r.s.troup
   abstract: |-
@@ -2937,6 +2427,27 @@ references:
   URL: http://archive.org/details/acw7735.0018.003.umich.edu
   volume: '3'
 
+- id: 1923merril
+  abstract: 'Mode of access: Internet'
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - family: Merril
+      given: Elmer D.
+  collection-number: '18'
+  issued:
+    - year: 1923
+  language: eng
+  number-of-pages: '652'
+  publisher: Manila
+  source: Internet Archive
+  title: An Enumeration of the Phillipine Flowering Plants
+  type: book
+  URL: http://archive.org/details/acw7735.0018.003.umich.edu
+  volume: '3'
+
 - id: 1923notavailable
   abstract: |-
     Book Source: Digital Library of India Item 2015.99748
@@ -3063,32 +2574,6 @@ references:
   type: book
   URL: http://archive.org/details/in.ernet.dli.2015.208807
 
-- id: '1926'
-  abstract: >-
-    Source: Digital Library of India
-
-
-    Scanning Centre: C-DAC, Noida
-
-    Source Library: I A R I Library
-
-    Date Accessioned: 7/10/2015 19:42
-
-    The Digital Library of India was a project under the auspices of the
-    Government of India.
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  issued:
-    - year: 1926
-  language: eng
-  publisher: Royal Botanic Gardens, Kew
-  source: Internet Archive
-  title: Bulletin Of Miscellaneous Information No-1 (1926)
-  type: book
-  URL: http://archive.org/details/dli.ernet.229450
-
 - id: 1926chittendenf.j.
   abstract: >-
     Source: Digital Library of India
@@ -3116,6 +2601,35 @@ references:
   title: Journal Of The Royal Horticultural Society Vol-li (1926)
   type: book
   URL: http://archive.org/details/dli.ernet.229806
+
+- id: 1926royalbotanicgardenskew
+  abstract: >-
+    Source: Digital Library of India
+
+
+    Scanning Centre: C-DAC, Noida
+
+    Source Library: I A R I Library
+
+    Date Accessioned: 7/10/2015 19:42
+
+    The Digital Library of India was a project under the auspices of the
+    Government of India.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - family: Royal Botanic Gardens, Kew
+      given: ''
+  issued:
+    - year: 1926
+  language: eng
+  publisher: Royal Botanic Gardens, Kew
+  source: Internet Archive
+  title: Bulletin Of Miscellaneous Information No-1 (1926)
+  type: book
+  URL: http://archive.org/details/dli.ernet.229450
 
 - id: 1927a.e.osmaston
   abstract: >-
@@ -3221,7 +2735,7 @@ references:
   type: book
   URL: http://archive.org/details/dli.ernet.18634
 
-- id: 1930bibliothequeinteruniversitairedesanteparis
+- id: 1930bibliothequeinteruniversitairedesante
   abstract: >-
     Bulletin scientifique, annexes et bulletin des intérêts professionnels ont
     été numérisés et indexés séparément afin de faciliter leur consultation
@@ -3288,6 +2802,31 @@ references:
   title-short: Botany
   type: book
   URL: http://archive.org/details/botanycurrentlit12unit
+
+- id: 1932grewal
+  accessed:
+    - year: 2021
+      month: 10
+      day: 4
+  author:
+    - family: Grewal
+      given: K. S.
+  container-title: British Journal of Medical Psychology
+  DOI: 10/fq2d3f
+  ISSN: 2044-8341
+  issue: '1'
+  issued:
+    - year: 1932
+  language: en
+  note: >-
+    _eprint:
+    https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.2044-8341.1932.tb01062.x
+  page: 41-58
+  source: Wiley Online Library
+  title: The Effect of Mitragynine on Man
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8341.1932.tb01062.x
+  volume: '12'
 
 - id: 1932harvarduniversity.
   accessed:
@@ -3374,7 +2913,7 @@ references:
   type: book
   URL: http://archive.org/details/botanycurrentlit14unit
 
-- id: 1933bibliothequeinteruniversitairedesanteparis
+- id: 1933bibliothequeinteruniversitairedesante
   abstract: >-
     Bulletin scientifique, annexes et bulletin des intérêts professionnels ont
     été numérisés et indexés séparément afin de faciliter leur consultation
@@ -3428,6 +2967,53 @@ references:
   title: International Review Of Agriculture Year-xxiv (1933)
   type: book
   URL: http://archive.org/details/dli.ernet.18934
+
+- id: 1933santapau.h
+  abstract: |-
+    Book Source: Digital Library of India Item 2015.221503
+
+    dc.contributor.author: Santapau. H
+    dc.date.accessioned: 2015-07-09T22:15:56Z
+    dc.date.available: 2015-07-09T22:15:56Z
+    dc.date.digitalpublicationdate: 2005-05-19
+    dc.date.citation: 1953
+    dc.identifier.barcode: 2990140053856
+    dc.identifier.origpath: /data_copy/upload/0053/861
+    dc.identifier.copyno: 1
+    dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/221503
+    dc.description.scannerno: 9
+    dc.description.scanningcentre: Osmania University
+    dc.description.main: 1
+    dc.description.tagged: 0
+    dc.description.totalpages: 442
+    dc.format.mimetype: application/pdf
+    dc.language.iso: English
+    dc.publisher.digitalrepublisher: Digital Library Of India
+    dc.publisher: The Government Of India Press
+    dc.rights: Not Available
+    dc.source.library: Osmania University
+    dc.subject.classification: Natural Sciences
+    dc.subject.classification: Botany
+    dc.subject.classification: General Botany
+    dc.title: Records Of The Botanical Survey Of India Vol Xvi No 1
+
+
+    ; v. : 25 cm; Vols. 1-17, 1893-1959. 1 v
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - literal: Santapau. H
+  issued:
+    - year: 1933
+  language: eng
+  publisher: 'Calcutta : Office of Supt. of Govt. Print., India'
+  source: Internet Archive
+  title: Records of the Botanical Survey of India
+  type: book
+  URL: http://archive.org/details/in.ernet.dli.2015.221503
+  volume: '16'
 
 - id: 1933unitedstates.bureauofplantindustry.library
   abstract: >-
@@ -3505,7 +3091,7 @@ references:
   type: book
   URL: http://archive.org/details/botanycurrentlit16unit
 
-- id: 1935bibliothequeinteruniversitairedesanteparis
+- id: 1935bibliothequeinteruniversitairedesante
   abstract: >-
     Bulletin scientifique, annexes et bulletin des intérêts professionnels ont
     été numérisés et indexés séparément afin de faciliter leur consultation
@@ -3751,31 +3337,6 @@ references:
   type: book
   URL: http://archive.org/details/consumptionstand0000unse
 
-- id: '1939'
-  abstract: >-
-    British Chemical and Physiological Abstracts, 1939, parts AI and AII
-
-    Continuation of "British Chemical Abstracts".
-
-    It contains part A - pure chemistry (with subparts: I-
-    general,physical,inorganic,
-
-    II - organic, III - biochemistry (not included)) and part B - applied
-    chemistry (not included),
-
-    subjects and authors' names indexes.
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  issued:
-    - year: 1939
-  language: eng
-  source: Internet Archive
-  title: British Chemical and Physiological Abstracts, 1939, parts AI and AII
-  type: book
-  URL: http://archive.org/details/1939AII
-
 - id: 1939craibi.j.
   abstract: |-
     Book Source: Digital Library of India Item 2015.26417
@@ -3963,6 +3524,34 @@ references:
   title: List of intercepted plant pests...July 1, 1937 to June 30, 1938, inclusive
   type: book
   URL: http://archive.org/details/listofintercept1939unit
+
+- id: 1939unknown
+  abstract: >-
+    British Chemical and Physiological Abstracts, 1939, parts AI and AII
+
+    Continuation of "British Chemical Abstracts".
+
+    It contains part A - pure chemistry (with subparts: I-
+    general,physical,inorganic,
+
+    II - organic, III - biochemistry (not included)) and part B - applied
+    chemistry (not included),
+
+    subjects and authors' names indexes.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - family: unknown
+      given: ''
+  issued:
+    - year: 1939
+  language: eng
+  source: Internet Archive
+  title: British Chemical and Physiological Abstracts, 1939, parts AI and AII
+  type: book
+  URL: http://archive.org/details/1939AII
 
 - id: 1940digitallibraryofindia
   abstract: |-
@@ -4209,52 +3798,61 @@ references:
   type: book
   URL: http://archive.org/details/in.ernet.dli.2015.60639
 
-- id: 1943hessrobertw.
-  abstract: |-
-    Book Source: Digital Library of India Item 2015.4767
-
-    dc.contributor.author: Record Samuel J.
-    dc.contributor.author: Hess Robert W.
-    dc.date.accessioned: 2015-06-19T14:52:36Z
-    dc.date.available: 2015-06-19T14:52:36Z
-    dc.date.digitalpublicationdate: 2006-03-28
-    dc.date.citation: 1943
-    dc.identifier: Librarian, Bits-Pilani
-    dc.identifier.barcode: 99999990171000
-    dc.identifier.origpath: /data1/upload/0025/703
-    dc.identifier.copyno: 1
-    dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/4767
-    dc.description.scanningcentre: C-DAC, Noida
-    dc.description.main: 1
-    dc.description.tagged: 0
-    dc.description.totalpages: 719
-    dc.format.mimetype: application/pdf
-    dc.language.iso: English
-    dc.publisher.digitalrepublisher: Digital Library Of India
-    dc.publisher: Yale University Press, New Haven
-    dc.rights: Yale University Press
-    dc.source.library: Central Library, Bits- Pilani
-    dc.subject.classification: Technology
-    dc.title: Timbers Of The New World
-  accessed:
-    - year: 2021
-      month: 8
-      day: 26
-  author:
-    - literal: Hess Robert W.
-  issued:
-    - year: 1943
-  language: eng
-  source: Internet Archive
-  title: Timbers Of The New World
-  type: book
-  URL: http://archive.org/details/in.ernet.dli.2015.4767
-
 - id: 1943record
   abstract: >-
     xv, 640 p. : 27 cm; "Published on the Charles Lathrop Pack foundation at
     Yale university."; Successor to Timbers of tropical America, published in
-    1942. cf. Pref; Bibliography: p. [573]-584
+    1942. cf. Pref; Bibliography: p. [573]-58
+
+
+    Book Source: Digital Library of India Item 2015.4767
+
+
+    dc.contributor.author: Record Samuel J.
+
+    dc.contributor.author: Hess Robert W.
+
+    dc.date.accessioned: 2015-06-19T14:52:36Z
+
+    dc.date.available: 2015-06-19T14:52:36Z
+
+    dc.date.digitalpublicationdate: 2006-03-28
+
+    dc.date.citation: 1943
+
+    dc.identifier: Librarian, Bits-Pilani
+
+    dc.identifier.barcode: 99999990171000
+
+    dc.identifier.origpath: /data1/upload/0025/703
+
+    dc.identifier.copyno: 1
+
+    dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/4767
+
+    dc.description.scanningcentre: C-DAC, Noida
+
+    dc.description.main: 1
+
+    dc.description.tagged: 0
+
+    dc.description.totalpages: 719
+
+    dc.format.mimetype: application/pdf
+
+    dc.language.iso: English
+
+    dc.publisher.digitalrepublisher: Digital Library Of India
+
+    dc.publisher: Yale University Press, New Haven
+
+    dc.rights: Yale University Press
+
+    dc.source.library: Central Library, Bits- Pilani
+
+    dc.subject.classification: Technology
+
+    dc.title: Timbers Of The New World
   accessed:
     - year: 2021
       month: 8
@@ -4774,6 +4372,23 @@ references:
     - year: 2021
       month: 10
       day: 23
+  author:
+    - family: Schaller
+      given: Rudolf
+  issued:
+    - year: 1947
+  language: German
+  number-of-pages: '36'
+  source: Internet Archive
+  title: Beitrag zur Pharmakognosie der Arznei-und Wirtschaftspflanzen Siams
+  type: book
+  URL: http://archive.org/details/nhbss_014_2h_schaller_beitragzurphar
+
+- id: 1947schallera
+  accessed:
+    - year: 2021
+      month: 11
+      day: 22
   author:
     - family: Schaller
       given: Rudolf
@@ -6284,12 +5899,12 @@ references:
   type: book
   URL: http://archive.org/details/pursuitofintoxic00malc
 
-- id: 1971malcolma
+- id: 1971malcolmb
   abstract: 'Bibliography: p. 361-372; 7 14; NEW'
   accessed:
     - year: 2021
-      month: 8
-      day: 26
+      month: 11
+      day: 22
   author:
     - family: Malcolm
       given: Andrew I.
@@ -7296,6 +6911,23 @@ references:
   type: book
   URL: http://archive.org/details/dictionaryofcult0000zeve
 
+- id: 1978ridsdale
+  accessed:
+    - year: 2021
+      month: 10
+      day: 4
+  author:
+    - family: Ridsdale
+      given: C. E.
+  issued:
+    - year: 1978
+  language: English
+  number-of-pages: '58'
+  source: Internet Archive
+  title: A revision of Mitragyna and Uncaria (Rubiaceae)
+  type: book
+  URL: http://archive.org/details/blumea-0006-5196-24-043-100
+
 - id: 1980internetarchive
   abstract: >-
     1 online resource; Specialist Periodical Reports provide systematic and
@@ -7320,14 +6952,14 @@ references:
     - year: 2021
       month: 10
       day: 23
-  container-title: Biosynthesis. Volume 6
   ISBN: 978-1-84973-256-7
   issued:
     - year: 1980
   language: eng
   publisher: 'London : Chemical Society'
   source: Internet Archive
-  type: chapter
+  title: Biosynthesis. Volume 6
+  type: book
   URL: http://archive.org/details/biosynthesisvolu0000unse
 
 - id: 1980labarre
@@ -7373,6 +7005,26 @@ references:
   title: ETHNOMEDICAL, BOTANICAL AND PHYTOCHEMICAL ASPECTS OF NATURAL HALLUCINOGENS
   type: book
   URL: http://archive.org/details/biostor-160974
+
+- id: 1980theconstructionpressltd
+  abstract: >-
+    v.  : 22 cm; -- v. 2. Philippines and Japan. Europe. North America.
+    Australiasia. Central America and the Caribbean; Includes bibliographies and
+    indexes
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  ISBN: 978-0-86095-837-6
+  issued:
+    - year: 1980
+  language: eng
+  number-of-pages: '466'
+  publisher: '[High Wycombe] : TRADA ; Lancaster : [Distributed by] Construction Press'
+  source: Internet Archive
+  title: Timbers of the world
+  type: book
+  URL: http://archive.org/details/timbersofworld0000unse_k4a6
 
 - id: 1987ap
   accessed:
@@ -7435,7 +7087,7 @@ references:
   type: article-newspaper
   URL: https://www.latimes.com/archives/la-xpm-1987-09-16-mn-5410-story.html
 
-- id: 1988cotica
+- id: 1988cotic
   abstract: '146 pages : 21 cm'
   accessed:
     - year: 2021
@@ -7481,6 +7133,38 @@ references:
   title: Complete guide to vitamins, minerals, nutrients & supplements
   type: book
   URL: http://archive.org/details/completeguidetov00grif
+
+- id: 1988internetarchive
+  abstract: >-
+    Bibliography of Agriculture 1988: Volume 52, Issue Index.
+
+    Digitized from IA1591428-03.
+
+    Previous issue:
+    sim_bibliography-of-agriculture-annual-cumulative-indexes_1988_52_cumulative-index.
+
+    Next issue:
+    sim_bibliography-of-agriculture-annual-cumulative-indexes_1989_53_cumulative-index.
+
+
+    Note:
+
+    This issue has no cover
+  accessed:
+    - year: 2021
+      month: 11
+      day: 22
+  issued:
+    - year: 1988
+  language: English
+  number-of-pages: '2289'
+  publisher: Oryx Press Citibank Plaza
+  source: Internet Archive
+  title: 'Bibliography of Agriculture  1988: Vol 52 Index'
+  title-short: Bibliography of Agriculture  1988
+  type: book
+  URL: >-
+    http://archive.org/details/sim_bibliography-of-agriculture-annual-cumulative-indexes_1988_52_index
 
 - id: 1989evans
   abstract: >-
@@ -7571,6 +7255,23 @@ references:
   title-short: Thailand
   type: book
   URL: http://archive.org/details/thailandlonelypl00joec
+
+- id: 1992dekorne
+  abstract: The Entheogen Review - Complete (1992-2008)
+  accessed:
+    - year: 2021
+      month: 10
+      day: 23
+  author:
+    - family: Dekorne
+      given: Jim
+  issued:
+    - year: 1992
+  language: eng
+  source: Internet Archive
+  title: The Entheogen Review - Complete (1992-2008)
+  type: book
+  URL: http://archive.org/details/TheEntheogenReviewComplete19922008
 
 - id: 1992nash
   abstract: >-
@@ -7833,6 +7534,142 @@ references:
   type: book
   URL: http://archive.org/details/encyclopediaofmi0000grou
 
+- id: 2004bombaynaturalhistorysociety
+  abstract: >-
+    Vol. 1-24, 1886-1917; v. 18-24, 1907-14. 1 v.; v. 25-30, 1918-25. 1 v.; v.
+    31-36, 1926-33 1 v.; v. 37-42, 1934-41. 1 v; digitized; Elecresource
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - literal: Bombay Natural History Society
+  call-number: '39088014818637'
+  issued:
+    - year: 2004
+  language: eng
+  number-of-pages: '518'
+  publisher: Bombay, Bombay Natural History Society
+  source: Internet Archive
+  title: Journal of the Bombay Natural History Society
+  type: book
+  URL: http://archive.org/details/journalofbomba1012004bomb
+
+- id: 2010bombaynaturalhistorysociety
+  abstract: >-
+    Issue for Dec. 1986 is called "Centenary supplement, 1886-1986.";
+    Description based on: Vol. 36, no. 1 (Nov. 1932); title from cover; Latest
+    issue consulted: Vol. 104, no. 3 (Dec. 2007); Vols. 1 (1886)-13 (1901) in v.
+    13; Vols. 14 (1902)-17 (1907) in v. 17; Vols. 18 (1907)-24 (1916) in v. 24;
+    Vols. 1 (1886)-24 (1917). 1 v.; Vols. 25 (1918)-30 (1925). 1 v.; Vols. 31
+    (1926)-36 (1933). 1 v.; Vols. 37 (1934)-42 (1941). 1 v; Vol. 36, no. 4-v.
+    37, no. 1, 4, v. 38, no. 2 have separately paged supplements: The Wild
+    animals of the Indian Empire and the problem of their preservation, pts. 1-4
+  accessed:
+    - year: 2021
+      month: 8
+      day: 26
+  author:
+    - literal: Bombay Natural History Society
+  call-number: BOM 1452
+  issued:
+    - year: 2010
+  language: eng
+  number-of-pages: '298'
+  publisher: 'Bombay : Bombay Natural History Society'
+  source: Internet Archive
+  title: The Journal of the Bombay Natural History Society
+  type: book
+  URL: http://archive.org/details/journalofbombayn1072bomb
+
+- id: '2011'
+  abstract: "dy, C., Boyer, E.W. (2008): Opioid receptors and legal highs:\_Salvia divinorum\_and Kratom. Clinical Technology, 46, 146-152. Bayard, V., Chamorro, F., Motta, J., Hollenberg, N.K. (2007) Does flavanol intake influence mortality from nitric oxide-dependent processes? Ischemic heart disease, stroke, diabetes mellitus, and cancer in panama. Int J Med Sci. 27, 53-8. Burkhill, I.H. (1935): A Dictionary […]"
+  accessed:
+    - year: 2021
+      month: 10
+      day: 4
+  container-title: Psychotropicon - Das Online-Magazin für Psychonauten
+  issued:
+    - year: 2011
+      month: 1
+      day: 4
+  language: de-DE
+  title: Kratom – literature
+  type: post-weblog
+  URL: https://www.psychotropicon.info/kratom-literature/
+
+- id: 2013hassan
+  abstract: >-
+    Kratom (or Ketum) is a psychoactive plant preparation used in Southeast
+    Asia. It is derived from the plant Mitragyna speciosa Korth. Kratom as well
+    as its main alkaloid, mitragynine, currently spreads around the world. Thus,
+    addiction potential and adverse health consequences are becoming an
+    important issue for health authorities. Here we reviewed the available
+    evidence and identified future research needs. It was found that mitragynine
+    and M. speciosa preparations are systematically consumed with rather well
+    defined instrumentalization goals, e.g. to enhance tolerance for hard work
+    or as a substitute in the self-treatment of opiate addiction. There is also
+    evidence from experimental animal models supporting analgesic, muscle
+    relaxant, anti-inflammatory as well as strong anorectic effects. In humans,
+    regular consumption may escalate, lead to tolerance and may yield aversive
+    withdrawal effects. Mitragynine and its derivatives actions in the central
+    nervous system involve μ-opioid receptors, neuronal Ca2+ channels and
+    descending monoaminergic projections. Altogether, available data currently
+    suggest both, a therapeutic as well as an abuse potential.
+  accessed:
+    - year: 2021
+      month: 10
+      day: 4
+  author:
+    - family: Hassan
+      given: Zurina
+    - family: Muzaimi
+      given: Mustapha
+    - family: Navaratnam
+      given: Visweswaran
+    - family: Yusoff
+      given: Nurul H. M.
+    - family: Suhaimi
+      given: Farah W.
+    - family: Vadivelu
+      given: Rajakumar
+    - family: Vicknasingam
+      given: Balasingam K.
+    - family: Amato
+      given: Davide
+    - family: Hörsten
+      given: Stephan
+      non-dropping-particle: von
+    - family: Ismail
+      given: Nurul I. W.
+    - family: Jayabalan
+      given: Nanthini
+    - family: Hazim
+      given: Ammar I.
+    - family: Mansor
+      given: Sharif M.
+    - family: Müller
+      given: Christian P.
+  container-title: Neuroscience & Biobehavioral Reviews
+  container-title-short: Neuroscience & Biobehavioral Reviews
+  DOI: 10/f4kkn6
+  ISSN: 0149-7634
+  issue: '2'
+  issued:
+    - year: 2013
+      month: 2
+      day: 1
+  language: en
+  page: 138-151
+  source: ScienceDirect
+  title: >-
+    From Kratom to mitragynine and its derivatives: Physiological and
+    behavioural effects related to use, abuse, and addiction
+  title-short: From Kratom to mitragynine and its derivatives
+  type: article-journal
+  URL: https://www.sciencedirect.com/science/article/pii/S0149763412002023
+  volume: '37'
+
 - id: 2013RegionalATS
   title: 2013_Regional_ATS_Report_Myanmar.pdf
   type: article
@@ -7881,6 +7718,99 @@ references:
   URL: >-
     https://www.naturalproductsinsider.com/regulatory/npa-recognizes-outstanding-contributions-natural-products-industry
 
+- id: 2017brown
+  abstract: >-
+    Ethnopharmacological relevance
+
+    The genus Mitragyna (Rubiacaeae) has been traditionally used in parts of
+    Africa, Asia and Oceania. In recent years, there has been increased interest
+    in species of Mitragyna with the introduction of products to western markets
+    and regulatory uncertainty.
+
+    Aim of the study
+
+    This paper reviewed the traditional ethnomedicinal uses of leaves for
+    species belonging to the genus Mitragyna with reference to the botany and
+    known chemistry in order to highlight areas of interest for products
+    currently being sold as kratom.
+
+    Materials and methods
+
+    A literature search was conducted using Web of Science, Google Scholar, the
+    Royal Museum for Central Africa, Internet Archive, Hathi Trust, and
+    Biodiversity Heritage Library search engines in the spring of 2015, fall of
+    2016 and winter of 2017 to document uses of bark, leaf and root material.
+
+    Results
+
+    Leaves of M. speciosa (kratom) had the most common documented ethnomedicinal
+    uses as an opium substitute or remedy for addiction. Other species of
+    Mitragyna were reportedly used for treating pain, however the mode of
+    preparation was most often cited as topical application. Other uses of
+    Mitragyna included treatment of fever, skin infections, and as a mild
+    anxiolytic.
+
+    Conclusions
+
+    Mitragyna species have been used medicinally in various parts of the world
+    and that there is significant traditional evidence of use. Modern products
+    that include formulations as topical application of liniments, balms or
+    tinctures may provide effective alternatives for treatment of certain types
+    of pains. Future research is required to establish safety and toxicology
+    limits, medicinal chemistry parameters and the potential for different
+    physiological responses among varying genetic populations to support
+    regulatory requirements for Mitragyna spp.
+  accessed:
+    - year: 2021
+      month: 10
+      day: 4
+  author:
+    - family: Brown
+      given: Paula N.
+    - family: Lund
+      given: Jensen A.
+    - family: Murch
+      given: Susan J.
+  container-title: Journal of Ethnopharmacology
+  container-title-short: Journal of Ethnopharmacology
+  DOI: 10/f96s6x
+  ISSN: 0378-8741
+  issued:
+    - year: 2017
+      month: 4
+      day: 18
+  language: en
+  page: 302-325
+  source: ScienceDirect
+  title: >-
+    A botanical, phytochemical and ethnomedicinal review of the genus Mitragyna
+    korth: Implications for products sold as kratom
+  title-short: >-
+    A botanical, phytochemical and ethnomedicinal review of the genus Mitragyna
+    korth
+  type: article-journal
+  URL: https://www.sciencedirect.com/science/article/pii/S037887411630678X
+  volume: '202'
+
+- id: 2017kqed
+  abstract: 'Included: whether kratom is a valid treatment for opiod addiction.'
+  accessed:
+    - year: 2021
+      month: 10
+      day: 4
+  dimensions: '00:31:00'
+  issued:
+    - year: 2017
+      month: 1
+      day: 16
+  language: eng
+  number-of-pages: '1861'
+  source: Internet Archive
+  title: 'PBS NewsHour Weekend : KQED : January 15, 2017 5:30pm-6:01pm PST'
+  title-short: PBS NewsHour Weekend
+  type: broadcast
+  URL: http://archive.org/details/KQED_20170116_013000_PBS_NewsHour_Weekend
+
 - id: 2018npa
   abstract: >-
     NPA AwardsThe NPA Awards salute industry pioneers and leaders for their
@@ -7901,6 +7831,56 @@ references:
   type: webpage
   URL: http://www.npanational.org/about/awards/
 
+- id: 2018penyusun
+  abstract: >-
+    FLORA DI HABITAT BEKANTAN LAHAN BASAH SUWI, KALIMANTAN TIMUR
+
+    Tim Penyusun: Mukhlisi, Tri Atmoko, Priyono
+
+    Editor: Adi Susilo, Sofian Iskandar
+
+    Kontributor Foto: Tri Atmoko, Nur Linda Isa, Daud Lenjau
+
+    Botanical Art: Priyono
+
+    Copyright O Penulis dan Forda Press Cetakan Pertama, Maret 2018 xvi # 100
+    halaman: 148 x 210 mm
+
+    ISBN: 978-6022-6961 -xxx
+
+    Diterbitkan oleh: FORDA PRESS (Anggota IKAPI) Jl. Gunung Batu No. 5 Bogor,
+    Jawa Barat 16610, INDONESIA Telp./Fax. #62 0251 7520093 E-mail:
+    fordapress@yahoo.co.id
+
+    Diterbitkan untuk: Balai Penelitian dan Pengembangan Teknologi Jl.
+    Soekarno-Hatta Km. 38 PO BOX 578 Balikpapan 76112 Samboja - Kalimantan Timur
+    Telp. (0542) 7217663 Fax. (0542) 7217665 Email: bpt.ksda@forda-mof.org |
+    www.balitek-ksda.or.id
+
+    bekerjasama dengan:
+
+    Yayasan Konservasi Khatulistiwa Indonesia (Yasiwa) Jl Pangeran Antasari 2 No
+    25, RT 31 Samarinda, Kalimantan Timur
+
+    Didukung oleh:
+
+    KNCF Keidanren Nature Conservation Fund
+  accessed:
+    - year: 2021
+      month: 10
+      day: 23
+  author:
+    - family: Penyusun
+      given: ''
+  issued:
+    - year: 2018
+  language: indonesian
+  source: Internet Archive
+  title: Buku Flora Di Habitat Bekantan Lahan Basah Suwi Kalimantan Timur
+  type: book
+  URL: >-
+    http://archive.org/details/buku-flora-di-habitat-bekantan-lahan-basah-suwi-kalimantan-timur
+
 - id: 2018WHOWHO2018
   issued:
     - year: 2018
@@ -7909,6 +7889,24 @@ references:
   type: report
   URL: >-
     https://www.who.int/medicines/publications/druginformation/issues/WHO_DI_32-1.pdf
+
+- id: 2019drugenforcementadministration
+  abstract: |-
+    Drug Enforcement Administration
+    Diversion Control Division
+    Drug & Chemical Evaluation Section
+  author:
+    - family: Drug Enforcement Administration
+      given: ''
+  issued:
+    - year: 2019
+  language: en
+  page: '1'
+  source: Zotero
+  title: >-
+    KRATOM (Mitragyna speciosa korth) (Street Names: Thang, Kakuam, Thom, Ketum,
+    Biak)
+  type: article-journal
 
 - id: '2020'
   abstract: >-
@@ -7930,6 +7928,27 @@ references:
   title: Kratom Chat Group @Paul-Kemp With the news of th
   type: webpage
   URL: https://kratomwatchdog.com/topic/3613/paul-kemp-with-the-news-of-th/30
+
+- id: 2020unitednationsofficeondrugsandcrimeunodc
+  abstract: "122 pages. Presented in six separate booklets, the\_World Drug Report 2020\_provides a wealth of information and analysis to support the international community in implementing operational recommendations on a number of commitments made by Member States, including the recommendations contained in the outcome document of the special session of the General Assembly on the world drug problem, held in 2016.Booklet 1\_provides a summary of the five subsequent booklets by reviewing their key findings and highlighting their policy implications.\_Booklet 2\_focuses on drug demand and contains a global overview of the extent of and trends in drug use, including drug use disorders, and its health consequences.\_Booklet 3\_deals with drug supply and presents the latest estimates and trends regarding the production of and trafficking in opiates, cocaine, amphetamine-type stimulants and cannabis.\_Booklet 4\_addresses a number of cross-cutting issues, including the macrodynamics that are driving the expansion and increasing complexity of the drug markets, and describes some of the rapidly evolving drug-related concerns: the latest, multifaceted global opioid crisis; rapid market changes; the market for new psychoactive substances; the use of the darknet for supplying drugs; and developments in jurisdictions that have measures allowing the non-medical use of cannabis.\_Booklet 5\_looks at the association between socioeconomic characteristics and drug use disorders, including at the macro-, community and individual levels, with a special focus on population subgroups that may be impacted differently by drug use and drug use disorders. Finally,\_booklet 6\_addresses a number of other drug policy issues that all form part of the international debate on the drug problem but on which in-depth evidence is scarce, including access to controlled medicines, international cooperation on drug matters, alternative development in drug cultivation areas, and the nexus between drugs and crime."
+  accessed:
+    - year: 2021
+      month: 11
+      day: 22
+  author:
+    - family: United Nations Office on Drugs and Crime (UNODC)
+      given: ''
+  issued:
+    - year: 2020
+  language: eng
+  publisher: United Nations Office on Drugs and Crime (UNODC)
+  source: Internet Archive
+  title: >-
+    World Drug Report 2020: Booklet 4: Cross-Cutting Issues: Evolving Trends and
+    New Challenges
+  title-short: World Drug Report 2020
+  type: book
+  URL: http://archive.org/details/wdr-20-booklet-4
 
 - id: '2021'
   accessed:
@@ -8631,80 +8650,6 @@ references:
     A Botanical, Phytochemical and Ethnomedicinal Review of the Genus Mitragyna
     Korth
   type: article-journal
-  volume: '202'
-
-- id: brownBotanicalPhytochemicalEthnomedicinal2017a
-  abstract: >-
-    Ethnopharmacological relevance
-
-    The genus Mitragyna (Rubiacaeae) has been traditionally used in parts of
-    Africa, Asia and Oceania. In recent years, there has been increased interest
-    in species of Mitragyna with the introduction of products to western markets
-    and regulatory uncertainty.
-
-    Aim of the study
-
-    This paper reviewed the traditional ethnomedicinal uses of leaves for
-    species belonging to the genus Mitragyna with reference to the botany and
-    known chemistry in order to highlight areas of interest for products
-    currently being sold as kratom.
-
-    Materials and methods
-
-    A literature search was conducted using Web of Science, Google Scholar, the
-    Royal Museum for Central Africa, Internet Archive, Hathi Trust, and
-    Biodiversity Heritage Library search engines in the spring of 2015, fall of
-    2016 and winter of 2017 to document uses of bark, leaf and root material.
-
-    Results
-
-    Leaves of M. speciosa (kratom) had the most common documented ethnomedicinal
-    uses as an opium substitute or remedy for addiction. Other species of
-    Mitragyna were reportedly used for treating pain, however the mode of
-    preparation was most often cited as topical application. Other uses of
-    Mitragyna included treatment of fever, skin infections, and as a mild
-    anxiolytic.
-
-    Conclusions
-
-    Mitragyna species have been used medicinally in various parts of the world
-    and that there is significant traditional evidence of use. Modern products
-    that include formulations as topical application of liniments, balms or
-    tinctures may provide effective alternatives for treatment of certain types
-    of pains. Future research is required to establish safety and toxicology
-    limits, medicinal chemistry parameters and the potential for different
-    physiological responses among varying genetic populations to support
-    regulatory requirements for Mitragyna spp.
-  accessed:
-    - year: 2021
-      month: 10
-      day: 4
-  author:
-    - family: Brown
-      given: Paula N.
-    - family: Lund
-      given: Jensen A.
-    - family: Murch
-      given: Susan J.
-  container-title: Journal of Ethnopharmacology
-  container-title-short: Journal of Ethnopharmacology
-  DOI: 10/f96s6x
-  ISSN: 0378-8741
-  issued:
-    - year: 2017
-      month: 4
-      day: 18
-  language: en
-  page: 302-325
-  source: ScienceDirect
-  title: >-
-    A botanical, phytochemical and ethnomedicinal review of the genus Mitragyna
-    korth: Implications for products sold as kratom
-  title-short: >-
-    A botanical, phytochemical and ethnomedicinal review of the genus Mitragyna
-    korth
-  type: article-journal
-  URL: https://www.sciencedirect.com/science/article/pii/S037887411630678X
   volume: '202'
 
 - id: buitenzorg.slandsplantentuinMededeelingen1899
@@ -9478,31 +9423,6 @@ references:
   URL: https://linkinghub.elsevier.com/retrieve/pii/S0376871620300144
   volume: '208'
 
-- id: grewalEffectMitragynineMan1932
-  accessed:
-    - year: 2021
-      month: 10
-      day: 4
-  author:
-    - family: Grewal
-      given: K. S.
-  container-title: British Journal of Medical Psychology
-  DOI: 10/fq2d3f
-  ISSN: 2044-8341
-  issue: '1'
-  issued:
-    - year: 1932
-  language: en
-  note: >-
-    _eprint:
-    https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.2044-8341.1932.tb01062.x
-  page: 41-58
-  source: Wiley Online Library
-  title: The Effect of Mitragynine on Man
-  type: article-journal
-  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8341.1932.tb01062.x
-  volume: '12'
-
 - id: griffinYouGetWhat2016
   abstract: >-
     Although some novel psychoactive substances (NPS) are newly discovered
@@ -9768,78 +9688,6 @@ references:
     behavioural effects related to use, abuse, and addiction
   title-short: From Kratom to mitragynine and its derivatives
   type: article-journal
-  volume: '37'
-
-- id: hassanKratomMitragynineIts2013a
-  abstract: >-
-    Kratom (or Ketum) is a psychoactive plant preparation used in Southeast
-    Asia. It is derived from the plant Mitragyna speciosa Korth. Kratom as well
-    as its main alkaloid, mitragynine, currently spreads around the world. Thus,
-    addiction potential and adverse health consequences are becoming an
-    important issue for health authorities. Here we reviewed the available
-    evidence and identified future research needs. It was found that mitragynine
-    and M. speciosa preparations are systematically consumed with rather well
-    defined instrumentalization goals, e.g. to enhance tolerance for hard work
-    or as a substitute in the self-treatment of opiate addiction. There is also
-    evidence from experimental animal models supporting analgesic, muscle
-    relaxant, anti-inflammatory as well as strong anorectic effects. In humans,
-    regular consumption may escalate, lead to tolerance and may yield aversive
-    withdrawal effects. Mitragynine and its derivatives actions in the central
-    nervous system involve μ-opioid receptors, neuronal Ca2+ channels and
-    descending monoaminergic projections. Altogether, available data currently
-    suggest both, a therapeutic as well as an abuse potential.
-  accessed:
-    - year: 2021
-      month: 10
-      day: 4
-  author:
-    - family: Hassan
-      given: Zurina
-    - family: Muzaimi
-      given: Mustapha
-    - family: Navaratnam
-      given: Visweswaran
-    - family: Yusoff
-      given: Nurul H. M.
-    - family: Suhaimi
-      given: Farah W.
-    - family: Vadivelu
-      given: Rajakumar
-    - family: Vicknasingam
-      given: Balasingam K.
-    - family: Amato
-      given: Davide
-    - family: Hörsten
-      given: Stephan
-      non-dropping-particle: von
-    - family: Ismail
-      given: Nurul I. W.
-    - family: Jayabalan
-      given: Nanthini
-    - family: Hazim
-      given: Ammar I.
-    - family: Mansor
-      given: Sharif M.
-    - family: Müller
-      given: Christian P.
-  container-title: Neuroscience & Biobehavioral Reviews
-  container-title-short: Neuroscience & Biobehavioral Reviews
-  DOI: 10/f4kkn6
-  ISSN: 0149-7634
-  issue: '2'
-  issued:
-    - year: 2013
-      month: 2
-      day: 1
-  language: en
-  page: 138-151
-  source: ScienceDirect
-  title: >-
-    From Kratom to mitragynine and its derivatives: Physiological and
-    behavioural effects related to use, abuse, and addiction
-  title-short: From Kratom to mitragynine and its derivatives
-  type: article-journal
-  URL: https://www.sciencedirect.com/science/article/pii/S0149763412002023
   volume: '37'
 
 - id: hassanNovelPsychoactiveSubstances2017
@@ -10479,41 +10327,6 @@ references:
   title: Bijdrage no. 1-13 tot de kennis der boomsoorten op Java
   type: book
   URL: http://archive.org/details/bijdrageno113tot8190koor
-
-- id: kqedPBSNewsHourWeekend2017
-  abstract: 'Included: whether kratom is a valid treatment for opiod addiction.'
-  accessed:
-    - year: 2021
-      month: 10
-      day: 4
-  dimensions: '00:31:00'
-  issued:
-    - year: 2017
-      month: 1
-      day: 16
-  language: eng
-  number-of-pages: '1861'
-  source: Internet Archive
-  title: 'PBS NewsHour Weekend : KQED : January 15, 2017 5:30pm-6:01pm PST'
-  title-short: PBS NewsHour Weekend
-  type: broadcast
-  URL: http://archive.org/details/KQED_20170116_013000_PBS_NewsHour_Weekend
-
-- id: KratomLiterature2011
-  abstract: "dy, C., Boyer, E.W. (2008): Opioid receptors and legal highs:\_Salvia divinorum\_and Kratom. Clinical Technology, 46, 146-152. Bayard, V., Chamorro, F., Motta, J., Hollenberg, N.K. (2007) Does flavanol intake influence mortality from nitric oxide-dependent processes? Ischemic heart disease, stroke, diabetes mellitus, and cancer in panama. Int J Med Sci. 27, 53-8. Burkhill, I.H. (1935): A Dictionary […]"
-  accessed:
-    - year: 2021
-      month: 10
-      day: 4
-  container-title: Psychotropicon - Das Online-Magazin für Psychonauten
-  issued:
-    - year: 2011
-      month: 1
-      day: 4
-  language: de-DE
-  title: Kratom – literature
-  type: post-weblog
-  URL: https://www.psychotropicon.info/kratom-literature/
 
 - id: kruegelMedicinalChemistryNeuropharmacology2018
   abstract: >-
@@ -11799,23 +11612,6 @@ references:
   URL: >-
     https://journalistsresource.org/criminal-justice/kratom-opioid-drug-fda-research/
 
-- id: ridsdaleRevisionMitragynaUncaria1978
-  accessed:
-    - year: 2021
-      month: 10
-      day: 4
-  author:
-    - family: Ridsdale
-      given: C. E.
-  issued:
-    - year: 1978
-  language: English
-  number-of-pages: '58'
-  source: Internet Archive
-  title: A revision of Mitragyna and Uncaria (Rubiaceae)
-  type: book
-  URL: http://archive.org/details/blumea-0006-5196-24-043-100
-
 - id: royalbotanicgardensIndexKewensisPlantarum1947
   abstract: 'Spine title: Index Kewensis - Supplementum 10 (1946-1940); 1'
   accessed:
@@ -11966,15 +11762,6 @@ references:
   title: Linnaea
   type: book
   URL: http://archive.org/details/linnaea14schl
-
-- id: SearchTrove
-  accessed:
-    - year: 2021
-      month: 10
-      day: 4
-  title: Search - Trove
-  type: webpage
-  URL: https://trove.nla.gov.au/search?keyword=Poke%20biak
 
 - id: singhChangingTrendsUse2017
   accessed:
@@ -13555,18 +13342,6 @@ references:
   type: article
   URL: https://www.who.int/ipcs/poisons/WinaiWananukul_Bio.pdf
 
-- id: WorldDrugReport
-  accessed:
-    - year: 2021
-      month: 10
-      day: 4
-  title: >-
-    World Drug Report 2020: Booklet 4: Cross-Cutting Issues: Evolving Trends and
-    New Challenges : Free Download, Borrow, and Streaming : Internet Archive
-  type: webpage
-  URL: >-
-    https://archive.org/details/wdr-20-booklet-4/page/58/mode/2up?q=Mitragyna+speciosa
-
 - id: worldhealthorganizationDrugDependenceAlcoholrelated1986
   call-number: RC564 .D7847 1986
   editor:
@@ -14051,41 +13826,17 @@ references:
   type: webpage
   URL: https://kratomwatchdog.com/user/machaddow
 
-- id: zotero-713
-  language: en
-  page: '1'
-  source: Zotero
-  title: >-
-    KRATOM (Mitragyna speciosa korth) (Street Names: Thang, Kakuam, Thom, Ketum,
-    Biak)
-  type: article-journal
-
 - id: zotero-733
   type: webpage
 
-- id: zotero-834
+- id: zotero-735
   accessed:
     - year: 2021
       month: 10
-      day: 23
-  title: >-
-    Encyclopedia of mind enhancing foods, drugs, and nutritional substances :
-    Group, David : Free Download, Borrow, and Streaming : Internet Archive
+      day: 4
+  title: Search - Trove
   type: webpage
-  URL: >-
-    https://archive.org/details/encyclopediaofmi0000grou/page/136/mode/2up?q=%22Mitragyna+speciosa%22
-
-- id: zotero-877
-  accessed:
-    - year: 2021
-      month: 10
-      day: 23
-  title: >-
-    Bibliography of Agriculture 1988: Vol 52 Index : Free Download, Borrow, and
-    Streaming : Internet Archive
-  type: webpage
-  URL: >-
-    https://archive.org/details/sim_bibliography-of-agriculture-annual-cumulative-indexes_1988_52_index/page/2274/mode/2up?q=%22Mitragyna+speciosa%22
+  URL: https://trove.nla.gov.au/search?keyword=Poke%20biak
 
 - id: zotero-921
   accessed:
@@ -14098,53 +13849,4 @@ references:
   type: webpage
   URL: >-
     https://archive.org/details/thailandlonelypl00joec/page/102/mode/2up?q=%22Mitragyna+speciosa%22
-
-- id: zotero-935
-  accessed:
-    - year: 2021
-      month: 10
-      day: 23
-  title: >-
-    Trease and Evans' pharmacognosy : Evans, William Charles : Free Download,
-    Borrow, and Streaming : Internet Archive
-  type: webpage
-  URL: >-
-    https://archive.org/details/treaseevanspharm0000evan/page/620/mode/2up?q=%22Mitragyna+speciosa%22
-
-- id: zotero-968
-  abstract: The Entheogen Review - Complete (1992-2008)
-  accessed:
-    - year: 2021
-      month: 10
-      day: 23
-  language: eng
-  source: Internet Archive
-  title: The Entheogen Review - Complete (1992-2008)
-  type: book
-  URL: http://archive.org/details/TheEntheogenReviewComplete19922008
-
-- id: zotero-982
-  accessed:
-    - year: 2021
-      month: 10
-      day: 23
-  title: >-
-    Pursuit of Intoxication, The : Malcolm, Andrew I : Free Download, Borrow,
-    and Streaming : Internet Archive
-  type: webpage
-  URL: >-
-    https://archive.org/details/pursuitofintoxic00malc/page/180/mode/2up?q=%22Mitragyna+speciosa%22
-
-- id: zotero-994
-  abstract: Jenis tumbuhan yang ada habitat bekantan Sungai Suwi.
-  accessed:
-    - year: 2021
-      month: 10
-      day: 23
-  language: indonesian
-  source: Internet Archive
-  title: Buku Flora Di Habitat Bekantan Lahan Basah Suwi Kalimantan Timur
-  type: book
-  URL: >-
-    http://archive.org/details/buku-flora-di-habitat-bekantan-lahan-basah-suwi-kalimantan-timur
 ...

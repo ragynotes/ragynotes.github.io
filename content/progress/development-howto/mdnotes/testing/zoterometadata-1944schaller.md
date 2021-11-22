@@ -1,10 +1,14 @@
-# `mdnotes` demo for "Zotero Metadata Template.md"
+# `mdnotes` demo for "Zotero Metadata Template.md"
+
+- **`title`** - # Pharmacognosy and its Importance for Thailand
+- **`shortTitle`** - - **`date`** -  Date: [1944](1944)
+- **`accessDate`** -  Access Date: [2021-10-23 09:29:10](2021-10-23-09:29:10)
+- **`language`** -  Language: [English](english)
 
 ## zotero fields
 
 - **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** - - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - - **`url`** -  URL: [http://archive.org/details/nhbss_014_1g_schaller_pharmacognosyand](http://archive.org/details/nhbss_014_1g_schaller_pharmacognosyand)
 - **`volume`** - 
-
 
 ## `mdnotes`  fields
 

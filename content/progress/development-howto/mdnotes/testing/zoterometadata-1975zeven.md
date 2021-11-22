@@ -1,4 +1,9 @@
-# `mdnotes` demo for "Zotero Metadata Template.md"
+# `mdnotes` demo for "Zotero Metadata Template.md"
+
+- **`title`** - # Dictionary of cultivated plants and their centres of diversity excluding ornamentals, forest trees, and lower plants
+- **`shortTitle`** - - **`date`** -  Date: [1975](1975)
+- **`accessDate`** -  Access Date: [2021-10-23 07:59:10](2021-10-23-07:59:10)
+- **`language`** -  Language: [eng](eng)
 
 ## zotero fields
 
@@ -6,7 +11,6 @@
 - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** -  Publisher: [Wageningen : Centre for Agricultural Publishing and Documentation](wageningen-:-centre-for-agricultural-publishing-and-documentation)
 - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - - **`url`** -  URL: [http://archive.org/details/dictionaryofcult0000zeve](http://archive.org/details/dictionaryofcult0000zeve)
 - **`volume`** - 
-
 
 ## `mdnotes`  fields
 

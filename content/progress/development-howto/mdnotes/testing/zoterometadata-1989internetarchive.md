@@ -1,4 +1,10 @@
-# `mdnotes` demo for "Zotero Metadata Template.md"
+# `mdnotes` demo for "Zotero Metadata Template.md"
+
+- **`title`** - # Whole Earth Review  Fall 1989: Iss 64
+- **`shortTitle`** -  Short Title: [Whole Earth Review  Fall 1989](whole-earth-review-fall-1989)
+- **`date`** -  Date: [Fall 1989](fall-1989)
+- **`accessDate`** -  Access Date: [2021-10-23 08:50:21](2021-10-23-08:50:21)
+- **`language`** -  Language: [English](english)
 
 ## zotero fields
 
@@ -6,7 +12,6 @@
 - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** -  Short Title: [Whole Earth Review  Fall 1989](whole-earth-review-fall-1989)
 - **`url`** -  URL: [http://archive.org/details/sim_whole-earth_fall-1989_64](http://archive.org/details/sim_whole-earth_fall-1989_64)
 - **`volume`** - 
-
 
 ## `mdnotes`  fields
 

@@ -1,10 +1,14 @@
-# `mdnotes` demo for "Zotero Metadata Template.md"
+# `mdnotes` demo for "Zotero Metadata Template.md"
+
+- **`title`** - # Beitrag zur Pharmakognosie der Arznei-und Wirtschaftspflanzen Siams
+- **`shortTitle`** - - **`date`** -  Date: [1947](1947)
+- **`accessDate`** -  Access Date: [2021-10-23 09:19:05](2021-10-23-09:19:05)
+- **`language`** -  Language: [German](german)
 
 ## zotero fields
 
 - **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** - - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - - **`url`** -  URL: [http://archive.org/details/nhbss_014_2h_schaller_beitragzurphar](http://archive.org/details/nhbss_014_2h_schaller_beitragzurphar)
 - **`volume`** - 
-
 
 ## `mdnotes`  fields
 

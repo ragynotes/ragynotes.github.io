@@ -6,6 +6,7 @@ theme = "zen"
 # resourceDir = "../resources"
 
 publishDir = "docs"
+logo = false
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"

@@ -1,11 +1,15 @@
-# `mdnotes` demo for "Zotero Metadata Template.md"
+# `mdnotes` demo for "Zotero Metadata Template.md"
+
+- **`title`** - # Consumption and standards of living
+- **`shortTitle`** - - **`date`** -  Date: [1936](1936)
+- **`accessDate`** -  Access Date: [2021-08-26 08:24:23](2021-08-26-08:24:23)
+- **`language`** -  Language: [eng](eng)
 
 ## zotero fields
 
 - **`country`** - - **`DOI`** - - **`edition`** - - **`extra`** - - **`ISBN`** - - **`issue`** - - **`pages`** - - **`patent`** - - **`place`** - - **`publicationTitle`** - - **`publisher`** -  Publisher: [New York, D. Van Nostrand Co.](new-york,-d.-van-nostrand-co.)
 - **`references`** - - **`rights`** - - **`section`** - - **`shortTitle`** - - **`url`** -  URL: [http://archive.org/details/consumptionstand0000unse](http://archive.org/details/consumptionstand0000unse)
 - **`volume`** - 
-
 
 ## `mdnotes`  fields
 

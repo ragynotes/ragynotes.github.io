@@ -60,13 +60,13 @@ Zotero does have a "find duplicates" feature but I don't like it because it retu
 
 ### zotfile set up
 
-Note: **do not set a custom location** in the "General Settings" tab. It will break everything and require manual work to fix...
+Note: **do not set a custom location** in the "General Settings" tab. It will break everything and require manual work to fix...
 
-In the preferences, for the first feild the text is `{%y}-{%a}-{%w}` and for patents, `{%y}-{%a}-{%t}`. Everything else like this:
+In the preferences, for the first feild the text is `{%y}-{%a}-{%w}` and for patents, `{%y}-{%a}-{%t}`. Everything else like this:
 
 ![image-20211121191100591](images/image-20211121191100591.png)
 
-Then go into your collection where all items are located and "Select All". Right click on the items `Manage Attachments` > `Rename Attachments` like so:
+Then go into your collection where all items are located and "Select All". Right click on the items `Manage Attachments` > `Rename Attachments` like so:
 
 ![image-20211121191530852](images/image-20211121191530852.png)
 

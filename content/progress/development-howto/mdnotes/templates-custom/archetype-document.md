@@ -47,6 +47,15 @@ Year of original publication: {{< param originalyear >}}
 
 Format of original publication:  {{< param originalformat >}}
 
+
+
+
+
+
+
+
+
+
 ### Origin of original document
 
 {{< readfile "origin.md" >}}
