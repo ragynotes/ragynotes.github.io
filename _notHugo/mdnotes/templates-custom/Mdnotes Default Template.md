@@ -4,15 +4,8 @@ title-short: "{{shortTitle}}"
 originalyear: {{date}} 
 type: "{{itemType}}" 
 
-<<<<<<< HEAD
 alias: "{{citekey}}" 
 lang: "{{language}}" 
-=======
-
- 
-alias: "{{citekey}}"
-lang: "{{language}}"
->>>>>>> 613b62143256f101756fa4ac1d7020274117243c
 
 draft: true
 
