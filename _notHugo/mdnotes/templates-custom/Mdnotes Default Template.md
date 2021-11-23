@@ -4,6 +4,8 @@ title-short: "{{shortTitle}}"
 originalyear: {{date}} 
 type: "{{itemType}}" 
 
+{{tags}}
+
 alias: "{{citekey}}" 
 lang: "{{language}}" 
 

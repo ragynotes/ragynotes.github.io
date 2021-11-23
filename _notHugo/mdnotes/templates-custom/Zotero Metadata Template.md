@@ -1,52 +1,59 @@
-# `mdnotes` demo for "Zotero Metadata Template.md"
+## {{title}}
 
-- **`title`** - {{title}}
-- **`author`** - {{author}}
-- **`shortTitle`** - {{shortTitle}}
-- **`date`** - {{date}}
-- **`accessDate`** - {{accessDate}}
-- **`language`** - {{language}}
-- **`abstractNote`** - {{abstractNote}}
+| |  |
+| ----------- | --------- |
+|**`author`** | {{author}} |
+|**`date` published** | {{date}} |
+|**original `url`** | {{url}} |
+|**`itemType`** | {{itemType}} |
+|             |           |
+|**`language`** | {{language}} |
+|**`country`** | {{country}} |
+|             |           |
+|**`DOI`** | {{DOI}} |
+|**`ISBN`** | {{ISBN}} |
+|             |           |
+|**`publicationTitle`** | {{publicationTitle}} |
+|**`edition`** | {{edition}} |
+|**`issue`** | {{issue}} |
+|**`volume`** | {{volume}} |
+|             |           |
+|**`pages`** | {{pages}} |
+|**`patent`** | {{patent}} |
+|             |           |
+|**`publisher`** | {{publisher}} |
+|**`place`** | {{place}} |
+|             |           |
+|**`references`** | {{references}} |
+|**`rights`** | {{rights}} |
+|**`section`** | {{section}} |
+|**`shortTitle`** | {{shortTitle}} |
+|             |           |
+|**`extra`** | {{extra}} |
+| |  |
+|**`abstractNote`**:<br />{{abstractNote}} | **`notes`:**<br />{{notes}} |
+|**`tags`** | {{tags}} |
+|**`collections`** | {{collections}} |
+|**`accessDate`** | {{accessDate}} |
+|RagyNotes **`citekey`** | {{citekey}} |
+| |  |
+| |  |
 
-## zotero fields
-
-- **`country`** - {{country}}
-- **`DOI`** - {{DOI}}
-- **`edition`** - {{edition}}
-- **`extra`** - {{extra}}
-- **`ISBN`** - {{ISBN}}
-- **`issue`** - {{issue}}
-- **`pages`** - {{pages}}
-- **`patent`** - {{patent}}
-- **`place`** - {{place}}
-- **`publicationTitle`** - {{publicationTitle}}
-- **`publisher`** - {{publisher}}
-- **`references`** - {{references}}
-- **`rights`** - {{rights}}
-- **`section`** - {{section}}
-- **`shortTitle`** - {{shortTitle}}
-- **`url`** - {{url}}
-- **`volume`** - {{volume}}
+|                  |                |
+| ---------------- | -------------- |
+| **`shortTitle`** | {{shortTitle}} |
+|                  |                |
 
 
-## `mdnotes`  fields
 
-- **`itemType`** - {{itemType}}
-- **`citekey`** - {{citekey}}
-- **`tags`** - {{tags}}
-- **`dateAdded`** - {{dateAdded}}
-- **`notes`** - {{notes}}
+**Troubleshooting**
 
-Probably note useful, but might be:
+**`pdfAttachments`:**  {{pdfAttachments}}
 
-- **`pdfAttachments`** - {{pdfAttachments}}
+**`mdnotesFileName`:**  {{mdnotesFileName}} 
 
-- **`mdnotesFileName`** - {{mdnotesFileName}}
+**`metadataFileName`:**  {{metadataFileName}}
 
-- **`metadataFileName`** - {{metadataFileName}}
 
-- **`collections`** - {{collections}}
-
-- **`related`** - {{related}}
 
   

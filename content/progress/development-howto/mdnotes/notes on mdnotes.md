@@ -1,12 +1,12 @@
+# making `mdnotes` work for task
 
-
-# notes on `mdnotes`
+See also [this issue where I commented in the `mdnotes` repo](https://github.com/argenos/zotero-mdnotes/issues/27#issuecomment-975496995) explaining what all this here does.
 
 use "batch export to markdown"
 
 ## general
 
-- 
+- need to include 2x line-breaks sequentially to ensure new line
 - tried changing export filenames to include `/` in hopes of making subdirectories but instead the files seem to have not showed up? looked in both specified and default directories but not found. 
 - There is also `mdnotes` documentation [here](https://argentinaos.com/zotero-mdnotes/docs/quick-start-guide), not sure how or it different.
 - Tables might not work, see [Markdown Tables breaks when converting from Zotero Note · Issue #135 · argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes/issues/135)
@@ -122,6 +122,12 @@ looks good! might consider changing `"list_separator"` to `/n/n` or making the w
 ```
 
 perfect! have used what I believe to be the correct formatting for `yaml` which is one tag per line (I prefer this to comma delineated lists). [relevant hugo documentation](https://gohugo.io/content-management/taxonomies/#order-taxonomies)
+
+* need to keep one tags default
+
+```yaml
+{"content":"tags: \n{{field_contents}}", "field_contents": " - {{content}}", "link_style": "no-links", "list_separator": "\n", "remove_spaces": "true"}
+```
 
 #### ⚠️ `collections`
 
@@ -436,7 +442,80 @@ Probably note useful, but might be:
 
 - `{{related}}` - A list of [related items](https://www.zotero.org/support/related).
 
+  ## Better BibTeX citekey set up
   
+  ![better bibtex](images/betterbibtex.png)
+  
+  
+  
+  ## setup and run `mdnotes`
+  
+  `mdnotes` preferences
+  
+  ![mdnotes preferences01](images/mdnotes01.png)
+
+
+
+
+
+![mdnotes` preferences 02](images/mdnotes02.png)
+
+![mdnotes context menu](images/mdnotes03.png)
+
+
+
+## rename/move files with Transnomino
+
+- use recipe in repo (#02)
+- will need manual cleanup
+
+## BetterBibTex export
+
+![image-20211122154258733](images/betterbibtex-export01.png)
+
+select format "Better BibTex" and NO options:
+
+![image-20211122154447545](images/betterbibtex-export02.png)
+
+## chopping up the `.bib` file.
+
+This chops up the large file named `Exported Items.bib` with the `@` indicating the beginning of each new file.  
+
+```sh
+awk '/^@/{close("file"f);f++}{print $0 > "file"f}' Exported\ Items.bib
+```
+
+source: [Split a file based on pattern in awk, grep, sed or perl](https://www.unix.com/shell-programming-and-scripting/70227-split-file-based-pattern-awk-grep-sed-perl.html)
+
+It creates files numbered sequentially `file` (which is empty), `file1`, `file2`, etc. Need to rename the file with the cite key which is contained in the first line. 
+
+This will rename *a* file to the contents of the first line. 
+
+```sh
+mv file2  $(head -1 file2).txt
+```
+
+source: [bash - Rename one file with the first line of the file's contents (not batch) - Stack Overflow](https://stackoverflow.com/questions/36025364/rename-one-file-with-the-first-line-of-the-files-contents-not-batch)
+
+But I can't figure out how to make it in a loop (`--exec`, `| xargs`.. i dunno). So I will cheat:
+
+see script `rename-to-first-line.sh` which proceeds thusly:
+
+```sh
+mv file1 $(head -1 file1).bib
+mv file2 $(head -1 file2).bib
+mv file3 $(head -1 file3).bib
+mv file4 $(head -1 file4).bib
+mv file5 $(head -1 file5).bib
+```
+
+Then use Transnomino recipe #3 to rename from the bibtex to the citekey. 
+
+Now...?? I am tired of failing to figure out automation so I am going ot say, next step is manual sort. To beimproved, maybe, a bit, some other time. 
+
+
+
+
 
 
 
