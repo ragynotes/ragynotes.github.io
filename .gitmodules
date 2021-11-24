@@ -1,3 +1,6 @@
 [submodule "themes/axiom"]
 	path = themes/axiom
 	url = https://github.com/marketempower/axiom.git
+[submodule "themes/zen"]
+	path = themes/zen
+	url = git@github-pskyhx:ragynotes/hugo-theme-zen.git
