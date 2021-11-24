@@ -511,7 +511,7 @@ mv file5 $(head -1 file5).bib
 
 Then use Transnomino recipe #3 to rename from the bibtex to the citekey. 
 
-Now...?? I am tired of failing to figure out automation so I am going ot say, next step is manual sort. To beimproved, maybe, a bit, some other time. 
+Now...?? I am tired of failing to figure out automation so I am going ot say, next step is manual sort. To be improved, maybe, a bit, some other time. 
 
 
 
