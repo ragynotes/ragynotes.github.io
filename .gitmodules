@@ -4,4 +4,4 @@
 	
 [submodule "themes/zen"]
 	path = themes/zen
-	url = git@github-pskyhx:ragynotes/hugo-theme-zen.git
+	url = ../hugo-theme-zen.git

@@ -30,12 +30,13 @@ content/JunkPages/*
 ### Hugo ###
 # Generated files by hugo
 # /public/
-# /resources/_gen/
+/resources/_gen/
 
 # Executable may be added to repository
 hugo.exe
 hugo.darwin
 hugo.linux
+.hugo_build.lock
 
 ### Linux ###
 *~
