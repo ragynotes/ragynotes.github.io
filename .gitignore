@@ -1,16 +1,25 @@
-.vscode
-*JunkPages*
+
+### Unwanted Filetypes ###
 .DS_Store
 *.idraw
 *.pdf
 
 node_modules/
+
+### Code ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 .vscode
+
+### Project specific ###
 content/JunkPages/*
-
-
-# Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux,hugo,git
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,hugo,git
+*JunkPages*
+themes/zen/*
+themes/zen
+*/themes/zen/*
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
