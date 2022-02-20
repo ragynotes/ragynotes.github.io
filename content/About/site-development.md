@@ -4,54 +4,14 @@ date: 2021-11-20T01:51:37-05:00
 lastmod: 2021-11-20T01:51:37-05:00
 ---
 
-Information for people involved maintaining this website.
 
-Consider this an incomplete work in progress. ([contrib/development information · Issue #10](https://github.com/ragynotes/ragynotes.github.io/issues/10))
 
-## how the site runs
 
-the actual site itself uses:
 
-- `hugo`
-  - base theme: [frjo/hugo-theme-zen: A fast and clean Hugo theme with css-grid and Hugo pipes support](https://github.com/frjo/hugo-theme-zen) 
-  - customizations tracked in forked repo: [ragynotes/hugo-theme-zen](https://github.com/ragynotes/hugo-theme-zen/)
-- `git`
-- github.com
-- github pages
-- github issues
 
-however other software is required to create the content:
 
-- zotero
-  - zotero extensions to be explicated later
-- `ocrmypdf`
-- ....
 
-## set up local development environment
 
-clone repo to local machine
-
-```sh
-git clone https://github.com/ragynotes/ragynotes.github.io.git
-```
-
-### differences between fresh clone and my local environment
-
-- currently this does not include submodule for the theme so site will not build correctly ([add zen theme as submodule · Issue #11](https://github.com/ragynotes/ragynotes.github.io/issues/11))
-- all `pdf`s have been added to `.gitignore` to prevent file size issues; this will have to be addressed properly later on ([large files (pdfs) · Issue #12](https://github.com/ragynotes/ragynotes.github.io/issues/12))
-- I have not yet completed information on how to mirror the zotero set up in such a way that anyone but myself can really do this ([create consistent workflow for moving items from zotero to hugo · Issue #8](https://github.com/ragynotes/ragynotes.github.io/issues/8))
-
-### hugo
-
-TBAdded: install, configure
-
-see [hugo documentation](https://gohugo.io/getting-started/usage/#draft-future-and-expired-content) for more options than the below
-
-set up a live reloading server to run locally
-
-```sh
-hugo serve --buildDrafts
-```
 
 
 
@@ -59,7 +19,7 @@ hugo serve --buildDrafts
 
 delete previous `docs/` to avoid problems, then build site to the docs folder (from where it is published)
 
-if you do not have `trash-cli` installed locally, change to `rm -r` or whatever you do to delete stuff 
+if you do not have `trash-cli` installed locally, change to `rm -r` or whatever you do to delete stuff 
 
 ```sh
 trash docs && hugo
@@ -79,7 +39,7 @@ then push back to github
 
 ### create page 
 
-- use `hugo new` for generic
+- use `hugo new` for generic
 
 ```bash
 hugo new About/site-development.md
@@ -110,9 +70,9 @@ this produced:
 ├── bib.bib
 └── files
     ├── 792
-    │   └── proceedingsofame4318amer_0860.jpg
+    │   └── proceedingsofame4318amer_0860.jpg
     ├── 793
-    │   └── proceedingsofame4318amer_0860-pg822.pdf
+    │   └── proceedingsofame4318amer_0860-pg822.pdf
     └── 794
         └── 1895americanpharmaceuticalassociation.meeting.txt
 ```
