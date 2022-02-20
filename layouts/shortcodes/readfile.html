@@ -1,0 +1,9 @@
+{{- with .Get 0 -}}
+  {{- with $.Page.Resources.GetMatch . -}}
+    {{ .Content }}
+  {{- else -}}
+    {{- errorf "Resource '%s' not found while rendering the '%s' shortcode. See %s" . $.Name $.Position -}}
+  {{- end -}}
+{{- else -}}
+  {{- errorf "The '%s' shortcode requires a single positional parameter. See %s" .Name .Position -}}
+{{- end -}}

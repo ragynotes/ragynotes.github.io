@@ -1,3 +1,7 @@
+[submodule "themes/axiom"]
+	path = themes/axiom
+	url = https://github.com/marketempower/axiom.git
+	
 [submodule "themes/zen"]
 	path = themes/zen
-	url = https://github.com/frjo/hugo-theme-zen.git
+	url = ../hugo-theme-zen.git
